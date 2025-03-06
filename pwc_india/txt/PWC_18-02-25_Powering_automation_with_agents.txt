@@ -1,0 +1,947 @@
+Powering automation  
+with agents
+Powering 
+automation  
+with agents
+This report will provide leaders, automation and AI 
+practitioners with a balanced view into the world of 
+APA, highlighting its applications and benefits and 
+offering practical guidance on aspects of governance.
+3   |    PwC  Powering automation with agents
+Throughout human history, there have 
+been various turning points that have 
+reshaped the world around us. Just 
+like the Industrial Revolution and the 
+Information Age permanently changed 
+the way the world works, we find 
+ourselves pivoting into an age that can 
+transform our future. This is the dawn 
+of a new era and a novel approach to 
+automation called agentic powered 
+automation (APA). This innovation 
+is all set to transform industries and 
+revolutionise the future of work as it will 
+lead to the deployment of intelligent 
+agents alongside the human workforce. 
+The transformative power of these 
+digital workers comes from their ability 
+to understand their environment and 
+make autonomous decisions, with 
+minimal human supervision. This 
+enables them to not only handle routine 
+rule-based tasks, but also learn, adapt 
+and make complex decisions easily. 
+At the same time, they have the ability 
+to offer human-like responses, thus 
+bringing greater efficiency to existing 
+processes. Given the current economic 
+and other significant challenges that 
+modern organisations are faced with, 
+there is a heightened need for efficiency 
+and sustainable growth. 
+Hence, these artificial intelligence 
+(AI) agents are emerging as catalysts 
+of change since they leverage large 
+language models (LLMs) that give 
+them the unique ability to gain 
+contextual understanding and offer 
+better solutions.
+The Government of India’s strategy 
+highlights the shift towards AI, with its 
+plan for developing its own graphics 
+processing unit (GPU), building a 
+domestic foundational AI model and 
+establishing a Centre of Excellence 
+in Artificial Intelligence, underscoring 
+its commitment to advancing AI 
+capabilities as a bedrock for Viksit 
+Bharat 2047. Furthermore, PwC’s 
+28th Annual Global CEO Survey: India 
+perspective reveals that a majority of 
+Indian CEOs are poised to integrate 
+AI into their technology platforms and 
+business processes, highlighting AI’s 
+critical role in business transformation 
+and increased profitability.1 
+Based on our extensive experience 
+of working with various global 
+organisations, we have put together this 
+white paper to help organisations who 
+wish to harness the power of APA.
+Vivek Prasad
+Markets Leader 
+PwC India
+Sumit Srivastav
+Partner and Leader, 
+Intelligent Automation 
+PwC India
+Foreword
+1	 https://www.pwc.in/assets/pdfs/publications/ceo-survey/2025/28th-annual-global-ceo-survey-india-perspective.pdf
+4   |    PwC  Powering automation with agents
+Introduction
+Defining agentic powered automation (APA)
+As AI-powered automation technologies continue 
+to evolve, we are seeing a paradigm shift from 
+mere task automation to innovative systems. The 
+intelligent automation landscape today consists of 
+the robotic process automation (RPA), intelligent 
+document processing (IDP), conversational AI and 
+chatbots, analytics, and data integration through AI. 
+With these capabilities, organisations have been able 
+to automate complex workflows with human in the 
+loop for decision making. Intelligent automation has 
+unlocked productivity and efficiency at scale with 
+next-gen integrated solutions.
+At the same time, the advent of generative AI (GenAI) 
+and large language models (LLMs) has enabled 
+the democratisation of AI capabilities. With its 
+enhanced decision-making capabilities, contextual 
+understanding, localised data training and ability to 
+transform customer experience, GenAI has been 
+identified as a game changer for driving innovation 
+in organisations. 
+The transformative potential of GenAI, particularly 
+in enhancing productivity, streamlining business 
+processes, and reshaping value chains across 
+industries, is reflected through increased 
+organisational spending on GenAI.2 
+APA marries the capabilities of intelligent automation 
+and the GenAI-powered agents. Within this 
+framework, the agents act as the brain of the 
+system, understanding user requests and planning 
+a set of actions to fulfil the request. Tools such as 
+intelligent automation, APIs and automation scripts 
+act as the hands, executing the actions through an 
+orchestration layer. The APA framework is able to 
+leverage multiple goal-oriented agents through multi-
+agent orchestration, unlocking complex workflows. 
+The agents also validate the output at each stage 
+and have the ability to reflect on the output, learn 
+from feedback and heal. By leveraging GenAI 
+agents and automation, APA can deliver end-to-
+end, context-aware, scalable automation which is 
+adaptable to dynamic user needs.
+Source: PwC analysis
+2	 https://www.weforum.org/stories/2024/01/genai-will-be-worth-trillions-heres-a-roadmap-for-harnessing-it/
+APA can…
+Understand goals
+Plan actions
+Shortlist tools
+Create workflows
+Take decisions
+Execute actions
+Collaborate
+User interaction
+Planning and 
+action
+Reflection and 
+self-healing
+• Communicate through chat, audio and video for 
+versatile user engagement.
+• Perform sentiment and context analysis to provide 
+empathetic and context-aware responses.
+• Tailor interactions to individual user preferences.
+• Understand the goal and plan the set of  
+actions to achieve it.
+• Map the skills/tools required to complete  
+these actions.
+• Orchestrate and execute individual actions  
+using skills/tools.
+• Fulfil complex goals through multi-agent orchestration.
+• Review the output against the set goals.
+• Refine actions based on user feedback on the 
+generated output.
+• Review workflows and find areas of improvement.
+Lever
+Overview
+5   |    PwC  Powering automation with agents
+Key features of Agents
+The agents, differentiated by their 
+advanced human-like reasoning and 
+interaction capabilities, are transforming 
+the retail, finance, manufacturing, 
+healthcare, transportation and energy 
+sectors, among others.3 Their key 
+standout features are as follows: 
+Source: PwC analysis
+3	 https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-
+playbook.pdf
+Autonomy
+Execute operations independently by leveraging 
+programming, learning ability and user inputs to make 
+informed decisions and carry out tasks without any 
+human or external intervention.
+Goal-oriented behaviour
+Achieve outcomes and specific objectives by optimisng 
+the actions and decision-making processes involved 
+for task execution.
+Environment interaction
+Ensure tasks are executed in alignment with 
+goals and environment conditions by interacting 
+with surroundings, track changes in real time and 
+adapt accordingly.
+Learning capability
+Bring efficiency and accuracy in responses by 
+utilising intelligence, self-reflection and self-
+improvement capabilities.
+Workflow orchestration and execution
+Centrally orchestrate the actions required to achieve 
+goals. These actions may utilise different skills and tools 
+to execute a workflow.
+Multi-agent and system conversation
+Coordinate frictionlessly between multiple agents 
+through integration with external tools such as email, 
+search engine, code and script executors.
+Agentic automation represents a significant breakthrough 
+in the space of digitisation. Powered by AI and with 
+human-like cognitive abilities, autonomous agents are 
+designed to act independently while learning from their 
+actions and improving decision making over time, enabling 
+end-to-end value chains and processes that to continue 
+to be reimagined. Hence, as organisations deploy agents 
+work alongside their human workforce and disrupt value 
+chains, we are looking at an era that can revolutionise 
+industries and forever change the way humans interact 
+with technology.
+Mohib Yousufani
+Partner, Global Leader 
+Transformation and Digital
+Strategy&
+PwC US
+6   |    PwC  Powering automation with agents
+Augmenting human capabilities with agents
+Traditionally, repetitive processes were passed on from humans to bots for automation, making it a human-led, 
+bot-driven process. But the emergence of LLMs and large multimodal models (LMMs) has paved the way for AI 
+agents with a deeper understanding of context, substantially improving the effectiveness of performing natural 
+language processing tasks. AI models have thus enabled better engagement with natural language, leading to a 
+state where AI agents will work alongside humans given that they possess similar capabilities.
+While APA aims to reduce the need for human intervention in routine tasks, the future will emphasise a symbiotic 
+relationship between humans and AI. This collaboration will leverage the strengths of both, with AI handling 
+data-intensive, repetitive tasks and humans focusing on strategic, creative, and interpersonal activities. AI will 
+augment human capabilities, providing insights and recommendations that aid decision making. This partnership 
+will not only enhance productivity but also ensure that automation serves to amplify human potential rather 
+than replace it.
+People, agents and bots in the APA landscape
+Source: PwC analysis
+Agents
+• 
+Independent workers 
+powered by GenAI to reduce 
+dependency on humans
+• 
+Goal-oriented behaviour 
+and context aware decision 
+making
+• 
+Most suited for tasks which 
+involve frequent environment 
+changes, thus requiring 
+adaptability
+• 
+Utilise the tools and skills 
+at their disposal through 
+context and action to 
+accomplish goals
+• 
+Agentic guardrails and 
+orchestration will govern 
+the agents’ autonomy and 
+access to systems and 
+environment.
+Automation/bots
+• 
+Pre-defined actions for 
+rule-based and predictable 
+processes
+• 
+Complete routine tasks with 
+high reliability and efficiency
+• 
+Triggered by agents 
+for completion of the 
+individual actions
+• 
+	Act as hands of the agent 
+to interact with enterprise 
+applications
+• 
+Plug-and-play capabilities to 
+operate with multiple agents
+People
+• 
+Make faster and more 
+informed decisions by 
+working alongside agents
+• 
+Agents take on repetitive, 
+mundane tasks to allow 
+humans to focus on value-
+add activities
+• 
+Exception handling for cases 
+which cannot be resolved 
+by agents
+• 
+Provide feedback on the 
+outputs produced by agents 
+and enable them to learn
+• 
+Carry out a supervisory role, 
+being decision makers and 
+organisational leaders
+7   |    PwC  Powering automation with agents
+Let’s have a quick look at the skills of these agents:
+While humans posses creativity, emotional intelligence, contextual and situational adaptability, empathy and 
+ethical reasoning, social and cultural intuition, agentic AI brings high-speed execution, scalability, accuracy in 
+repetitive tasks, 24/7 availability without fatigue, and cost efficiency@scale.
+Brain
+Utilise experience, emotional 
+intelligence and ethical judgment 
+for nuanced decision making
+Eyes and ears
+Visual cues, body language, 
+interpret emotions and respond 
+to environmental cues
+Speech
+Empathetic communication 
+through spoken and written 
+language for relationship building
+Heart
+Moral reasoning and empathy 
+to make decisions, considering 
+individual circumstances and 
+ethical implications
+Hands
+Physically perform tasks 
+requiring manual intervention, 
+adaptability and ability to deal 
+with unforeseen challenges
+Cognitive processing and 
+decision making
+Leverage GenAI to analyse 
+data, identify patterns, gain 
+insights and solve problems
+Information perception and analysis
+Use technologies like vision to extract 
+and analyse information from text, 
+docs, speech, image and videos
+Interaction and Engagement
+Use multi-nodal models for interaction 
+with employees, instant response to 
+queries and information dissemination
+Ethical judgement and empathy
+Operate within predefined ethical 
+guidelines and compliance frameworks
+Task execution and action skills
+Employ RPA, workflows, automation 
+scripts, APIs, etc., to execute tasks 
+swiftly and accurately
+As the adoption of AI continues to progress rapidly and the future is headed 
+towards a blended workforce, organisations must think about integrating 
+agents as a fundamental part of their workforce strategy. Those who 
+transform their operating model to manage a blended workforce are better 
+positioned to capitalise on the potential of APA.
+Shaun Ryan
+Partner, Advisory, E2E Process Transformation Leader, PwC Australia
+8   |    PwC  Powering automation with agents
+Key components of APA: Enterprise ecosystem and agentic 
+workflow
+APA represents a major leap towards greater autonomy and intelligence. Agents can foresee problems and 
+take preventive measures and proactive actions without a need for human intervention. Agents also have self-
+monitoring capabilities, ensuring continuous process improvement. Advanced agents can analyse their own 
+performance, learn and improve over time. In this new era of APA, organisations can progressively include 
+innovation, efficiency and productivity at each step of a business process, with the goal of achieving autonomy 
+in any workflow execution.
+The functionalities of agents primarily consist of the following key components:
+Orchestration
+Orchestration is at the core of any agent workflow 
+where multiple agents contribute to a series 
+of actions and tasks that need to be stitched 
+together. This begins with understanding the goal 
+or objective of the workflow, followed by planning 
+of all tasks and actions that need to be performed 
+to achieve it. These tasks are then delegated 
+amongst multiple agents as each of them will 
+preserve a context of the task to be carried out. 
+This is approach is similar to having specialised 
+skills within a workstream. 
+Agent execution 
+The sequence of steps in the plan are executed 
+step by step, in a hierarchical manner, parallelly 
+or a combination of both. There may also be 
+some handshakes between agents that are 
+interdependent on the output from the previous 
+state. An important step during execution by the 
+agents is human feedback or human in the loop 
+to provide inputs. The execution can happen on a 
+server or in a serverless application.
+Workflow construction 
+Workflow steps are constructed against the plan 
+which is prepared as explained in the previous 
+step. During this activity, pre-built tools such as 
+API integration, RPA bots, vision capabilities and 
+browser search are leveraged to frame actions, 
+and this may involve specialised agents (skills). 
+In case these agents do not exist, the intelligence 
+from LLMs may enable the agents to generate 
+them at runtime, be it for writing code, analysing 
+data from documents, creating compliance 
+reports, providing a recommendation, etc.
+Reflection and healing 
+Agents in APA can exhibit self-learning and 
+self-healing capabilities. These agents can work 
+together to autonomously set goals, explore 
+environments and refine actions based on 
+feedback. They continuously monitor performance, 
+using feedback loops and iterative mechanisms to 
+resolve issues independently and adapt to process 
+changes. By reviewing their workflows and finding 
+areas for improvement, these agents get better 
+and more efficient over time.
+Successful implementation of agentic AI depends on combining advanced 
+technologies with human creativity and judgement. Effective data management 
+is key, as it empowers AI to reach its full potential. Achieving true success relies 
+on strategically blending these elements to transform business models and drive 
+sustainable growth.
+Mark Allderman
+Partner, PwC South Africa
+Source: PwC analysis
+9   |    PwC  Powering automation with agents
+APA in action
+Source: PwC analysis
+Data sources,
+systems and
+knowledge 
+base
+User 
+interaction
+and 
+feedback
+Agent
+orchestration 
+Understanding 
+and planning, 
+task breakdown 
+and delegation
+Skill construction  
+Skill
+execution  
+Response/
+output validation
+Reflection and
+healing 
+Memory
++ 
+knowledge base
+Else
+Expected
+output? 
+Result
+Skill exists
+Skill doesn’t exist
+Workflow
+4
+3
+2
+1
+Real-world use cases
+APA has unlocked advanced capabilities for 
+achieving end-to-end automation and driving 
+transformation across business functions. By 
+leveraging GenAI, APA can deliver enhanced 
+decision making and business insights, drive 
+efficiency, and transform user experience. 
+Agents are driving productivity and efficiency 
+gains across functions, right from streamlining 
+repetitive tasks in finance or supply chain 
+operations to delivering personalised experiences 
+in sales and marketing. The ability of agents to 
+adapt, learn and manage complex workflows 
+makes them critical for any business to solve 
+modern business problems through innovation. 
+10   |    PwC  Powering automation with agents
+Sample use cases across business functions
+Source: PwC analysis
+AI agents are set to transform industry landscapes faster than ever. With 
+agentic automation, we will see significant advancements in quality, accuracy 
+and productivity across sectors, especially as AI agents will begin to play a 
+crucial role in filling the gaps in areas where human expertise is either lacking 
+or in high demand.
+Katrin Hamann 
+Partner, PwC Germany 
+Finance and accounting
+Invoice processing agent
+• Extract and validate data from invoices, and 
+then post it automatically into ERP systems.
+• Handle errors through workflows, ensuring 
+speed and accuracy in invoice processing.
+Accounts payable agent
+• Track unpaid invoices and send automated 
+reminders to vendors. Escalate overdue payments 
+to respective teams.
+• Generate comprehensive ageing reports, improving 
+visibility and timely follow-ups by the agent.
+Expense reconciliation agent
+• Check employee expenses against company 
+policies and flag any discrepancies for review.
+• Automate approval workflows and prepare detailed 
+reconciliation reports for review and action.
+Cash flow management agent
+• Track incoming and outgoing cash flows to ensure 
+sufficient liquidity for business operations and 
+thresholds.
+• Forecast cash flow trends and provide actionable 
+insights to aid financial planning and budgeting.
+Supply chain
+Demand forecasting agent
+• Collect and analyse historical sales, customer 
+trends, seasonality, etc., to forecast demand.
+• Share actionable insights through continuous 
+monitoring and refining predictions to improve 
+accuracy.
+Inventory visibility agent
+• Provide real-time visibility of inventory across 
+warehouses and in transit through interactive 
+conversational agent.
+• Provide critical inventory alerts and interactive 
+dashboards view for stockouts or excess inventory.
+Supplier onboarding agent
+• Automate the collection and verification of 
+supplier information, including contracts and legal 
+documents.
+• Streamline the onboarding process by integrating 
+suppliers into master data/procurement systems 
+efficiently.
+Returns processing agent
+• Manage returns process and addition back to 
+inventory, flag any issues and track resolutions.
+• Automate quality checks alerts, refund approvals 
+and restocking processes to enhance efficiency.
+11   |    PwC  Powering automation with agents
+Source: PwC analysis
+Sales and marketing
+Sales development agent
+• Fetch potential leads from databases and 
+enrich leads by analysing company size and 
+valid contact details.
+• Send personalised automated outreach 
+communications and create follow-up tasks in 
+CRM for non-responding leads.
+Brand monitoring agent
+• Suggest keywords for monitoring (brand, product) 
+and gather mentions across selected platforms.
+• Automate triggers for cases with keywords ‘scam’ 
+or ‘fraud’ and visual summaries of sentiment 
+trends, mentions and issues.
+SEO optimisation agent
+• Analyse website content for keywords and 
+performance. Recommend improvements to meta 
+tags, backlinks and structure.
+• Track rankings and provide reports on SEO 
+performance to improve search engine visibility and 
+drive organic traffic.
+Customer feedback agent
+• Gather data from surveys, reviews and social media 
+mentions. Perform sentiment analysis to gauge 
+customer intent.
+• Provide pointed insights for improving products and 
+services to enhance customer retention and brand 
+reputation.
+IT department
+Service desk agent
+• Automate sentiment analysis and service ticket 
+creation for user queries with appropriate 
+priority levels.
+• Generate query responses for FAQs, trigger 
+automated workflows or loop human in for 
+unresolved requests.
+System monitoring agent
+• Continuously monitor IT infrastructure (servers, 
+networks, applications) for anomalies, 
+performance issues and downtime. 
+• Alert the team to take corrective actions 
+and suggest proactive actions and disaster 
+recovery plans.
+Asset management agent
+• Track IT assets throughout their lifecycle, managing 
+inventory, allocation and compliance with 
+organisational policies. 
+• Provide maintenance schedules for IT assets and 
+application licences.
+Disaster recovery agent
+• Monitor systems for potential disasters, trigger 
+recovery protocols and minimise impact by 
+automating failover processes.
+• Regularly test and update disaster recovery plans to 
+address risks and ensure readiness.
+12   |    PwC  Powering automation with agents
+Human resources
+Talent search agent 
+• Help recruiters find the best resumes by 
+automating job description (JD) creation 
+process and smart sourcing from internal 
+portals and external websites.
+• Rank candidates by relevance, considering 
+skills, experience and location.
+Employee experience agent
+• Act as a virtual HR assistant to address employee 
+queries on policies, benefits, leave balances and 
+other HR-related processes.
+• Send reminders for upcoming deadlines (e.g. 
+benefits enrolment, training sessions) to enhance 
+employee engagement.
+Background verification agent
+• Collect and validate documents such as ID proofs, 
+educational certificates and employment history.
+• Initiate background checks, send notifications and 
+follow up with BGV team.
+Full and final settlement agent
+• Automate final clearance, including salary, bonuses, 
+leave encashments, deductions, assets and IT 
+system deactivation.
+• Administer exit interview questionnaire, collect 
+feedback and perform sentiment analysis.
+Source: PwC analysis
+Talent search agent
+Identifying the right candidate for a role is critical to successful position fulfilment. The hiring process starts from 
+the creation of an accurate, organisation-specific and well-defined JD for the given role. Currently, the talent 
+search process relies heavily on manual efforts, including creating JDs, sourcing and shortlisting candidates by 
+screening resumes, and scheduling interviews. Key challenges during this process include: 
+APA can transform this process by leveraging agents 
+and automation and orchestration capabilities.
+Action1:
+Action2:
+Action3:
+Action4:
+JD creation – using pre-built templates, JD creator 
+agent to draft JDs based on requisition details, role and 
+required experience
+Candidate sourcing – RPA and API-based tools to 
+post job openings on relevant portals
+Resume screening and comparative analysis –
+GenAI-based intelligence matching to identify most 
+relevant profiles and perform comparative analysis
+End-to-end Automation – by orchestrating the entire 
+process from JD creation to candidate shortlisting
+High manual workload 
+– creating JDs, sourcing 
+candidate profiles and 
+screening resumes 
+requires extensive efforts
+Inefficiency in matching 
+– only keyword search 
+may result in irrelevant 
+candidates being 
+sourced
+Subjectivity in 
+decision making 
+– may result 
+in inconsistent 
+evaluations
+Scalability challenge – 
+for a mass recruitment 
+drive, it can become 
+very laborious to source 
+correct profiles
+13   |    PwC  Powering automation with agents
+The talent search agent accelerates the hiring process by improving speed, accuracy and scalability. This agent 
+reduces the time-to-hire, enhancing recruiter productivity and ensuring consistent decision making without 
+recruiter bias. Through automation, the agent allows recruiters to focus on strategic initiatives such as candidate 
+engagement, resulting in an efficient talent acquisition process.
+As-is talent search flow
+Agentic talent search workflow
+Hiring requisition to JD creation:
+Collaborates with the hiring 
+manager to define the role, 
+responsibilities and qualifications, 
+then drafts a JD. 
+The JD is refined for clarity and 
+alignment with organisational 
+standards before approval.
+Smart sourcing:
+Uses tools like an application 
+tracking system, internal job 
+portals, and external job platforms 
+to source potential candidates. 
+Optimises search criteria using 
+keywords and filters to identify the 
+best-fit resumes quickly.
+Screening and shortlisting:
+Recruiter reviews the 
+resumes, matching them 
+against the JD, and 
+shortlists candidates based 
+on qualifications and 
+experience for the next steps 
+in the hiring process.
+Gen-AI powered 
+JD creator skill/agent 
+Business user sends 
+requisition request to HR  
+Candidates 
+apply to the jobs 
+Create first cut JD
+Agent sources
+relevant profiles 
+Agent posts the 
+opening on external 
+job platforms 
+IDP + NLP-
+based skill agent 
+Find best-fit
+resumes as
+per JD
+RPA + API-based 
+skill agent
+Perform comparative
+analysis of candidates
+and recommend best fit   
+8
+Business shares 
+feedback on recommended
+candidates back to agent
+Recruiter
+Recruiter
+Interview
+scheduler agent
+JD creation process
+Candidate profile sourcing
+Comparative analysis of profiles
+Interview scheduling and feedback
+Suggest modifications
+/approve JD 
+Agent 
+orchestration
+Bot sends shortlisted 
+resumes to business   
+10
+9
+11
+1
+2
+3
+4
+5
+6
+7
+14   |    PwC  Powering automation with agents
+Traditional HR model  
+(human workforce)
+Future HR model  
+(human workforce + agents)
+Reporting,
+core business
+Strategy
+and insight   
+Transaction processing
+Reporting, core
+business 
+Strategy and insight 
+Transactions
+processing
+agents 
+Reporting
+agents
+Insights
+   agents 
+Transaction
+   processing 
+HR roles of today vs tomorrow
+Screening and recruitment
+• Screen and identify talent.
+• Schedule interviews and work on onboarding 
+selected candidates.
+Employee experience
+• Plan employee engagement and team-building 
+activities.
+• Gather insights through employee surveys.
+Employee performance management
+• Define performance goals and evaluate  
+employees against them.
+• Define feedback structure. 
+HR administration and compliance
+• Ensure compliance with local rules and laws.
+• Establish processes for payroll and benefits 
+management
+Learning and development
+• Plan employee training activities.
+• Chart development plans across  
+organisational levels.
+Automated screening and onboarding
+• Perform automated screening and shortlisting of 
+candidates.
+• Schedule and conduct initial assessments.
+Personalised employee engagement
+• Provide personalised 24/7 employee support and 
+handle queries.
+Effective performance management
+• Track KPIs in real time.
+• Automate feedback loop and goal-setting 
+mechanism.
+Automated HR administration and compliance
+• Automate monitoring and reporting.
+• Provide self-service payroll and benefits 
+management portal.
+Personalised learning and development
+• Personalise training recommendations.
+• Conduct interactive training sessions.
+Human roles in HR today 
+Agent capabilities in HR tomorrow
+15   |    PwC  Powering automation with agents
+Governance in the agentic AI landscape
+As more organisations turn to APA to enhance efficiency and drive innovation, it is crucial to address the 
+associated risks and ethical considerations, to ensure responsible implementation and sustainable success. 
+PwC emphasises that responsible AI practices are key to mitigating risks and building trust among stakeholders.4 
+This means setting up robust governance frameworks, ensuring transparency and fairness, and aligning with 
+regulatory requirements to navigate the complexities of adopting APA. 
+Here are the key risk and ethical considerations to keep in mind when implementing APA: 
+A robust governance 
+framework 
+enables ethical AI 
+implementation
+Establishing a robust 
+governance framework for 
+ethical AI implementation 
+requires defining clear 
+accountability and developing 
+comprehensive ethical 
+guidelines. Measures to 
+safeguard data privacy include 
+encryption, relevant access 
+permissions and frequent 
+inspection. 
+Transparency and 
+explainability are 
+essential for building 
+trust in AI systems 
+Ensuring algorithm transparency 
+involves maintaining 
+comprehensive documentation 
+of APA models and detailing 
+the data sources, training 
+processes, and decision-making 
+criteria. This is essential for 
+transparency and auditing 
+purposes.
+In the race to the future, organisations need to find a balance between innovation 
+and compliance. While AI agents can transform the way we work, they can also 
+pose novel risks that humans may be unaware of. Hence, as we prepare for a 
+possible world where AI agents will become a part of the larger workforce, we 
+must tread with caution and consider not only the technical limitations but also 
+the ethical concerns and wider societal impact often associated with the level of 
+autonomy with which the AI agents are being designed.
+Sudipta Ghosh 
+Data and Analytics Leader, PwC India 
+4&5   https://www.pwc.in/assets/pdfs/genai-strategy-from-ideation-to-adoption.pdf
+Regulatory compliance 
+and adherence to 
+industry standards can 
+mitigate legal risks 
+Conducting regular compliance 
+audits is essential to ensure 
+that APA systems adhere to 
+relevant data protection laws, 
+industry-specific regulations 
+and ethical guidelines, thereby 
+mitigating legal risks.
+For more information, refer to the risk, regulation and sustainability section of PwC’s thought leadership on 
+‘GenAI strategy: From ideation to adoption’.5
+16   |    PwC  Powering automation with agents
+Looking ahead
+There is a definitive shift from human-led, manual 
+processes to AI-powered systems where autonomous 
+agents are handling tasks alongside their human 
+counterparts with greater speed and precision. This 
+transformation is not only expected to deliver cost benefits 
+for businesses but also unlock newer revenue channels and 
+growth opportunities that will allow businesses to deliver 
+services faster and at a much larger scale.
+However, as agents become increasingly autonomous in 
+their decision making and actions, it can lead to newer risks 
+and challenges that businesses will have to plan for. For 
+instance, HR as a function will have to evolve as it goes on 
+to manage a workforce that includes humans and agents. It 
+will require a completely different set of skills to manage a 
+blended workforce while devising methods to source, build 
+and measure human talent. As agents autonomously carry 
+out all routine and repetitive work, organisations will need 
+to prepare humans to assume high-skill roles.
+Additionally, since agents can be partly/fully autonomous, 
+they require human supervision. Organisations will have to 
+balance the need to innovate, the cost of innovation and 
+the expected ROI as they deploy these agents. They will 
+need to create both quantitative and qualitative methods 
+to measure human-agent team performance. This will 
+also need to be followed up with further development of 
+governance models to manage organisational and societal 
+risks. Hence, to enable continuous innovation, leaders need 
+to develop a well-rounded responsible AI framework.
+17   |    PwC  Powering automation with agents
+18   |    PwC  Powering automation with agents
+How PwC can help
+There is no doubt that AI is becoming ingrained in the way 
+businesses operate, compete and sustain themselves 
+for the future. Our technology solutions are designed to 
+speed up your transformation, delivering value at scale. 
+We will help you redefine the future, reimagine your current 
+business model and build agentic automation solutions at 
+scale. Our team of specialists can help you innovate faster, 
+helping you can reduce your time to market and deliver 
+enhanced customer experiences. Finally, we do all this 
+responsibly while helping you manage possible risks.
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms 
+in 151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory 
+and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal 
+entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+Mehvash Khan
+Tarun Singaravelan
+Gopika E Nair
+Piyush Bule
+Lokeshwaran Maheswaran
+Contributors
+Sumit Srivastav
+Partner & Leader, Intelligent Automation
+PwC India
+sumit.srivastav@pwc.com
+Mahesh Parab
+Partner
+PwC India
+mahesh.parab@pwc.com
+Ritesh Jain
+Partner
+PwC India
+ritesh.k.jain@pwc.com
+Sagar Kothe
+Executive Director
+PwC India
+sagar.kothe@pwc.com
+Hariprasad Gajapathy
+Executive Director
+PwC India
+hariprasad.gajapathy@pwc.com
+Contact us
+Shardul Raut
+Jasnain Singh
+Akhilesh Shinde
+Disha Thadani
+Hariprasad Gajapathy
+Mahesh Parab
+Sumit Srivastav
+Deepak Kumar
+Arun Singh
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or CIN : 
+U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate 
+legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any 
+opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this 
+publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based 
+on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the 
+information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. 
+HS/February 2025 - M&C

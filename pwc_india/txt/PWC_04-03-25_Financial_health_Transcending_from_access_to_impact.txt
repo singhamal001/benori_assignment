@@ -1,0 +1,803 @@
+TM
+March 2025
+Financial health: 
+Transcending from 
+access to impact
+Foreword by ASSOCHAM
+In the recent years, India has witnessed significant change in financial inclusion, due to the introduction and 
+widespread adoption of initiatives such as Pradhan Mantri Jan-Dhan Yojana (PMJDY) and Jan-Dhan, Aadhaar and 
+Mobile (JAM) Trinity for increased access to formal banking services, Aadhaar for biometric identification and digital 
+direct benefit transfers. It is important to note that financial inclusivity should not only focus on poverty reduction 
+but also empower individuals to stabilise their future and effectively prepare for any financial risks. The end objective 
+of financial inclusion should always be to drive sustainable prosperity and economic growth.
+A large number of retail investors in India are increasingly diversifying into equities, mutual funds and alternative 
+assets such as real estate investment trusts (REITs), gold exchange traded funds (ETFs) and alternate investment 
+funds (AIFs). This evolution of India’s capital market has resulted in enhanced market liquidity and helped bring 
+down the reliance of retail investors on traditional savings instruments such as gold and real estate.
+New-age FinTech companies in India have also been playing a crucial role in expanding the access to financial 
+services through digital wallets and other innovative payment solutions. By providing such customised products for 
+certain target groups, these companies are helping in closing some key gaps in our financial ecosystem.
+The Government’s role in driving access to financial services cannot be discounted. In addition to the current 
+initiatives, facilitating the best-fit funding for small businesses and driving impactful financial inclusion schemes 
+would drive further economic welfare.
+With this background, ASSOCHAM is proud to host the 3rd National Conclave on Financial Inclusion with the theme 
+‘Reforming today for a fairer tomorrow’. In partnership with PwC, we have drafted a detailed report outlining India’s 
+financial inclusion journey and how we see the future unfolding.
+We hope this report would be of value to regulators, market participants, researchers and policymakers in their 
+continuous endeavour to advance financial inclusion and financial health in India. I extend my sincere appreciation 
+to our knowledge partner for their invaluable contributions and wish all participants a successful and enriching 
+conclave.
+Manish Singhal
+Secretary General 
+ASSOCHAM
+2    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+Achieving financial inclusion needs to be seen as much more than mere access to formal banking services. 
+The focus now needs to be on financial health. This report highlights the evolution of financial inclusion in India 
+through various impactful initiatives and addressing the lingering challenges such as income volatility and poor risk 
+management.
+Financial health is the intended outcome and impact of financial inclusion. Income stability, debt management 
+and savings are pertinent factors to be considered in order to evaluate financial health. Access to formal financial 
+services is often seen as an indicator of financial inclusion but it is important to understand the relevance of how 
+this access is being used and creating an impact.
+The Financial Health Survey, co-developed by PwC and Dvara Research Foundation, is a diagnostic tool intended to 
+capture multiple metrics across access, usage and impact to help generate valuable insights for financial institutions 
+to drive financial wellbeing among individuals. This tool considers socio-demographic features and financial 
+practices in order to offer a holistic view of financial health. It is built with the key understanding that financial 
+health depends not only on inclusion but also on occupation, wealth and financial awareness. This tool will help 
+financial service providers to better understand their customer segments, in terms of their unique requirements and 
+expectations.
+In this paper, we focus on transitioning from transactional to personalised, data-driven solutions using behavioural 
+insights and analytics, especially for those who are new to financial services. It also covers India’s evolving capital 
+market, noting a shift from traditional savings to higher-yielding instruments driven by consumer awareness 
+and preference for market-linked investments. This approach aims to improve customer retention, enhance 
+portfolio resilience and support sustainable growth, by translating financial inclusion into tangible financial health 
+improvements.
+We hope you find this report to be insightful.
+Foreword by PwC
+Vivek Patil
+Partner, Financial Services 
+PwC India
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   3
+Foreword by Dvara Research
+India finds itself at an interesting crossroads in its financial inclusion journey. On the one hand, access to basic bank 
+accounts and credit has rapidly expanded in the last decade, but on the other hand, this access has not necessarily 
+translated into suitable use and positive financial health for Indian households – particularly low-income households 
+and enterprises. This presents a relevant opportunity for us at Dvara Research, where we, in collaboration with PwC, 
+hope to engage with financial service providers (FSPs) on a long-term basis. The intent of our work is to help FSPs 
+think about the impact measurement of their work and create actionable insights that can improve the suitability of 
+products and services for those typically underserved. 
+Dvara Research is an independent, non-partisan, not-for-profit policy research institution based in India with a 
+mission to ensure that every low-income household and every small enterprise has complete access to suitable 
+financial services and social security through a range of channels that enable them to use these services securely 
+and confidently. This has been our mission for 15 years now, and during this time, we have built a strong and 
+credible reputation in research and advocacy positions relating to financial inclusion and social protection in India 
+from policy, regulatory and practitioner perspectives that are anchored to its mission. Dvara Research considers 
+itself to be the voice of low-income households, and we envision a world in which the financial health of low-income 
+households and enterprises (our primary stakeholders) is being accorded the highest priority by policymakers 
+and practitioners alike. It is in line with this vision that we have embarked on a collaboration with PwC to shift the 
+narrative from financial inclusion to financial health as a goal for practitioners and policymakers.
+The Financial Health Survey, co-developed by Dvara Research and PwC, is a measurement method for assessing 
+the extent and impact of financial inclusion. The survey is a comprehensive diagnostic toolkit that helps in 
+understanding how financial access and suitable use of a suite of products and services can lead to improved 
+financial health. The survey is intended to be used by policymakers but especially by FSPs, who are much closer 
+to serving the financial needs of low-income households and enterprises. We imagine the tool to be capable of (i) 
+measuring how changes in the adoption and use of formal finance are changing the levels of financial health for 
+households; (ii) measuring the consequence of a policy intervention or a financial sector innovation on financial 
+inclusion outcomes; and (iii) identifying factors that may cause the intervention or innovation to have more or less 
+consequence for some households as compared to others. 
+Indradeep Ghosh
+Executive Director,  
+Dvara Research
+4    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+Table of contents
+1.	
+Building a resilient future: The need for a financial health framework	
+6
+2.	
+Understanding financial health	
+7
+3.	
+Measuring and understanding financial inclusion	
+9
+4.	
+Financial Health Survey – a diagnostic tool	
+10
+5.	
+Beyond metrics – calibrating for impact	
+12
+6.	
+Value proposition to financial service providers	
+14
+7.	
+Advanced modules to enhance the Financial Health Survey	
+16
+8.	
+Strategic importance of the Financial Health Survey	
+18
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   5
+1. Building a resilient future: 
+The need for a financial health 
+framework
+Almost 65% of India’s population lives in its rural areas.1 India’s financial sector has seen unprecedented expansion, 
+driven by policy initiatives, digital infrastructure and regulatory reforms. Initiatives like Pradhan Mantri Jan-Dhan 
+Yojana (PMJDY), Aadhaar-linked banking, Unified Payments Interface (UPI) and digital lending have significantly 
+improved access to financial services, particularly for underserved segments.
+Evolution of financial inclusion in India
+However, mere access does not ensure financial health and stability. Many consumers, despite being part of the 
+formal system, face income volatility, low savings and inadequate risk management, limiting the true impact of 
+financial inclusion. To address this, a financial health framework is essential in order to move beyond access metrics 
+to assess how individuals leverage financial services for long-term financial wellbeing. Financial institutions must 
+shift from transactional engagement to personalised, data-driven solutions, using behavioural insights, AI-driven 
+analytics and predictive modelling. This will enhance customer retention, improve portfolio resilience and drive 
+sustainable growth.
+A holistic approach – integrating technology, product innovation, and cross-sector collaboration – is key to 
+ensuring financial inclusion efforts translate into tangible financial health improvements. Institutions that embrace 
+this shift will be better positioned to capture market opportunities, mitigate risks and contribute to economic 
+stability.
+Sources: UIDAI; Press Information Bureau; RBI; Women’s World Banking; DFS (MoF); PwC
+Launch of 
+Aadhaar
+Within three 
+years of launch, 
+510 million 
+Aadhaar IDs 
+were issued.
+Roll out of 
+PMJDY
+Within one year 
+of launch, 180 
+million Indians 
+(15% of the 
+population) 
+opened 
+accounts.
+Demonetisation
+Launch of UPI
+Surge in use of 
+digital payments
+UPI-enabled 
+banks and non-
+banks to operate 
+with each other
+Digital lending
+Share of NBFCs 
+in digital lending: 
+~6.3%
+About 80% of the 
+Indian population 
+had an account 
+with financial 
+institutions.
+Leapfrogging 
+of financial 
+development
+Gap in financial 
+access between 
+rich and poor 
+narrowed
+Gender gap in 
+financial access 
+improved. 55.4% 
+of PMJDY 
+account are of 
+women.
+Release of 
+National 
+Strategy for 
+Financial 
+Inclusion
+Use of 
+technology and 
+multi-stakeholder 
+approach 
+for achieving 
+financial 
+inclusion
+Issuance of 
+differentiated 
+banking licences 
+– small finance 
+banks and 
+payment banks
+1	
+https://pib.gov.in/PressReleasePage.aspx?PRID=1894901#:~:text=The%20Survey%20notes%20that%2065,on%20rural%20develop­
+ment%20is%20imperative
+2010
+2014
+2016
+2017
+2020
+2021-22
+6    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+2. Understanding financial health
+The United Nations Secretary-General’s Special Advocate for Inclusive Finance Development (UNSGA) defines 
+financial wellbeing as the extent to which a person or family can smoothly manage their current financial obligations 
+and have confidence in their financial future.2 Financial health is increasingly being recognised as a litmus test for 
+the impact of financial inclusion. It is often construed as a financial state where there is enough financial security 
+to meet current needs, plan for the future and handle financial shocks with confidence. A variety of factors – such 
+as income predictability, debt management, savings and investments, credit score, ability to handle unexpected 
+expenses, and proclivity for setting and planning for financial goals – contribute to a person’s financial health.
+Contributing factors for financial health
+However, these characteristics, and by extension, the financial health of a person, are contingent upon many other 
+aspects of life, like the nature of occupation, initial endowment of wealth, levels of financial inclusion, financial 
+awareness and acumen. Simply put, the observed financial health of a salaried employee will vary, on average, 
+from that of a smallholder farmer with seasonal income. A salaried employee from a poor household supporting 
+many dependents may have a different level of financial health compared to a similar employee from a wealthier 
+household with no dependents. Similarly, a tribal nano-entrepreneur is bound to have a different level of financial 
+health from that of an entrepreneur from a business family. 
+Financial
+health
+Debt 
+management
+Financial 
+planning
+Credit score
+Investments
+Savings
+Income stability
+2	
+https://www.unsgsa.org/sites/default/files/resources-files/2021-10/unsgsa%20financial%20health%20summary%20report.pdf
+Financial health = Function of (*financial awareness, *financial access, *financial product 
+usage, #occupation, #wealth endowment, #household-level factors, #individual factors, 
+#social capital)
+# - Variables that financial service providers cannot immediately influence
+* - Variables that financial service providers can influence significantly and measurably
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   7
+It is pertinent to note that some of these factors, like occupation, wealth status or household-level characteristics 
+are not open to the direct and immediate influence of financial service providers. These might, in the long run, 
+interact and be influenced by formal finance. However, in the short to medium term, they are fixed. On the other 
+hand, factors like financial access, usage and awareness are amenable to the direct and measurable influence 
+of financial service providers. The provision of suitable financial products to the underserviced segments of the 
+population by financial service providers can provide better access and enhanced awareness, which in turn can 
+influence the financial health of this population. Therefore, the pathway for providers to make a positive impact 
+on the financial health of their customers is primarily through access, usage and awareness – all three of which 
+important facets of financial inclusion. In fact, the theory of change for financial inclusion rests crucially on the 
+interdependence between financial inclusion and financial health – i.e. greater levels of financial inclusion will 
+engender better financial health for those included. 
+Furthermore, both individually expressed traits (like individual risk appetite and initial wealth) that are idiosyncratic 
+and unevenly endowed among members within any group, and group expressed traits (like the nature of occupation 
+and levels of inclusion) that are common to groups of people that are similarly placed, have a bearing on financial 
+health. Therefore, the same intervention of financial inclusion for different categories of people in different 
+circumstances, with varying capabilities and proclivities, could have very contrasting outcomes. Measuring financial 
+inclusion outcomes, therefore, becomes crucial to policymaking. Such measurements are used to track progress, 
+garner insights and tinker interventions to ensure good outcomes for the financially included population. However, 
+financial health, as an outcome of financial inclusion, is hard to measure and even more complex to interpret and 
+understand.
+8    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+3. Measuring and understanding 
+financial inclusion 
+Policymakers and financial service providers often measure financial inclusion in terms of access – e.g. the 
+number of bank accounts opened, new to-credit customers serviced or new enrolments in government-backed 
+insurance schemes like the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY). This stems partly from the ease 
+of measurability of these metrics and partly from considering financial access to be an end goal, rather than a 
+means to financial wellbeing. However, given that the anticipated impact is not uniformly observed among the target 
+population, usage of these financial products also gets tracked alongside the access metrics – such as dormancy 
+of Jan Dhan accounts, or inactive or lapsed life insurance policies. This provides insight into the quality of access 
+while also measuring approximate dropout rates in financial inclusion efforts. Further, the impact of access and 
+usage was later included in the measurement toolkit to track the realisation of the expected outcomes from financial 
+inclusion. This has become particularly important for financial service providers who raise impact capital to provide 
+financial services to the underserved segments of the population.
+Year-on-year trend for PMJDY accounts
+60
+50
+40
+30
+20
+10
+0
+25%
+20%
+15%
+10%
+5%
+0%
+Total PMJDY accounts (crore)
+% Inoperative PMJDY accounts (crore)
+Aug'17
+Aug'18
+Aug'19
+Aug'20
+Aug'21
+Aug'22
+Dec'23
+Dec'24
+Sources: Press Information Bureau; Department of Financial Services, Ministry of Finance; Government of India
+The three categories of metrics – access, usage and impact – are often captured through multiple surveys across 
+different sectors, periods and geographies. However, no survey currently offers the capability to understand 
+the financial inclusion journey of sub-sections of the population and identify gaps, if any. This diagnostic view is 
+needed not just for policymakers but, more crucially, for financial service providers who are looking to enter and 
+invest in what is called the ‘Bharat’ customer segment. This segment comprises potential customers who are either 
+outside of or new to formal finance, non-homogenous in their needs and aspirations, and looking for relevant and 
+meaningful financial products that can suitably integrate them into the formal economy. ‘Bharat’ is a unique market 
+with unique traits, requirements and expectations – it is also one that cannot be ignored.
+The financial inclusion measurement survey, co-developed by Dvara Research and XKDR Forum, offers a coherent 
+framework for capturing all three categories of metrics in an informative, cross-referenced and consistent manner. 
+Dvara Research, in partnership with PwC, has refined this framework further to make it actionable and relevant for 
+financial service providers particularly.
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   9
+Input
+(access)
+•	
+Physical and digital infrastructure
+•	
+Access to financial assets
+•	
+Access to financial advice
+Output
+(usage)
+•	
+Frequency of use of financial services
+Outcome
+(impact)
+•	
+Financial wellbeing
+Sources: PwC, Dvara Research
+The Financial Health Survey follows an input, output and outcome framework where access metrics are treated as 
+inputs to financial inclusion, usage metrics constitute outputs and impact is captured in a set of outcome metrics. 
+According to this categorisation, inputs are easy-to-track immediate metrics, outputs denote usage metrics that 
+are expected to consolidate over the medium term, and outcomes are characteristics of financial health that would 
+manifest over the long term.
+4. Financial Health Survey – 
+a diagnostic tool
+10    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+The survey’s input and output metrics include questions on the access and usage of a suite of financial products like 
+savings, investment, credit and insurance. The outcome metrics of financial health are captured by asking questions 
+on day-to-day money management, borrowings, resilience, planning and confidence. Furthermore, questions on 
+the households’ socio-demographic features, ownership of physical assets, informal money management, and the 
+general financial service infrastructure available to them capture individual and group-level traits that characterise 
+the surveyed households. These three core metrics, when combined with contextual information about the 
+households being surveyed, provide valuable and actionable insights.
+Elements of the Financial Health Survey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial assets
+and liabilities
+Financial
+wellbeing
+Household
+socio-
+demographic
+features
+Household
+cashflow
+Physical asset
+ownership
+Informal money
+management
+Financial services
+infrastructure
+Sources: PwC, Dvara Research
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   11
+In the aftermath of the COVID-19 pandemic, an emerging trend in household financial behaviour has been the 
+increased preference for higher-yielding financial instruments over traditional savings products. Consumers are 
+becoming more risk-aware and return-seeking, leading to greater adoption of market-linked investments, insurance 
+products with wealth accumulation features and alternative savings instruments.
+Distribution of household gross financial savings
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Deposits
+Pension funds
+Insurance
+Currency
+Small savings
+Equities
+Mutual funds
+FY 2021-23
+FY 2011-20
+Average%
+Source: CRISIL
+Changing customer preferences for financial products in India are significantly shaping the economy by influencing 
+capital markets, banking structures, credit penetration and financial inclusion. 
+Shifting customer trends
+Rise in alternative 
+investments and 
+gold digitalisation
+Rise in equity 
+and mutual fund 
+investments
+Increased credit 
+penetration 
+and alternative 
+lending
+Growing demand 
+for insurance 
+and pension 
+products 
+Shift from fixed 
+deposits to 
+market-linked 
+instruments 
+5. Beyond metrics – 
+calibrating for impact
+12    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+Rise in equity and mutual fund investments » Strengthening capital markets
+The rise in retail participation in equities and mutual funds is deepening India’s capital markets, enhancing liquidity, 
+reducing volatility and boosting domestic business funding, thereby decreasing reliance on foreign institutional 
+investments and increasing resilience to global economic shocks.
+Growing demand for insurance and pension products » Strengthening social security
+Rising retail participation in equities and mutual funds, coupled with increased insurance penetration and demand 
+for pension products like the National Pension System (NPS) and annuities, is enhancing financial stability, 
+deepening India’s capital markets, boosting long-term capital availability and supporting infrastructure investments.
+Shift from fixed deposits to market-linked instruments » Changing banking dynamics
+Retail investors are increasingly shifting from traditional bank fixed deposits to mutual funds, stocks and bonds in 
+pursuit of higher returns. This trend is leading to a reduction in Current Account Savings Account (CASA) deposits 
+with banks. In response, banks are enhancing their wealth management services and creating hybrid investment 
+products to retain deposits and cater to the evolving preferences of their customers.
+Increased credit penetration and alternative lending » Expanding consumer demand
+The increased adoption of buy now pay later (BNPL), personal loans and credit cards is boosting consumer 
+spending and stimulating growth in retail, e-commerce and automobile sectors. Enhanced credit access for first-
+time borrowers is also driving entrepreneurship and business expansion. However, increased personal debt levels 
+could risk household financial stability if not managed properly.
+Rise in alternative investments and gold digitalisation » Diversification of savings
+Increasing retail participation in equities, mutual funds and alternative investment vehicles like real estate investment 
+trusts (REITs), gold exchange traded funds (ETFs) and alternate investment funds (AIFs) is deepening India’s capital 
+markets and diversifying savings away from traditional bank deposits and physical assets. This shift enhances 
+liquidity, boosts long-term capital availability and reduces reliance on physical gold and real estate. Meanwhile, 
+banks are adapting by enhancing wealth management services and creating hybrid products. Although the rise 
+of BNPL, personal loans and credit cards is stimulating consumer spending, it is also increasing personal debt 
+which could threaten financial stability. Enhanced insurance and pension product demand could further strengthen 
+financial resilience and support infrastructure investment.
+This shift necessitates that financial service providers evolve their offerings, ensuring that investment solutions, 
+lending models and financial planning services are aligned with the evolving risk appetite and financial aspirations of 
+consumers. Furthermore, cross-industry collaborations – i.e. among traditional banks, FinTech firms and insurance 
+providers – can drive innovative financial solutions that cater to the changing customer needs while promoting long-
+term financial stability.
+The Financial Health Survey,* comprising access, usage and impact-related insights with customer context and 
+background, provides an opportunity to create a real-time direct feedback loop from impact to access. This enables 
+financial service providers to leverage this knowledge about the impact pathways of their customer base to tweak 
+their service offerings and outreach for different segments of their customer base. Doing this facilitates them to 
+create new products and draft processes that can enable relevant, meaningful and targeted impact for these 
+customers.
+The survey offers a means to monitor the market for product gaps, recognise true value additions and prune product 
+misfits on a dynamic basis. This is particularly important for the Bharat segment, which is new to formal finance, 
+caught between the formal and informal sides of the economy and, in some ways, cajoled into transitioning to formal 
+financial products by a combination of government measures and market imperatives. Being a largely low-income 
+segment, the money management practices of such customers who are new to formal financial services also tend 
+to be distinctly different from those of established customers who have been integrated into the formal economy for 
+years and are familiar with the workings of the financial system. Therefore, meeting the customers from the Bharat 
+segment at specific points in their journey and enabling timely and accurate recognition of their needs, pain points 
+and preferences, can help ease their transition to formal finance. This is expected to provide good outcomes for all 
+stakeholders – optimal financial health for customers, product-market fit for financial service providers, good social 
+outcomes for impact investors, and inclusive and sustained growth for the government.
+*	
+The survey takes 15–25 minutes to complete, based on whether it is done telephonically or in-person.
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   13
+Impact measurement often seems like a distant ideal for financial service providers who have many competing 
+business considerations around sales, margin, profit, etc., to contend with. Therefore, impact measurement often 
+gets relegated to environmental, social and governance (ESG) or annual reports, where it becomes a stock-taking 
+exercise that offers little to no value to the business specifically. On the contrary, thoughtfully crafted impact 
+measurement that blends market reconnaissance, product feedback and customer insights seamlessly can provide 
+strategic intelligence. This can improve the utility of such surveys for the business while also anchoring to the 
+welfare of customers and sustainability of the entire business ecosystem. 
+Potential impact areas for the survey
+Market insights
+Gain  
+comprehensive 
+insights into 
+consumer 
+consumption 
+patterns to 
+inform strategic 
+decisions.
+Services and 
+distribution
+Optimise service 
+delivery channels 
+to increase hyper-
+personalisation.
+Customer 
+profiling and 
+segmentation
+Identify distinct 
+customer 
+segments and 
+their varied 
+needs.
+Strategic/ 
+go-to-market 
+(GTM) insights
+Draft a 
+comprehensive 
+strategy and GTM 
+recommendation 
+to drive 
+business growth 
+and market 
+penetration.
+Product 
+offerings
+Receive tailored 
+recommenda­
+tions to enhance 
+product offerings.
+Sources: PwC, Dvara Research
+Market insights
+ Services and distribution
+	»
+Potential impact: Financial institutions can anticipate the shifts in demand of their customers and fine-
+tune their product and investment strategies, which align with the emerging consumer preferences and 
+macroeconomic conditions.
+•	
+Scenario 1: Mutual funds: The survey revealed that the Gen-Z and millennial population show increased 
+preference for thematic and ESG funds. Asset management companies (AMCs) adjusted their marketing 
+strategy and recalibrated their investment portfolio to focus more on thematic and ESG investments. AMCs 
+may also consider launching customised investment options to cater to the needs of the target customer 
+segment.
+•	
+Scenario 2: Insurance: Insights from the survey indicate a growing demand for hybrid insurance-cum-
+investment products among the youth. Insurers develop and promote unit-linked insurance plans (ULIPs) 
+that balance protection with wealth creation, thus ensuring higher adoption.
+	»
+Potential impact: Better accessibility and high customer engagement by hyper-personalising different 
+channels to meet regional, behavioural and digital preferences of the customers
+•	
+Scenario 1: Loan products: Insights from survey revealed an increased preference for consumer loans 
+for buying electronic products. Banks can collaborate with e-commerce platforms and retailers to provide 
+pre-approved loan solutions or offers on payment using their channels.
+6. Value proposition to financial 
+service providers
+14    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+Customer profiling and segmentation
+Strategic/Go-to-market (GTM) insights
+ Product offerings
+	»
+Potential impact: Refinement of customer segmentation models, leading to hyper-personalised offerings 
+and better risk assessment
+•	
+Scenario 1: Credit products: Survey insights reveal that gig economy workers face challenges in credit 
+approval due to inconsistent incomes. A bank develops a dynamic risk-based lending model incorporating 
+alternative data like transaction patterns and savings behaviour to extend need-based loans.
+•	
+Scenario 2: Insurance: Behavioural profiling from survey data shows that young professionals are hesitant 
+to purchase life insurance due to complexity, lack of transparency and involvement of third-party agents. 
+Insurers introduced simplified, digital-first plans with interactive guidance tools, and a tutorial covering the 
+basics. All of these helped in increasing penetration in this segment.
+	»
+Potential impact: The survey helps firms design effective market entry and product positioning strategies, 
+ensuring maximum reach and adoption
+•	
+Scenario 1: Mutual funds: The survey highlights that first-time investors are intimidated by direct equity 
+investments but are open to goal-based investing and be more financially aware of investing principles. An 
+AMC introduced a ‘first-time investor’ mutual fund portfolio, featuring low-risk and automated rebalancing 
+options. They also introduced short, in-app based video tutorials explaining basic financial jargons.
+•	
+Scenario 2: Financial hedging solutions: The survey insights revealed that many firms operating in the agri 
+space are unaware of hedging instruments that protect against commodity price fluctuations. A financial 
+institution can reach out to its customers to educate and introduce commodity-linked savings and hedging 
+instruments which can be used to secure customers against price fluctuations.
+	»
+Potential impact: The survey can support innovation by identifying gaps in existing product lines, 
+ensuring financial institutions develop relevant, high-demand financial solutions to capture opportunities.
+•	
+Scenario 1: Banking and savings: A survey revealed that customers prefer options which would 
+automatically apply fixed deposits rate to the remaining capital over a limit in their savings account while 
+also maintaining liquidity. Bank introduced flexi savings account, which automatically applies fixed deposit 
+rates on the balance amount above the limit specified by the user.
+•	
+Scenario 2: Credit products: Data revealed that women entrepreneurs struggle to secure loans due to lack 
+of collateral. A FinTech firm introduced unsecured micro-loans backed by alternative credit scoring model 
+and transaction data. This promoted financial inclusion for female business owners.
+•	
+Scenario 2: Financial savings: Survey data highlights that blue-collar workers prefer various salary-linked 
+savings schemes. A bank collaborates with employers to embed automatic NPS/PPF savings along with 
+goal-based savings which can be incorporated with the employer’s payroll. This improves savings adoption 
+rate.
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   15
+Advancements in artificial intelligence, data analytics and behavioural finance can revolutionise how financial 
+institutions understand and segment their customer needs. If properly used, these technologies – in addition to the 
+Financial Health Survey data – can generate insights which can be used to personalise product offerings. Moving 
+from the ‘one-size-fits-all’ approach to specialised product offerings can help financial institutions to increase the 
+engagement with their consumers and understand their evolving needs and preferences. 
+Models built using emerging technologies can enable financial institutions to analyse spending behaviour, predict 
+financial vulnerabilities and offer tailored advisory services, thereby ensuring more inclusive and impactful financial 
+offerings. The following diagram represents various modules which when integrated with the financial survey data 
+creates opportunity for hyper-personalisation. The ease of implementation decreases for advanced modules while 
+the degree of hyper-personalisation increases with each subsequent addition.  
+Modules for hyper-personalised services
+Financial Health Survey data
+Strategic partnerships
+Customer persona segmentation and benchmarking
+Behavioural finance
+AI-driven spend analytics module
+Predictive financial health scoring
+Credit accessibility and 
+embedded finance
+Real-time personalised financial 
+advisory
+Ease of implementation
+Hyper-personalisation
+Financial institutions can integrate the following key analytical frameworks and technological innovations, structured 
+from broad strategic initiatives to specific implementation-level enhancements:
+1.	 Strategic partnerships – To create holistic, value-driven financial solutions, financial institutions can 
+collaborate with various FinTech, government bodies, service providers and retailers. Insights from Financial 
+Health Survey, when coupled with strategic cross-partnerships, can enable the development of co-branded 
+financial solutions and/or embedded financial opportunities. This enhances customer experience and creates 
+more business opportunities. For example, a financial institution can tie up with an e-commerce platform to 
+provide co-branded financing like consumer loans, or shopping cards for expenditure on these platforms. 
+Through this dual focus on strategic collaboration and market-product fit analysis, organisations can better 
+meet the dynamic needs of their customers.
+2.	 Customer persona segmentation and benchmarking – Financial institutions can leverage survey data to 
+create detailed customer personas based on socio-economic factors and financial behaviour, allowing for 
+7. Advanced modules to enhance 
+the Financial Health Survey
+Sources: PwC
+16    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+targeted comparisons and deeper insights. By comparing individual Financial Health Survey results with broader 
+consumer segments, financial institutions can identify various patterns, gaps and other relevant insights which 
+can help in personalising financial solutions.
+3.	 Behavioural finance – Financial institutions should understand the importance of cognitive biases and 
+psychological factors that impact financial decisions. This can help financial institutions to create behavioural 
+interventions to improve unit financial health. Through a combination of behavioural finance insights and 
+customer benchmarking with the relevant socio-economic segment, financial institutions can incorporate 
+nudges like automatic savings, spending notification, and goal-based financial planning features. In the long run, 
+this helps the consumer in making better financial decisions and enhance his/her money management skills.
+4.	 AI-driven spend analytics module – Financial institutions have a huge amount of data on financial 
+transactions. They can leverage machine learning and the AI-driven spend analytics module to gain deeper 
+insights into individual spending patterns in relation to socio-economic demographics or benchmark with 
+particular customer personas. This would help institutions in understanding how a consumer allocates their 
+financial resources across different expense categories and enable the design and development of more 
+relevant product offerings for them. Moreover, this would help financial institutions to transition from the ‘one-
+product-fits-all’ approach to ‘customised product per customer’, in line with the actual spending habits of the 
+customer.
+5.	 Predictive financial health scoring – By leveraging the above-mentioned module, financial institutions can 
+develop dynamic financial health scores depending alternative data like user spend and savings analysis. This 
+can assess a consumer’s financial stability, resilience and probable future financial needs. These scores can 
+enable an institution to identify early warnings of financial stress and take timely corrective interventions. This 
+approach also enhances risk management, by going beyond traditional risk modelling techniques.
+6.	 Credit accessibility and embedded finance – Traditional credit scoring often excludes new-to-credit 
+consumers, limiting access to various financial services. By incorporating the previous modules of spending 
+pattern analysis, behavioural finance and alternative credit models, financial institutions can broaden their 
+credit offerings which can provide access to underserved populations. Embedded financial solutions further 
+streamline this process by making credit accessible through various channels and providing tailored options to 
+suit individual financial needs.
+7.	
+Real-time personalised financial advisory – The final module helps financial institutions to move from ‘one-
+size-fits-all’ products to offer continuous, adaptive financial guidance. On integration with all the previous 
+modules, this enables financial institutions to provide real-time personalised financial recommendations to its 
+customers and help them in optimising financial planning and wellbeing.
+By integrating these advanced analytical models with the Financial Health Survey data, financial institutions can 
+unlock deeper consumer insights, enhance financial inclusion and drive long-term positive financial outcomes for all 
+customer segments.
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   17
+The Financial Health Survey represents more than just a diagnostic tool; it is a pivotal instrument critical for the 
+future of financial inclusion and wellbeing. It provides critical insights that can help financial institutions in their 
+policy decisions, product development and customised financial services across different channels. The data can 
+also help in identifying gaps in financial inclusion and uncovering nuanced realities of individuals’ financial lives. This 
+helps in targeted interventions which can help in improving the financial health of individuals.
+There are two possible pathways for financial service providers to engage with the survey based on their needs, 
+business strategies and marketing goals:
+(i)	 Periodic customer surveys: For providers who are looking to report their impact and map customer needs, 
+the Financial Health Survey could be administered to a sample set of customers to offer insights and action 
+pathways on an annual or bi-annual basis. 
+(ii)	 Strategic engagement: For providers who are looking to launch new products, working in relatively new 
+geographies, etc., the Financial Health Survey could be strategically administered for different cohorts of 
+customers at various time intervals to garner insights about them, their response to the product and their 
+persisting needs.
+Independent of the engagement pathway, the Financial Health Survey offers plenty of scope for customisation as 
+per the requirements of the financial service provider so that it can provide both impact measurement and market 
+research.
+The adaptability of this Financial Health Survey enables it to evolve alongside several analytical frameworks and 
+technological innovations. This ensures that it remains relevant and effective in addressing the ever-changing 
+landscape of financial needs and behaviours. With more technological innovations and integration of data analytics, 
+financial institutions will be able to make the shift to tailored financial solutions to meet the diverse needs of every 
+individual. Other value propositions for financial institutions include customer-centric strategies, improved risk 
+assessment and timely interventions, and alternative credit scoring models. Ultimately, the criticality of this initiative 
+lies in its potential to diagnose financial health as well as to catalyse actions that promote financial empowerment, 
+economic growth and sustainable development.
+8. Strategic importance of the 
+Financial Health Survey
+18    PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact
+About ASSOCHAM
+The Associated Chambers of Commerce & Industry of India (ASSOCHAM) is the country's oldest apex chamber. 
+It brings in actionable insights to strengthen the Indian ecosystem, leveraging its network of more than 4,50,000 
+members, of which MSMEs represent a large segment. With a strong presence in states, and key cities globally, 
+ASSOCHAM also has more than 400 associations, federations and regional chambers in its fold.
+Aligned with the vision of creating a New India, ASSOCHAM works as a conduit between the industry and the 
+Government. The Chamber is an agile and forward-looking institution, leading various initiatives to enhance the 
+global competitiveness of the Indian industry, while strengthening the domestic ecosystem.
+With more than 100 national and regional sector councils, ASSOCHAM is an impactful representative of the Indian 
+industry. These Councils are led by well-known industry leaders, academicians, economists and independent 
+professionals. The Chamber focuses on aligning critical needs and interests of the industry with the growth 
+aspirations of the nation.
+ASSOCHAM is driving four strategic priorities - Sustainability, Empowerment, Entrepreneurship and Digitisation. 
+The Chamber believes that affirmative action in these areas would help drive an inclusive and sustainable socio-
+economic growth for the country.
+ASSOCHAM is working hand in hand with the government, regulators and national and international think tanks to 
+contribute to the policy making process and share vital feedback on implementation of decisions of far-reaching 
+consequences. In line with its focus on being future-ready, the Chamber is building a strong network of knowledge 
+architects. Thus, ASSOCHAM is all set to redefine the dynamics of growth and development in the technology-
+driven 'Knowledge-Based Economy. The Chamber aims to empower stakeholders in the Indian economy by 
+inculcating knowledge that will be the catalyst of growth in the dynamic global environment.
+The Chamber also supports civil society through citizenship programmes, to drive inclusive development. 
+ASSOCHAM's member network leads initiatives in various segments such as empowerment, healthcare, education 
+and skilling, hygiene, affirmative action, road safety, livelihood, life skills, sustainability, to name a few.
+Dr Rajesh Singh
+Additional Director & Head, Dept. of Banking & Financial Services, 
+ASSOCHAM
+rajesh.singh@assocham.com 
+The Associated Chambers of Commerce and Industry of India
+4th Floor, YMCA Cultural Centre and Library Building,
+01 Jai Singh Road, New Delhi – 110001
+Website: www.assocham.org
+About Dvara Research
+Dvara Research is an independent, non-partisan, not-for-profit policy research institution based in India. Its mission 
+is to ensure that every low-income household and every small enterprise has complete access to suitable financial 
+services and social security through a range of channels that enable them to use these services securely and 
+confidently. Since 2008, Dvara Research has deeply analysed and carefully written about financial inclusion and 
+social protection in India from policy, regulatory, and practitioner perspectives that are anchored to its mission. In 
+all its research efforts, Dvara Research always strives to maintain an independent voice that speaks for the low-
+income household and household enterprise, and its ability to perform this function is significantly enhanced by its 
+commitment to disseminate as a pure public good, all the intellectual capital that it creates.  
+To know about our work, visit www.dvararesearch.com or write to us at communications.dr@dvara.com
+ PwC | Dvara Research | ASSOCHAM | Financial health: Transcending from access to impact   19
+pwc.in
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or 
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which 
+is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.
+Data Classification: DC0 (Public)
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in
+151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory and tax
+services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity.
+Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+Contact us
+Gayathri Parthasarathy
+India Financial Services Sector Leader and Global 
+Financial Services Technology Leader 
+PwC India
+gai.partha@pwc.com
++91-98190 29924
+Jaikrishnan G
+Partner, One Consulting 
+PwC India
+jaikrishnan.gk@pwc.com
++91-95353 66660
+Vivek Patil
+Partner, Financial Services Advisory 
+PwC India
+vivek.v.patil@pwc.com
+Vivek Belgavi
+Partner and Leader, Financial Services Technology, Alliances 
+and Ecosystem 
+PwC India
+vivek.belgavi@pwc.com
++91-98202 80199
+Contributors 
+From PwC:
+Avneesh Narang
+Amal S Pilla
+Raghav Aggarwal
+Narayanan Mahadevan
+Vignesh Venkataraman
+Ishan Paira
+Sabarish Sriram
+ 
+From Dvara Research:
+Misha Sharma
+Priyadarshini Ganesan
+Aishwarya Narayan
+Editor
+Rashi Gupta

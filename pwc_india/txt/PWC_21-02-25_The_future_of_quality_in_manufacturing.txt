@@ -1,0 +1,359 @@
+The future of quality 
+in manufacturing
+2   PwC   |   The future of quality in manufacturing
+In today’s rapidly changing landscape, the quest for quality has gone beyond traditional  
+bounds, evolving into a multifaceted concept that incorporates emerging technologies and 
+shifting consumer expectations. As we approach a new era known as Quality 5.0, the future  
+of excellence looks more dynamic and interconnected than ever before.
+In the twenty-first century, Quality 4.0 has integrated Industry 4.0 technologies such as the 
+internet of things (IoT) and artificial intelligence (AI) to optimise processes and ensure customer 
+centricity. As quality continues to evolve, businesses have begun to reconsider whether their 
+current quality systems will suffice. In addition to the existing Quality 4.0 systems, businesses 
+may require a more comprehensive approach to meet the needs of various stakeholders such as 
+customers, suppliers, employees, investors, and the community at large.
+This article discusses the evolution of quality, the growing importance of Quality 5.0 and its 
+implications for modern business practices. It looks into the skills needed by professionals to 
+effectively navigate this transformation. It also outlines the key elements defining Quality 5.0 and 
+provides insights into how these elements will influence organisational success. Finally, the article 
+discusses the challenges associated with its implementation and makes recommendations to 
+mitigate them.
+3   PwC   |   The future of quality in manufacturing
+Evolution of quality
+To understand the implications of Quality 5.0, we must first examine how the concept of quality has changed 
+over time. From the early days of industrial standards to today’s sophisticated, technology-driven approaches, 
+each phase has been built on the previous one, setting the stage for the innovations and strategies that define 
+Quality 5.0.
+Figure 1: Evolution of quality
+Future
+Age of inspection
+Walter Shewhart’s 
+tools 
+Agile working method
+1990
+2001
+1986
+1970
+1962
+1951
+1938
+1924
+Time for 
+Quality 5.0? 
+1890
+Quality 1.0
+Quality 5.0
+Quality 2.0
+Quality 4.0
+Quality 3.0
+1890
+1940
+1995
+2024
+Six Sigma
+Malcom Baldrige award
+Quality circles
+Just in time
+Deming cycle
+Organisational excellence
+European Foundation for 
+Quality Management model 
+Toyota Production 
+System
+Ishikawa tools
+Quality 
+management
+Juran Trilogy 
+Source: PwC analysis
+1. American Society of Quality. [Online] https://asq.org/quality-resources/history-of-quality?srsltid=AfmBOooIaI_y8RVjhUL6Jqeu2oZXLSpRTXO-
+crK6Ig3RN3u3bYJuS4PQA
+In Quality 1.0 (prior to 1890), quality was ensured through inspection. However, it focused primarily on achieving 
+better productivity while neglecting cost reduction, waste elimination and worker safety. 
+Quality 2.0 (1891–1940) witnessed the implementation of quality management systems and statistical quality 
+control methods. However, the emphasis was primarily on internal indicators such as rework and scrap, rather 
+than on customer satisfaction. 
+The Third Industrial Revolution (Industry 3.0) introduced digital computers and automation, paving the way for 
+Quality 3.0 (1941–1995), which began to use data to analyse costs and customer complaints and to incorporate 
+consumer feedback into product development. The Juran Trilogy, quality circles, total quality management and 
+Six Sigma are examples of key developments from this period. 
+Quality 4.0 saw a shift towards a more dynamic, real-time, data-driven and technology-enabled approach 
+that incorporated digital technologies such as IoT, advanced analytics and automation into manufacturing 
+processes with the goal of improving product quality, reducing defects, increasing efficiency and ensuring 
+compliance with standards.1
+Quality 5.0
+Quality 5.0 is a transformative approach that combines technological innovation and human insight to improve 
+the overall standards of products and processes. It focuses on improving system adaptability to changing 
+demands and market conditions by combining technology with human creativity and intelligence. It goes 
+beyond traditional efficiency metrics to focus on employee satisfaction, creativity and workplace humanisation. 
+It also emphasises sustainable practices and social responsibility, with the goal of improving quality of life for 
+both employees and consumers while promoting a more sustainable and socially responsible future.
+Adopting Quality 5.0 improves companies’ adaptability to changing market conditions and production 
+demands. It increases employee satisfaction by creating a more engaging and human-centred working 
+environment. Quality 5.0 ensures long-term viability and positions businesses for continued success in an 
+increasingly dynamic marketplace by improving product quality and aligning with contemporary customer 
+values and regulations.
+4   PwC   |   The future of quality in manufacturing
+5   PwC   |   The future of quality in manufacturing
+Shifting skill sets and focus areas
+Quality is evolving into a multifaceted discipline that encompasses many aspects of business. As these 
+elements advance, the skill sets required of quality professionals shift. Professionals must focus on several 
+key areas, including understanding business goals, improving collaboration and soft skills, and cultivating a 
+continuous learning mindset.
+Proficiency in emerging quality technologies, advanced data analytics and cybersecurity is becoming more 
+valuable. On the other hand, dedicating a substantial amount of time to data management, data cleaning and 
+filing regulatory compliances are becoming less important. 
+These changes will undoubtedly have an impact on employee engagement, and it is the duty of management to 
+map the skills required for the future of quality and assist employees in upskilling themselves.
+Figure 2: Skills required by the quality function
+Skill required by quality function
+Then
+Now
+Future
+Understanding business goals
+Dedicating time to data handling and cleaning
+Collaboration and boosting soft skills
+Advanced data analytics
+Cross-departmental expertise
+Emerging quality technology proficiency
+Problem identification
+Continuous learning mindset
+Knowledge of compliance environment
+Filing regulatory compliances
+Cybersecurity
+Source: PwC analysis
+6   PwC   |   The future of quality in manufacturing
+Seven key elements shaping Quality 5.0
+In order to remain competitive and satisfy changing expectations, companies must adopt a multidimensional 
+approach to quality. To help companies with this process, we’ve identified seven important aspects that will 
+shape Quality 5.0. Improving these areas will better prepare organisations for upcoming challenges:
+Customer 
+experience
+Quality 
+of life
+Product 
+quality 
+Service 
+quality
+Process
+quality
+IT and data 
+quality
+Compliance 
+quality
+1
+3
+5
+7
+4
+6
+2
+1. Product quality 
+Ensuring good product quality is critical for customer satisfaction, brand reputation and operational success. A 
+complete approach to product quality entails incorporating key interventions throughout a product’s lifecycle, 
+from design to manufacturing to final inspection. Three key strategies in this aspect are design for quality (DfQ), 
+real-time quality monitoring and predictive quality analytics.
+DfQ: It prioritises quality considerations throughout the product design phase, emphasising issues 
+such as reliability, manufacturability, ease of inspection, usage and maintenance. In the context of 
+Quality 5.0, DfQ also embeds sustainability considerations and resource efficiency. This involves 
+choosing materials with a lower environmental impact, using more efficient production methods, and 
+planning for minimal energy consumption and waste generation throughout the product’s lifecycle. 
+This proactive strategy improves overall product quality, lowers manufacturing costs, increases 
+customer happiness and promotes environmental friendliness.
+Real-time quality monitoring: Embedded sensors and data analytics allow for continuous monitoring 
+of performance measures, helping early detection of quality concerns and permitting timely 
+interventions.
+Predictive quality analytics: It involves predicting and preventing quality concerns by analysing 
+historical data and monitoring real-time performance. With the help of machine learning, this approach 
+identifies patterns and abnormalities early on, allowing for proactive modifications to minimise faults 
+and optimise production, ultimately lowering costs and improving product quality.
+2. Service quality 
+Service quality is defined as the capacity to meet or exceed client expectations by providing efficient and 
+effective service. Today, this extends into elements such as personalised emotional engagement which foster 
+a strong customer connection and satisfaction, as well as AI integration, which uses technologies such as 
+robotic process automation (RPA), virtual assistants and chatbots to provide quick and accurate responses to 
+customer requests. As a result, any approach to service quality must take into consideration these factors so as 
+to provide a service experience that consistently satisfies client requests and increases overall satisfaction.
+7   PwC   |   The future of quality in manufacturing
+3. Process quality
+Process quality now covers not just product performance, but also the environmental and social effect of 
+the production or service delivery processes. With growing customer demand for sustainability and more 
+environmental restrictions, firms are turning to environmental, social and governance (ESG) principles to 
+decrease waste and carbon footprints in their processes.
+By incorporating these concepts into their operational plans and decision-making processes, businesses can 
+attempt to match their processes with sustainability goals while retaining high quality and efficiency.
+4. Customer experience
+The idea of customer experience has shifted from simply the purchasing experience to focusing on the overall 
+user experience across the customer lifecycle. This starts from the point when the potential customer first 
+learns about the product or service, evaluates the offerings, decides to make the purchase, and ends with 
+keeping the customer satisfied and engaged post purchase. In this regard, immersive experiences such as 
+virtual, augmented and mixed reality environments that provide spatial presence and sensory feedback are 
+becoming increasingly important.
+Furthermore, data privacy and responsible use of personal information are also increasingly important aspects 
+in creating a high quality of experience (QoE).
+5. IT and data quality
+This entails utilising innovative technologies and processes to ensure the correctness, reliability and integrity of 
+data across systems. This technique consists of several critical components:
+Big data and cloud systems provide scalability and flexibility, making them suitable for managing, 
+storing and processing large amounts of data. Cloud solutions allow for complete data quality checks 
+across different and massive datasets that are not limited by physical infrastructure such as capacity 
+of storage servers. These solutions also ensure access is restricted to authorised users and that the 
+same data is consistently visible to all of them. 
+Automated data quality assurance uses machine vision and other AI-powered inspection tools and 
+testing equipment to improve quality control operations. These tools allow for precise and efficient 
+data gathering and validation, which reduces the chances of recording incorrect data and thus 
+improves overall quality.
+Blockchain can be used by organisations to dramatically improve their quality assurance methods 
+due to its transparency, immutability and decentralisation. A blockchain creates a clear, visible record 
+of every stage in the manufacturing or service delivery process, fostering responsibility and trust 
+among stakeholders. Its immutability ensures that all data linked to quality checks and compliance 
+is kept intact and tamper proof, resulting in a credible audit log. Furthermore, the decentralised 
+structure of blockchain decreases the danger of single points of failure while increasing security 
+by dispersing data across a network of nodes. These characteristics allow organisations to more 
+efficiently evaluate and validate quality assurance processes, track and trace items across the supply 
+chain, and maintain correct compliance records, thus increasing overall quality control.
+6. Quality of life
+To remain competitive, businesses must take a holistic approach that connects system and process changes 
+with the goal of improving quality of life not only for their employees, but also for their customers and the 
+community in general. This includes investing in employee well-being to increase job satisfaction and overall 
+happiness, as well as ensuring that their products and services meet functional requirements as well as provide 
+increased comfort, simplicity of use and hassle-free ownership. As customers begin to appreciate these 
+additional benefits, organisations must adjust their strategy to this new dimension to create a more positive 
+environment, increase customer loyalty and have a significant impact on the community.
+7. Compliance quality
+Compliance quality has shifted from a focus on simply meeting regulatory requirements to incorporating 
+regulatory technology (RegTech) solutions. Emerging technologies and a commitment to sustainable practices 
+have driven this shift by making possible advanced automation, real-time monitoring and risk management. 
+RegTech tools help monitor regulatory changes, ensuring compliance with evolving standards by automating 
+compliance procedures and reducing human error.
+As a result, organisations can not only streamline their compliance activities, but also improve their overall 
+efficiency, agility and resilience in an increasingly complex regulatory landscape, thus paving the path for long-
+term success.
+8   PwC   |   The future of quality in manufacturing
+9   PwC   |   The future of quality in manufacturing
+Challenges in implementation
+Adopting Quality 5.0, which integrates advanced technologies while focusing on a human-centric approach to 
+quality management, poses several challenges.
+Figure 3: Challenges in implementing Quality 5.0
+Challenges of 
+Quality 5.0 
+implementation
+Leadership challenges with
+change management
+Shortage of talent and
+people with digital skills
+Lack of quality culture and
+fragmentation of quality data
+Inability of the organisation
+to operate as an integrated 
+system
+Outdated 
+systems/infrastructure and 
+cost of updating them
+Data security 
+and privacy
+To address these challenges, organisations can:
+•	
+create a clear strategy roadmap, including implementation phases and regular reviews to manage the 
+transition
+•	
+use change management principles to support the organisation and its people through the transition
+•	
+develop user-friendly solutions that fit with current skill levels and invest in training to effectively utilise data 
+to generate better insights 
+•	
+build a strong quality culture with buy-in from all levels of the organisation and address quality concerns by 
+developing data enablers for successful compilation and analysis
+•	
+conduct frequent security assessments and apply data protection procedures to identify and address 
+system vulnerabilities and operational hazards 
+•	
+encourage collaboration among stakeholders across the value chain through open communication, 
+knowledge exchange and collective problem solving to overcome interoperability concerns
+•	
+begin by identifying and testing small, cost-effective use cases, then scale up with more customised 
+solutions as needed.
+10   PwC   |   The future of quality in manufacturing
+Recommendation: Follow a bottom-up approach to ensure successful adoption and employee buy-in.
+PwC India assists clients in adopting innovative methods to implement Quality 5.0. This approach begins 
+with assessing the current state, envisioning the desired future state, identifying opportunities, selecting 
+appropriate technologies, establishing data infrastructure, integrating processes, and finally managing the 
+change effectively.
+Figure 4: PwC’s approach for successful implementation
+As-is assessment
+Identifying opportunities, roadmapping and preparing timelines
+Implementation
+Assess 
+current state
+Technology 
+selection
+Data 
+infrastructure
+Process 
+integration
+Change 
+management
+Envision target 
+state and identify 
+opportunities
+•	
+As-is assessment: This involves evaluating existing quality management systems through stakeholder 
+interviews, site visits (sampling and testing processes, integration with enterprise resource planning [ERP] 
+system) and data analysis, thus setting the baseline for future comparison.
+•	
+Envisioning target state: During this phase, the emphasis shifts to imagining the future state of the quality 
+management system. This includes establishing target states in Quality 5.0, ranging from foundational to 
+advanced and best-in-class. Initiatives are then developed to bridge the gap between the existing situation 
+and the intended future state.
+•	
+Technology selection: Here, we discuss how various Industry 4.0 technologies, such as IoT, AI and cloud 
+computing, can be improved by including human, environmental and societal factors, and assist in 
+selecting the best options.
+•	
+Data infrastructure: During this phase, we work towards ensuring a robust data infrastructure is in place to 
+collect, store and analyse quality-related data.
+•	
+Process integration: To ensure seamless data flow and operational efficiency, quality processes must be 
+integrated with other operational systems. This involves aligning quality management systems with ERP, 
+customer relationship management (CRM), and other supply chain management systems, enabling data to 
+move seamlessly across different functions. Such integration facilitates real-time updates, reduces manual 
+data entry and enhances overall process efficiency.
+•	
+Change management: Successful implementation of new quality management principles necessitates 
+effective change management. This includes designing communication strategies for employees, providing 
+training and support to help them adjust to new systems and processes, and garnering employee buy-in 
+through participation and feedback. Change management ensures that the transition to the new quality 
+management system is smooth and that staff are engaged and motivated to accept the improvements.
+PwC, with its proprietary quality management framework, is uniquely positioned to combine traditional quality 
+management methods with Industry 5.0 tools to enhance operational efficiency, drive innovation, and achieve 
+sustainable and superior quality outcomes, thereby enabling businesses to gain a competitive edge in today’s 
+evolving market.
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 
+151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory and tax 
+services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. 
+Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+Contact us
+Prahalad Chandrasekharan
+Executive Director, Operations and Management Consulting
+Email: prahalad.chandrasekharan@pwc.com
+Contributors
+Prahalad Chandrasekharan, supported by Ramya RA, Shambo Bhattacharya, 
+Rohan Deb Roy, and Karun Kannan
+Editorial support
+Dion D’Souza
+Design
+Kirtika Saxena
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or 
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which 
+is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.
+KS/January 2024-M&C 43263

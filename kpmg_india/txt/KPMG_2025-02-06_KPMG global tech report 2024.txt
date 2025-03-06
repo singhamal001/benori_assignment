@@ -1,0 +1,1791 @@
+KPMG global 
+tech report 2024
+KPMG International | kpmg.com
+KPMG. Make the Difference.
+Beyond the hype: Balancing speed, security and value
+18
+22
+12
+28
+Conclusion and key recommendations
+Optimizing value through 
+evidence-based decisions
+Contents
+Scaling AI with confidence
+06
+Identifying value amid the hype
+03
+Foreword
+Delivering resilient solutions
+2
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Foreword
+A key theme from this year’s research is the perception among 
+tech executives that they are struggling to keep up with the pace 
+of change. In response to this sense of falling behind, organizations 
+may be tempted to make a hurried response. However, this can lead 
+to misguided investments that may prove both risky and expensive, 
+potentially increasing the burden of technical debt which many 
+well-established organizations are already struggling with.
+Our research suggests that organizations are increasingly aware of 
+this dilemma, and they are looking to pivot from imitating others to 
+becoming leaders themselves. Typically, technology leaders are paving 
+the way by bringing structure, discipline and an enterprise mindset to 
+the adoption of new technology.
+In doing so, they are looking to evidence-based investment decisions 
+that align to the broader business and technology strategies and balance 
+value creation with appetite for risk.
+Overall, the sense from our respondents is that organizations are 
+doing well with measurable improvement in many areas over the 
+past year. Mistakes provide great learning opportunities for the 
+future, and the positive perspective on progress shared by our 
+survey participants is encouraging.
+2,450
+technology professionals worldwide 
+from a variety of industries
+The relentless speed of technology innovation is undeniable. When combined with a natural fear of missing out, 
+ideas that may once have seemed like science fiction are rapidly converting into tangible reality. From generative AI 
+to quantum computing, the potential benefits are huge, and so is the risk of making costly mistakes.
+By taking a measured approach to technology investment, executives 
+are already benefiting from key advancements while keeping a firm 
+hold on their business models and successfully running the enterprise. 
+A willingness to enter the realm of science fiction does not mean leaving 
+the facts of sound business management behind.
+Guy Holland is the global leader of KPMG’s CIO 
+Center of Excellence, a board member of KPMG 
+Australia, and he leads KPMG Australia’s Technology 
+Advisory practice. Guy’s career in technology spans 
+over 30 years and he has worked in senior leadership 
+roles for global consulting and technology companies 
+in Europe and ASPAC. Working with senior business 
+leaders and C-suite executives he helps organizations 
+across a wide range of industries to harness 
+technology and data to transform, innovate and 
+create business advantage.
+Guy Holland
+Global Leader, CIO Centre of Excellence
+KPMG International
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+3
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+There are representatives of eight industries: ﬁnancial services, tech, retail and consumer 
+packaged goods, industrial manufacturing, life sciences and pharmaceuticals, healthcare, 
+government and public sector, and energy.
+Energy (including oil and gas, power
+and utilities, chemicals and renewables)
+Financial services
+(including banking,
+investment, pension,
+insurance)
+Retail and consumer packaged 
+goods (including leisure)
+Tech
+Life sciences and
+pharmaceuticals
+Industrial
+manufacturing
+Government and public sector
+20%
+5%
+25%
+20%
+5%
+5%
+5%
+15%
+Healthcare
+29%
+27%
+44%
+Americas
+Asia Paciﬁc
+(ASPAC) 
+Europe, Middle East 
+and Africa (EMEA)
+The study is based on a survey of 2,450 executives from 26 countries:
+About the research
+4
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+We also interviewed five senior corporate leaders and experts:
+Michelle Chang 
+CFO/CVP, Microsoft Customer and Partner Solutions
+Gavin Munroe 
+Group Executive of Technology and Group Chief Information 
+Officer, Commonwealth Bank of Australia
+Polly Sumner 
+Chief Adoption Officer, Salesforce
+Michael Wagner 
+CISO, Kenvue
+Naveen Zutshi 
+CIO, Databricks 
+We would like to thank them for their time and insights, 
+which helped in putting this report together.
+In terms of the size of these organizations, annual 
+revenues sit above 
+US$100million
+A significant proportion of the sample is 
+composed of senior leadership:
+This report brings together valuable insights from a 
+diverse group of technology leaders, including Chief 
+Digital Officers, CIOs, CTOs, CISOs, Chief AI Officers, 
+and others.
+50%
+are board members or 
+members of the C-suite
+15%
+are at director or senior 
+manager level
+35%
+are either at VP level or 
+head of department
+Meet the high performers
+In our research, there is a group of organizations that stand out. 
+These digital transformation high performers represent less 
+than 10 percent of the tech professionals we surveyed. With a 
+growing list of diverse demands, their organizations are making 
+smarter decisions and basing their tech initiatives on evidence 
+and measurability. 
+In this year’s report, we define these leaders based on these two 
+important criteria:
+In the highest maturity stage 
+of implementation across 
+most of the tech categories 
+measured
+Registering profitability 
+increases through their 
+advances in the majority of 
+tech categories measured
+5
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying 
+value amid 
+the hype
+6
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+To harness the full potential of the 
+wave of new tech advancements, 
+organizations must sustain a measured, 
+strategic approach to investment.
+Rapid change is driving fear of missing out (FOMO) 
+Our research shows that the rapidly accelerated technology 
+innovation over the past year has amplified a strong sense of FOMO 
+among organizations. 
+The flood of AI-related news entering the mainstream has stirred 
+a collective interest in AI that transcends seniority and technical 
+expertise. This has only served to stoke the fires of ‘tech-envy’ and 
+could encourage a ‘spend now, ask questions later’ attitude.
+Digital transformation can bring many exciting benefits, and 
+ambition to progress is only healthy, but organizations must not let 
+it distort their judgement. Progress paranoia could lead to misguided 
+investments and disjointed implementation initiatives. 
+Despite FOMO, organizations are taking a more 
+balanced approach to investment decisions
+While execs continue to look at the trends set by their market peers 
+for guidance, this year sees more of them basing investment decisions 
+on their own primary evidence. 
+This year, executives are drawing on a wider range of sources to 
+inform their investment decisions. All investment drivers measured in 
+Tapping into the pace of change 
+is something we are focused 
+on and excited about, all in the 
+context of doing so in a safe 
+and secure way. 
+ 
+ 
+Gavin Munroe 
+Group Executive of Technology and Group Chief 
+Information Officer, Commonwealth Bank of Australia
+78%
+worry that they 
+are struggling 
+to keep up with 
+the pace of 
+change
+80%
+complain that their senior 
+leadership’s risk aversion 
+means their organization is 
+slower than competitors to 
+embrace new technology
+2023 have seen an increase in prevalence for 2024 by an average of 
+15 percentage points. 
+That said, the drivers have shifted in terms of which has the strongest 
+influence on tech choices. While following competitors is still a top 
+decision driver in 2024, it has fallen to third behind looking to third-party 
+guidance (89 percent) and in-house trials and proof of concept (PoC; 
+83 percent of the base). This may reflect the desire for organizations to 
+overtake competitors in getting emerging tech to market.
+Still, for many, FOMO remains a strong influence on investment 
+decisions: 82 percent are still choosing tech investments such 
+as virtual and augmented reality (VR and AR) in order to follow 
+in their competitors’ footsteps. In comparison, the study’s digital 
+transformation high performers are 22 percentage points more likely 
+than other organizations to rely on customer feedback. And these 
+leading organizations place following competitors outside of their top 
+three motivations for investing in certain tech.
+7
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+Figure 1: Fast following is no longer the top reason to invest in tech
+Why is your organization prioritizing these technologies to support its ambitions?
+Guidance from third parties (including regulators)
+In-house trials/proof-of-concept testing
+Competitors in our market have already adopted
+Proven return-on-investment
+Employee feedback
+Customer feedback
+Preference of senior leadership team
+Cost effectiveness
+63%
+89%
+56%
+83%
+82%
+73%
+71%
+50%
+69%
+65%
+59%
+53%
+53%
+43%
+45%
+25%
+0
+20
+40
+60
+80
+100
+2023
+2024
+Metric 
+2024 
+ranking
+2023 
+ranking
+YoY 
+movement 
+(%)
+Guidance from third 
+parties (including 
+regulators) 
+1st 
+3rd 
++26% 
+In-house trials/
+proof-of-concept 
+testing
+2nd 
+4th 
++27% 
+Competitors in our 
+market have already 
+adopted
+3rd 
+1st 
++9%
+Proven return-on-
+investment
+4th 
+6th 
++21%
+Customer feedback
+5th 
+2nd 
++4%
+Employee feedback
+6th 
+5th 
++6%
+Preference of senior 
+leadership team
+7th 
+7th 
++10%
+Cost effectiveness
+8th 
+8th 
++20%
+Enabler of ESG 
+outcomes
+9th 
+Not 
+measured 
+N/A
+8
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+Most common implementation stage:
+2023
+2024
+No active
+focus in
+this area
+1
+XaaS tech (including public cloud or multi-cloud)
+AI/automation
+Cybersecurity
+Data and analytics
+2
+Aware,
+no action
+taken
+3
+Strategy is 
+being designed
+ and tested
+4
+Strategic vision 
+exists, but exec 
+buy-in is blocking 
+progress
+5
+Funding and exec buy-in 
+achieved for strategy, 
+but implementation is
+behind schedule
+6
+Strategy 
+proactively
+evolving
+Figure 2: All categories measured in 2023 have seen an improvement in 2024
+How would you describe your organization’s position today in each of the following areas? 
+Organizations are spreading their bets across the  
+tech portfolio
+Compared to 2023, tech implementation maturity has improved across 
+the board, with the biggest increases seen in data analytics and XaaS. 
+In the 2023 tech report the most common implementation stage 
+for XaaS was that companies had a strategic vision but were limited 
+because of low buy-in or investment approvals. This year, the majority of 
+organizations are proactive in progressing against their XaaS strategies. 
+Priorities for further 
+investment over the next 
+year include XaaS, which 
+86% 
+chose, as organizations 
+focus on the agility and cost 
+reductions enabled by cloud 
+computing.
+Across all tech, ASPAC is the region that is most likely to be at the 
+proactive implementation stage, with India and China leading the way. 
+Priorities for further investment over the next year include XaaS, 
+which 86 percent chose, as organizations focus on the agility and 
+cost reductions enabled by cloud computing. Other priorities include 
+cybersecurity (68 percent), AI/automation (65 percent) and edge 
+computing (61 percent). These investment appetites indicate that 
+many organizations put tech at the core of their business strategies.
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+9
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+of respondents have achieved profit uplifts of at least 11 percent from their 
+digital transformation efforts over the past 24 months.
+The most common profit increase from digital transformation efforts in the 
+past 24 months falls within the 11–15 percent range.
+Figure 3: Proportion of execs reporting a positive impact on profitability from tech has risen by 25 percentage 
+points on average 
+Over the past 24 months, our digital transformation efforts with the following tech have positively impacted our organization’s profitability
+50
+60
+70
+80
+90
+100
+Data and analytics
+66%
+89%
+AI and automation (including generative AI)
+63%
+88%
+XaaS technologies (including public cloud or multi-cloud)
+64%
+88%
+Cybersecurity
+64%
+88%
+Modern delivery (including low code/no code)
+88%
+59%
+VR/AR/XR (including Metaverse) and spatial computing
+85%
+60%
+2023
+2024
+Organizations are getting better at delivering 
+value from tech investments
+For many organizations, tech adoption is paying off. Most 
+(72 percent) agree that their digital transformation decision-
+making processes usually lead to outcomes that generate 
+business value. In fact, 69 percent of those surveyed are 
+broadly satisfied with the value they generate from their tech — 
+especially in China (90 percent), Netherlands (83 percent), 
+Nigeria (80 percent) and Israel (79 percent). 
+Across tech categories, an average of 87 percent of organizations 
+have managed to use tech to increase profits over the past 
+24 months. Across those categories surveyed in both 2023 
+and 2024, there has been a 25 percentage point year-on-year 
+increase in the number of execs who say these systems have 
+had a positive impact on their company’s profitability. So there 
+is an uplift in the number of organizations seeing tech initiatives 
+boost profitability.
+59%
+an average of 
+87% 
+of organizations have 
+managed to use tech 
+to increase profits 
+over the past  
+24 months. 
+10
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report 2024
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+What do the high performers do?
+How are leading organizations advancing more quickly along their digital transformation 
+journeys? Our research suggests these high performers are:
+Neglecting legacy systems can compromise new 
+tech investments
+The desire to accelerate transformation appears to be favored: 
+74 percent of organizations say that over the next 12 months, 
+they plan to focus on investing in new tech rather than on 
+enhancing the value of their existing tech suite. 
+There is a risk that the allure of new technologies distracts 
+organizations from addressing flaws and technical debt in 
+their existing systems. This approach can, in turn, undermine 
+transformation progress. 
+Often, unresolved issues in current tech infrastructure can 
+obstruct the implementation of emerging tech. 
+In fact, unaddressed tech debt blocking the path to new 
+upgrades is one of the top challenges holding back the digital 
+transformation progress of the study’s digital transformation 
+high performers. Further, 57 percent of organizations overall say 
+that flaws in their foundational enterprise IT systems disrupt 
+business-as-usual on a weekly basis. 
+“The longer you delay addressing tech debt, the higher the costs 
+and risks become,” says Commonwealth Bank of Australia’s 
+Gavin Munroe. “Continuous investment is crucial. Accumulated 
+tech debt often results in embedded business rules and logic, 
+which can make future replacements costly and complex. So, 
+it’s essential to consistently invest in unraveling tech debt to 
+avoid escalating surprise costs and complexity over time.” 
+Organizations must strike a healthy balance between new and 
+existing tech investments. Executives’ intentions to prioritize 
+XaaS investments will help here. By replacing outdated systems 
+and consolidating multiple functions into centralized hubs, XaaS 
+platforms can reduce the complexity of infrastructures and the 
+volume of redundant tech.
+Less likely to be gripped by FOMO:  
+In comparison to non-leaders, our leader group is 23 percentage points 
+less likely to worry about keeping up with the pace of change. Also, they 
+are five percentage points less likely than the mainstream group to be 
+choosing technologies because their competitors have already done so. 
+Iteratively course-correcting: 
+High-performing organizations are adopting a more proactive and 
+adaptive approach to evaluating tech investments. As many as 83 percent 
+of leaders continuously evaluate the business value and outcomes of all 
+tech investments, which is 17 percentage points higher than non-leaders. 
+This always-on approach will provide organizations with more opportunity 
+to intervene and optimize where required.
+Utilizing primary empirical evidence: 
+Leaders are 21 percentage points more likely than non-leaders to run 
+calculations to forecast the potential value of tech initiative before 
+they invest. 
+Leaning on external sources of expertise:  
+To enhance their digital transformation decision-making, 93 percent of 
+our leader group plan to expand and strengthen their ecosystem and 
+partnerships, compared with 70 percent of the mainstream sample.
+Aware of tech debt: 
+In contrast with non-leaders, leading organizations place unaddressed 
+tech debt as one of the top challenges holding back digital transformation 
+progress. To avoid escalating surprise costs and complexity over time, 
+organizations must consistently invest in unraveling tech debt.
+57%
+of organizations say that 
+flaws in their foundational 
+enterprise IT systems disrupt 
+business-as-usual on a 
+weekly basis.
+11
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+11
+KPMG global tech report 2024
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Identifying value amid the hype
+Optimizing 
+value through 
+evidence-based 
+decisions
+12
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+When measuring the effectiveness of 
+digital transformation or the adoption 
+of a certain piece of tech, it’s 
+important not to get fixated on just 
+one metric. You have to think about 
+the implications a metric may have 
+on other metrics, and adjust your 
+approach accordingly. 
+Naveen Zutshi 
+CIO, Databricks
+On balance, organizations are content 
+with the outcomes of their digital 
+transformation investments, mostly 
+thanks to their ability to make sound 
+decisions along the journey. 
+With the pace of change pressuring tech 
+execs, organizations must ensure haste 
+does not compromise the quality of 
+their judgment calls.
+Investing for the long term is still a good discipline 
+to follow
+With execs fearing that their organizations are struggling to keep 
+up with the pace of change, planning for the long term can be 
+difficult when balancing the needs of the latest technological 
+advancements. To maximize progress, tech execs should channel 
+digital transformation efforts towards what matters most strategically 
+to their organizations. 
+“Where we’ve seen organizations achieving the most value from 
+tech is where they step away from the habit of just following a tech 
+trend for the sake of it,” says Michelle Chang, CFO/CVP of Microsoft 
+Customer and Partner Solutions. “And, instead, start with, ‘What 
+is our business trying to accomplish, what’s our purpose and what 
+problems are blocking us from achieving our purpose?’ The answers 
+to these questions will indicate how tech can help them move 
+forward in a meaningful way.” 
+Our study’s top performers get this, with 53 percent strategically 
+evaluating their tech investment portfolio to ensure it is aligned 
+with their long-term goals (compared with 41 percent of other 
+organizations). The good news is that most execs want to imbue 
+their tech initiatives to provide value in non-tech areas; 70 percent 
+ensure that their tech investments directly target their sustainability 
+and social responsibilities. 
+Executives understand that the value of tech goes beyond financial 
+gain. “One of the lessons we’ve learnt is that tech initiatives cannot 
+just be anchored in financial ROI — that’s not the only win available,” 
+says Chang. “You must have other anchors of improvement in the 
+KPIs, such as creating a better customer experience.”
+13
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+53%
+70%
+Every business needs to accelerate from end-to-end. 
+The only way that is going to happen is through faster, 
+data-driven decisions and by empowering every 
+employee to figure out how they’re going to redesign 
+the work they do. 
+ 
+Polly Sumner 
+Chief Adoption Officer, Salesforce
+53 percent are strategically
+evaluating their tech investment 
+portfolio to ensure it is aligned 
+with their long-term goals 
+(compared with 41 percent of 
+other organizations). 
+Most executives want their 
+technology initiatives to have 
+a broader sense of purpose: 
+70 percent ensure that their 
+tech investments directly target 
+their sustainability and social 
+responsibilities.
+Organizations are raising the bar on data maturity
+According to the group of high performers in our research, frequent data-centric evaluation is one  
+of the two effective tactics for achieving quick wins from tech investments. And the wins from  
+data-centric approaches are stacking up. Organizations that are in the top two data maturity 
+categories across the factors measured are more likely to be satisfied with the value generated 
+across all their tech investments. For example, these organizations are likely to achieve better 
+service reliability, as they are 18 percentage points less likely to say that flaws in their foundational 
+IT systems disrupt business as usual on a weekly basis.
+The data management maturity of many organizations is now strengthening across the board, 
+setting a new corporate benchmark.
+14
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+Figure 4: More organizations are in the top two categories of data maturity in 2024 (influential/embedded) 
+How effective are your data and analytics activities in the following areas? — Influential/Embedded
+Respondents were asked to evaluate their 
+organizations across a number of 
+categories of data maturity. The two 
+highest levels of maturity were:
+Embedded — This is fully integrated into 
+our daily operations and often generates 
+returns.
+Inﬂuential — This is a fundamental part of 
+our business strategy. Our well-deﬁned 
+processes are mostly adhered to.
+The other available options were:
+Cohesive — A structured yet agile 
+approach is in place with guidelines 
+available.
+Experimental — Pilot testing is underway, 
+and expertise is being built but processes 
+are ad hoc.
+Aware — A need is acknowledged but 
+there are no dedicated processes in place.
+Data interoperability
+Inﬂuential
+Embedded
+Data investments
+Data accessibility
+Extracting meaningful insights
+Data monetization
+Data security
+Data governance
+Data culture
+Data science
+2024
+2023
+53%
+53%
+52%
+52%
+52%
+51%
+37%
+38%
+38%
+39%
+46%
+41%
+40%
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+2024
+2023
+Not measured
+Not measured
+51%
+51%
+50%
+The purpose of this figure is to highlight the percentage of organizations with relatively high data maturity, the lower maturity levels have been excluded to enhance readability.
+15
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+Value must be quantifiable and comparable
+Once executives have identified the problem areas that require 
+support from tech, they need to deliver and measure value. 
+For the executives in our research, the three most popular ways of 
+measuring value are: 
+In general, data maturity has increased, with over half of respondents 
+(52 percent on average) now at one of the two highest levels of data 
+proficiency — the influential/embedded stages, up from 40 percent  
+in 2023. 
+Cloud platforms play a key role in enhancing proficiency in this area. 
+Better data management and integration is the most commonly 
+identified gain from increased use of XaaS tech.
+Organizations can do much more with customer 
+feedback
+According to our execs, directing tech investments towards the 
+service pain points flagged by customers and employees is the 
+most influential tactic for generating quick wins from IT investments. 
+For instance, process points that have multiple handoffs between 
+stakeholders and multiple systems of record, with complex contracts 
+can often be riddled with human-error related execution issues 
+resulting in delays for customers. As an example, using data mining 
+to identify opportunities to employ smart contracts, supported by 
+blockchain or tokenization, can target these pain points to speed 
+up processing times and reduce the need for intervention from 
+intermediaries, while ensuring strong transparency and security levels.
+“Look at your major business processes and ask: Where are 
+inefficiencies dragging you down and keeping your organization from 
+achieving its purpose?” says Microsoft’s Chang. “These are the 
+points where technology is likely to be uniquely helpful.” 
+However, customer insights tend to be wasted: 78 percent of 
+execs say their business fails to use customer feedback effectively. 
+Perhaps this is because organizations are struggling to decide on 
+the required action to address the user feedback, or there may be 
+communication issues between front and back office. Ultimately, 
+unless organizations get better at using customer insights, tech 
+execs risk wasting their investments on low-value areas.
+Business growth metrics, 
+such as number of new 
+products launched
+Financial metrics, such 
+as cost-to-serve and 
+profitability
+Customer-centric metrics, 
+such as customer satisfaction 
+and customer base growth
+78%
+of execs say their business 
+fails to use customer feedback 
+effectively. 
+16
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+What do the high performers do?
+Which behaviors set leading organizations apart when it comes to defining and delivering value? Our research suggests they are more 
+likely to:
+Developing data-backed measurements tailored to the business 
+helps organizations establish cause and effect when they choose 
+and implement tech. Predictive modeling capabilities, when used 
+alongside these metrics, can advance the value creation journey by 
+enabling proactive decision-making, forecasting demand and internal 
+performance changes, identifying growth and cost optimization 
+opportunities, and mitigating potential risks. 
+Metrics forecasts are a helpful reference point for tracking 
+investment performance, enabling informed course correction 
+where required. For instance, 73 percent of execs say they perform 
+accurate cost forecasts in their digital transformation projects. It 
+also follows that the majority (67 percent) manage to prevent hidden 
+costs from disrupting their digital transformation journeys. 
+But our leading organizations go further. Compared with other 
+organizations, the top performers are more likely to use both 
+qualitative and quantitative metrics to establish causal trends, and 
+are more likely to use real-time data to guide decision-making. 
+By continuously monitoring performance, organizations spot where 
+to adjust in response to internal and external influences. As such, 
+the high performers in the research are 10 percentage points more 
+likely than the mainstream group to regularly review and update their 
+value-tracking metrics to stay aligned with market changes. 
+Make value-driven decisions aligned with their long-term goals: 
+Leaders are dedicated to ensuring their daily decisions contribute to long-term strategic goals and organizational 
+definitions of success. Over half (53 percent) of leading organizations strategically evaluate their tech investment 
+portfolio to ensure it aligns with their long-term goals, 12 percentage points higher than non-leaders.
+Get everyone on the same page: 
+Despite the challenge of managing a growing number of priorities and stakeholders, high performers achieve speed 
+to action by ensuring they have strong alignment across the organization. For instance, 90 percent of leaders can 
+efficiently achieve consensus between stakeholders, whereas other organizations are 18 percentage points less likely 
+to be able to do so.
+Adopt an “always-on” approach to performance management: 
+Leading organizations continually develop the quality and breadth of the inputs that are informing their decisions. 
+For instance, leaders are more likely to regularly review and update their value-tracking metrics as the market changes 
+and use qualitative and quantitative insights to assess their digital transformation plans.
+Master the balance between acting as a risk guardian and a transformation accelerator: 
+Leading organizations rank risk and cybersecurity metrics as most important for evaluating tech investments; 
+87 percent are confident in their ability to measure this type of value (compared with just 66 percent of other 
+organizations). Also these leaders are 21 percentage points more likely to ensure their portfolio of tech investments 
+are balanced from a risk perspective.
+17
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+17
+KPMG global tech report 2024
+Identifying value amid the hype
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Optimizing value through evidence-based decisions
+Delivering 
+resilient 
+solutions
+18
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Delivering resilient solutions
+Securing the most value from 
+identified opportunities relies on 
+robust data-driven processes, 
+security and governance. As 
+they troubleshoot the problems 
+that threaten their resilience, 
+organizations are placing 
+cybersecurity and data proficiency 
+at the top of their priority lists.
+Organizations are prioritizing data security, governance and accessibility
+To achieve this level of data proficiency, organizations are pursuing a high level of data security, governance and accessibility through stronger 
+compliance programs, frameworks and clear ownership and accountability of roles.
+Figure 5: Data security, accessibility and governance are the top areas of focus for improving data proficiency
+Which data management areas will your organization focus on improving in the next 12 months?
+Highest
+focus
+Highlighted most 
+by respondents as 
+data focus areas
+High-performing organizations stand out 
+with their higher focus on data security 
+and investments
+Data security
+Protecting the data our 
+organization stores through 
+the security of our systems, 
+standards, and governance 
+processes
+Data investments
+Ensuring data system 
+investments align with 
+priorities of all business 
+stakeholders
+Lowest
+focus
+Highlighted least 
+by respondents as 
+data focus areas
+Data security
+Data accessibility
+33%
+Data governance
+32%
+Extracting
+meaningful insights
+29%
+Data culture
+24%
+Data monetization
+24%
+Data science
+26%
+Data interoperability
+24%
+35%
+43%
+28%
+38%
+Total
+High performer
+Data investments
+28%
+35%
+Data both drives and sustains digital transformation. 
+Data maturity, security, and governance enable the pace of 
+innovation, and can help improve customer experiences. 
+Insufficiently secure solutions create the risk of data 
+breaches, inefficiencies, or missed opportunities, which 
+can erode business value and customer trust. Data security 
+and governance form a robust transformation delivery 
+infrastructure that underpins an organization’s strategic 
+ability to differentiate, maintain cost effectiveness and 
+manage risk in the digital era.
+19
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Delivering resilient solutions
+Data proficiency should be a core 
+competency for the organization
+While organizations are investing in data accessibility, 
+research indicates that only 24 percent are focusing 
+on nurturing a data-centric culture and ensuring data 
+interoperability in the near term. This oversight presents a 
+substantial barrier to fully harnessing technology’s potential 
+and undermines the ability to effectively use and understand 
+data across all levels of the organization. 
+In a landscape increasingly dominated by data, it’s crucial 
+that organizations break down these silos and cultivate 
+a deep, enterprise-wide appreciation of data strategy. 
+By doing so, they can accelerate digital transformation 
+towards success by optimizing processes, and dynamically 
+enhancing their products and services to meet customers’ 
+evolving needs.
+For sustainable innovation, execs need 
+to prioritize trust and security
+Execs must ensure that pace of innovation is sustainable, 
+secure and that they can communicate value to 
+stakeholders. The high performers in our research rate risk 
+and cybersecurity metrics, including reduced frequency of 
+cybersecurity incidents, improved compliance and lower 
+failure rates, as the most important lenses through which to 
+evaluate tech. They are also more likely to be confident that 
+they can track their performance in these areas. 
+This security-led stance of the leader group underlines the wider 
+importance of trust, and how to pursue it. Overall, for the executives 
+surveyed, cybersecurity and privacy are the biggest concerns for 
+achieving a successful digital transformation. They also maintain that 
+the top skill organizations need to thrive in a digital economy is the 
+ability to ensure such considerations are front and center of business 
+and tech priorities of the organization. 72 percent of organizations are 
+embracing a secure-by-design mindset by involving and empowering 
+cybersecurity teams in the early stages of tech investment projects. 
+In fact, cybersecurity and privacy can enable organizations to pursue 
+their business objectives securely and confidently, and embrace new 
+opportunities. Organizations need to learn from our high performers 
+group and do more to evaluate tech investments against risk and 
+cybersecurity factors. For this to be comprehensive, cybersecurity 
+experts need a seat at the table from the outset so they can advise 
+on how security can be embedded to build resilience and trust. 
+In doing so, cybersecurity and privacy can support the organization, 
+as a trust enhancer and protector of brand reputation, by minimizing 
+the need for costly retrofitting of security fixes and the risk of data 
+breaches.
+For many organizations, there is a disconnect between intentions 
+and reality regarding the security-related habits of their workforces. 
+Almost 8 in 10 (78 percent) respondents overall say that their staff 
+training treats cybersecurity as a box-ticking exercise and it is not 
+embedded as required.
+Rather than rely exclusively on formal training sessions, 
+organizations should focus on implementing controls and 
+operational features that make cybersecurity easy for employees 
+to embrace in their daily work. For instance, strategies such as 
+automating DevSecOps processes or providing access to password 
+manager platforms can promote more secure employee behaviors. 
+Michael Wagner, CISO at Kenvue, agrees that cybersecurity and 
+resilience must be at the forefront of daily tech usage. This includes 
+maintaining business continuity plans, having a retainer with an 
+incident response firm, testing backups and conducting regular 
+recovery exercises. 
+“Incident exercises, where different scenarios are presented, are 
+vital so that we can be prepared should the worst occur,” says 
+Wagner. “For instance, the CrowdStrike patch update issue [in 
+July 2024] caused widespread IT outages around the globe.”
+The wider picture here is that tech innovation is not the enemy 
+of risk management — rather, they should reinforce each other. 
+By starting with a clear definition of success that is rooted in  
+their organization’s purpose, tech execs will be able to direct  
+tech initiatives towards areas that will bring meaningful value. 
+An insight-led approach will enable execs to prioritize and make 
+decisions when it comes to delivering value.
+Polly Sumner 
+Chief Adoption Officer, Salesforce
+When data is embedded and people are 
+empowered, tools like AI are adopted very 
+quickly and this creates value super-fast. 
+Start with automation and free up people 
+to do what they do best, more quickly and 
+in more interesting ways. 
+ 
+20
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report 2024
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Delivering resilient solutions
+Tie investment to value: 
+Leaders consider it a top two priority to ensure data system 
+investments align with the priorities of key business stakeholders, 
+whereas other organizations place this outside of their top three  
+focus areas. 
+Perform routine data-hygiene audits: 
+Eighty percent of leaders conduct routine data hygiene audits to 
+address gaps in data integrity and create data ownership frameworks. 
+Other organizations are 31 percentage points less likely to have this as 
+a fundamental part of their strategies.
+Use data and internal knowledge sharing to respond to 
+market risks: 
+Leaders say data-centric decision-making (61 percent) and internal 
+knowledge sharing (48 percent) enable them to adjust their digital 
+transformation strategies in response to evolving market risks 
+(compared with 43 and 38 percent, respectively, of non-leaders). 
+While data insights can sharpen risk resilience, internal knowledge 
+sharing is crucial. By educating employees and keeping them informed 
+of developments, organizations will empower them to adapt and 
+contribute to positive change.
+Prioritize data security:  
+Leaders are 9 percentage points more likely than non-leaders to 
+cite security as a key area of focus for improvement over the next 
+12 months.
+What do the high performers do?
+How are the high-performing organizations strengthening their data backbones and 
+using data as an asset to deliver secure digital transformation outcomes? Our research 
+suggests these organizations are more likely to:
+Involve security 
+teams from the 
+outset: 
+Executives maintain 
+that cybersecurity 
+and privacy are the 
+biggest concerns for achieving a 
+successful digital transformation 
+but, when it comes to security, 
+moving at a measured pace is 
+important. Involving cybersecurity 
+and information governance 
+teams from the outset of 
+digital transformation initiatives 
+will help minimize delays and 
+enable businesses to progress 
+investments confidently. To reduce 
+security-related downtime, battle 
+test your organization’s threat 
+response reflexes. Kenvue’s Wagner 
+suggests that business continuity 
+plans, having a retainer with an 
+incident response firm, backups 
+testing and regular recovery 
+exercises will prove vital here.
+Challenge risk 
+aversion by 
+articulating the 
+costs of inaction: 
+A high 80 percent 
+of executives say 
+that a risk averse attitude leads 
+senior leadership to respond to 
+market forces more slowly than 
+competitors. When faced with 
+a scenario where risk aversion 
+is influencing senior leadership 
+towards gridlock, one helpful 
+tactic to kick-start movement is to 
+evaluate the risks of inaction against 
+the change being considered. For 
+instance, losing market share to 
+competitors because of a failure 
+to adapt your product offering. If 
+analysis reveals that the threats 
+associated with staying idle are 
+too concerning to ignore, this can 
+stimulate forward momentum and 
+creative thinking to tackle challenges 
+and manage the risks that come 
+with embracing the change.
+Accelerate 
+progress by 
+removing 
+governance 
+bottlenecks: 
+Poor governance 
+and coordination appear in the 
+top three toughest challenges 
+that derail transformation 
+progress. For instance, 
+58 percent say their centralized 
+decision-making reduces their 
+organization’s ability to respond 
+to market signals and embrace 
+new tech, while 57 percent say 
+that friction and communication 
+breakdowns occur frequently 
+between teams at times of 
+high workload.
+01
+02
+03
+How to overcome threats to digital transformation 
+Executives are keen to speed up their tech progress, but to do so reliably, effective risk management is essential. 
+Consider the following tactics to manage the most common threats to digital transformation velocity and quality.
+21
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Delivering resilient solutions
+Scaling 
+AI with 
+confidence
+22
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+Applying AI as an organization can 
+unlock a lot of excitement for your 
+workforce because it can really boost 
+employee wellbeing.
+AI can take the pain out of longstanding 
+problems that have previously sapped 
+time and energy from employees and, 
+in turn, enhance job satisfaction. 
+Michelle Chang 
+CFO/CVP, Microsoft Customer and Partner Solutions
+1 https://kpmg.com/xx/en/home/services/kpmg-trusted-ai.html
+Almost three-quarters of organizations 
+are already achieving business value 
+from their AI investments, but only 
+one in three has been able to achieve 
+this at scale.
+Enthusiasm is being fueled by 
+democratized experimentation 
+approaches, but as use cases scale up 
+many predict a tipping point marking a 
+drive towards greater centralization. 
+The AI ‘black-box’ is causing workforce anxiety
+It is positive that 74 percent of respondents say AI is already 
+increasing the productivity of their knowledge workers, improving 
+their organization’s overall performance. Furthermore, just over 
+8 in 10 respondents expect automation efforts to shift the focus of 
+knowledge workers towards more creative roles, and that AI will 
+even redefine the future of knowledge itself. 
+However, AI is also fueling anxiety in the workforce. Consensus 
+and trust will be the keys to progress. More than three-quarters 
+of organizations (78 percent) are concerned that many users see 
+AI as a ‘black box’. Almost as many (77 percent) expect AI to pose 
+challenges to their current operational structures, potentially leading 
+to job reduction and ethical concerns. 
+Managing employee anxiety around change will be critical to AI 
+adoption at speed. Those who navigate the evolving tech landscape 
+with a focus on employee empowerment, and bringing everyone on 
+board, will flourish amid rapid change. Organizations believe their 
+workforce has an appetite for cutting-edge tech. But there is also 
+fear that some individuals feel left behind by the rapidly evolving 
+tech landscape. 
+In an era where AI’s rapid evolution and adoption are reshaping the 
+competitive landscape, tech execs need to rethink their strategic 
+leadership roles. Three-quarters (76 percent) of tech execs surveyed 
+feel that their role has evolved significantly over the past two 
+years as the nature of tech and the workforce itself is changing. 
+Tech execs must manage board level expectations during a period 
+of hype cycles and cost sensitivity. At the same time, they must 
+balance this against the need for a stable, coherent environment 
+in which the workforce can harness AI, rather than stifling it. Tech 
+execs play a critical role in steering their organizations through 
+uncertain times, acting as a strategic innovator, adaptive pioneer, 
+trend navigator and risk guardian. 
+To find out more about the use cases for AI across the enterprise, visit our website.
+Importantly, there are ways to address such concerns. KPMG’s 
+Trusted AI1 framework, for example, emphasizes 10 pillars upon 
+which to design, build, deploy and use AI solutions in an ethical 
+manner. They include priorities such as fairness, sustainability, 
+privacy, security and accountability.
+23
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+74%
+Figure 6: Just one-third of organizations have successfully scaled AI to production
+Which of the following best describe your organization’s current maturity level with AI adoption?
+Increasing maturity
+31%
+43%
+19%
+6%
+1%
+Scaling AI: We are innovating and deploying AI use cases 
+into production at scale. We have achieved ROI on a number 
+of our AI use cases.
+Strategically investing in AI: We have invested 
+strategically in core business capabilities and have AI use 
+cases running actively across the organization that are 
+returning business value.
+Testing AI: We have a large number of AI proof-of-concept 
+tests running but haven't achieved ROI yet. We have a limited 
+number of ad hoc use cases in production.
+Early stage: We have a small number of AI proof-of-concept 
+experiments.
+Not started: We haven’t implemented any AI yet but plan to 
+at some point in the future.
+Notably, organizations in certain countries — including China, the US, the UK, Germany, Israel and Saudi Arabia — are most likely to have 
+mature AI investments already generating value. At sector level, industrial manufacturing, life sciences and healthcare appear to be leading.
+of respondents say AI 
+is already increasing 
+the productivity of 
+their knowledge 
+workers, improving 
+their organization’s 
+overall performance.
+Most organizations are now seeing some return on 
+AI, but value at scale remains more elusive 
+AI adoption is gathering speed, and so is the rate of return (three out 
+of four organizations this year are already generating value from AI). 
+However, only 31 percent of all organizations achieve this at scale.
+Given the expanding range of potential use cases for AI, it’s essential 
+to establish a strategy aligned with business goals, adopt a portfolio 
+approach to explore a range of opportunities simultaneously, make 
+trade-off decisions led by proven value, and employ an iterative 
+process for consistent monitoring and enhancement.
+24
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+Figure 7: Organizations are embracing a 
+decentralized approach to AI innovation
+Democratized experimentation: 
+We have guardrails and AI risk training in place and we 
+encourage our workforce to experiment within those boundaries
+More democratized
+More centralized
+34%
+40%
+Open collaboration: 
+We have controlled groups of experimentation or AI 
+centers of excellence featuring employees from every 
+department across our business
+Selective collaboration: 
+Our dedicated AI team invites consultation from employees in 
+different departments, and decides on which ones to pursue
+Top-down experimentation: 
+We have heavy constraints around AI use. Authorized AI use 
+cases are being rolled out by our AI/IT team and employees 
+are prohibited from using AI for anything else
+We are not experimenting with AI yet
+19%
+6%
+1%
+Which of the following best describe how your company is 
+experimenting with potential AI use cases?
+Rather than a stringent centralized approach, organizations are 
+adopting a more inclusive mindset around AI experimentation, 
+crowdsourcing use cases from their workforces. The most popular 
+approach is open collaboration, where diverse working groups 
+conduct controlled experiments, sometimes supported by AI centers 
+of excellence (CoEs) with representatives from every department. 
+This approach is prioritized by organizations at the most mature level 
+of AI implementation. Only 6 percent of organizations subscribe to 
+a top-down approach to AI experimentation with heavy constraints 
+around AI use from the outset. 
+While initially encouraging democratized experimentation, many 
+respondents (40 percent) plan a shift to a more centralized approach 
+once they reach a critical mass of ideas that require stricter 
+management to control risk and reduce duplication. In doing so, 
+organizations should apply a balanced approach and steer away from 
+overly stringent approval processes to avoid stifling innovation. One 
+way of balancing speed with risk is driving alignment through cross-
+functional CoEs or user groups, and only centrally managing AI 
+initiatives that those groups identify as high-risk or high complexity. 
+Regardless of their chosen experimentation approach, organizations 
+have the opportunity to consolidate underlying processing and data 
+infrastructure leading to gains in efficiency, reduced technical debt 
+and a more effective end solution.
+A systematic approach is key to prioritizing AI 
+investment in alignment with business goals
+To ensure the use cases with the greatest potential receive the 
+attention and cross-functional support they require, there must be a 
+strong roadmap to scaling and a clear link to business value. Many 
+organizations are chasing short-term value by implementing AI tools 
+in discrete parts of the value chain — that is, identifying specific use 
+cases for deployment — where they see potential to solve problems 
+or drive value. This is an understandable approach, but they must be 
+careful not to create a tangle of initiatives that become increasingly 
+difficult to track and compare.
+Tracking expenditure and return on poorly integrated initiatives is even 
+more pressing, given organizations expect to increase investment in 
+AI over the next 12 months. Their top short-term goals for AI over the 
+next year are to drive increased operational efficiency via automation, 
+improve product and service development and innovation, and 
+enhance pattern detection and issue correction. 
+Data outlining customer behavior and feedback can help organizations 
+understand where to apply AI for maximum effect. Salesforce’s 
+Sumner raises the example of insurance, where automating contact 
+points with customers worked well until policyholders wanted to 
+notify their insurer of a loss. “Insurers were never able to get more 
+than 10 percent of customers to do that online. They realized people 
+were looking for human empathy.” This example shows how truly 
+listening to customers can guide to the right path for delivering real 
+value, and it’s a reminder that AI should be a tool or collaborator for 
+human workers, rather than a replacement. 
+Organizations should move away from disjointed AI use cases, and 
+adopt a portfolio approach towards AI, focus on maximizing ROI while 
+balancing innovation with risk mitigation.
+Success that outlasts the hype will require 
+consensus across the enterprise
+The biggest barrier facing many organizations is moving from 
+experimentation to production, says Naveen Zutshi, from Databricks. 
+In scaling up an AI use case from a PoC to a more widespread 
+production-level organizational practice, “the bottleneck is the 
+confidence in the reliability, quality and safety of those AI models,” 
+Zutshi says. “That comes back to data quality. You need to understand 
+how the data is flowing: do you have sovereignty rights over the data, 
+are you doing the right masking and encryption, and how are you 
+looking at access controls right down to row and column level?”
+25
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report 2024
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+01
+02
+03
+04
+05
+Generative AI is introducing a brand-new risk vector to the tech 
+domain, such as ‘hallucinations’, ‘jailbreaks’ and ‘adversarial 
+prompting’ that can manipulate AI. The unexpected consequences 
+of generated content have appeared seemingly frequently in 
+the news this year. In light of this, when scaling emerging tech, 
+organizations will need to have the governance and processes in 
+place to control emerging risks. Survey respondents highlight the 
+importance of continually developing AI governance policies for 
+ethical and fair use in line with the evolving regulatory landscape. 
+The process of establishing trusted guardrails and controls requires 
+a multi-lens end-to-end secure approach to designing, building and 
+deployment that incorporates coding best practice, code reviews, 
+staff training and red teaming exercises that test the performance 
+and reliability of AI models.
+The ongoing AI hype may tempt organizations to make hurried 
+decisions. However, successful AI adoption requires an enterprise-
+wide multidisciplinary effort and a clear alignment across the 
+enterprise, and a shared understanding of AI’s role and its potential. 
+Organizations that can clearly define and communicate the value of AI 
+to all stakeholders within the context of their business objectives, and 
+execute through thoughtful collaboration, will have a greater chance of 
+maximizing its impact across the enterprise.
+As organizations embark on their AI transformation journeys, tech execs are at the forefront of navigating this complex and evolving 
+landscape. In order to go beyond the hype and harness the potential of AI while balancing speed, risk, and value, they should focus on 
+five key areas: 
+Delivering value from AI: 
+By aligning AI initiatives with overall business strategy, setting expectations for ROI, and allocating budget to AI transformation.
+Unlocking AI capability: 
+By upskilling teams to work with AI, setting up organizational governance structures, and identifying capabilities required 
+across the business.
+Building trust in AI: 
+By identifying and addressing risks associated with AI, ensuring data quality and integrity, managing shadow AI and securing 
+sensitive data used in AI.
+Scaling AI with confidence: 
+By deciding whether to build or buy AI capabilities, identifying suitable partners and vendors, and focusing on interoperability 
+with existing IT infrastructure.
+Architecting AI transformation: 
+By engaging with the business and its various leaders to plan AI rollouts by value stream, function, or product, establishing an 
+adoption roadmap, and integrating AI into existing business, digital, and tech strategies. 
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+26
+KPMG global tech report 2024
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+How are leading organizations extracting maximum value from their AI investments? 
+Our research suggests they are more likely to:
+What do the high performers do?
+Use AI to analyze performance:
+Ninety-three percent of leaders are using AI or 
+predictive analytics to measure tech performance, 
+which is 23 percentage points above the rest.
+Address skill gaps with AI:
+Eighty-nine percent of high-performing 
+organizations say their business is using AI to fill 
+skill gaps among knowledge workers, which is 
+18 percentage points above other organizations.
+Encourage their wider workforce to contribute  
+to AI experiments:
+Nearly half of all high-performing organizations (47 percent) have 
+consolidated AI expertise and innovation through creating CoEs 
+as the sources of their AI experimentation. These working groups 
+feature employees from every department of the organization.
+27
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Conclusion and key recommendations
+Foreword
+Scaling AI with confidence
+Conclusion 
+and key  
+recommendations
+The alchemy of successful digital 
+transformation
+28
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Foreword
+Conclusion and key recommendations
+While the pace of digital transformation can 
+be daunting, our research shows that many 
+organizations are taking considerable strides 
+forward in their implementation journeys, 
+especially with AI, XaaS and cybersecurity.
+The additional profitability that transformation has yielded so far is certainly 
+encouraging and organizations are seeking value beyond profits. Execs are 
+calibrating their digital transformation formulas to supercharge progress 
+across a range of strategic objectives, including ESG responsibilities and 
+customer experience elevation.
+This year’s findings reveal that primary evidence, such as PoC tests and ROI, 
+is taking precedence over a herd mentality. This empirical ethos will be integral 
+to securing value and making wise choices, especially as tech execs try to 
+balance the maintenance of legacy systems with a focus on new technology. 
+To help guard against stakeholder skepticism associated with the safety and 
+viability of new digital transformation opportunities, organizations should also 
+bring structure, discipline and an enterprise mindset to the adoption of new 
+technology, to mitigate risks and optimize value realization. 
+The tech execs who make the superior decisions, safely steering their 
+organization through various headwinds and risks, will be those that stay 
+firmly rooted in a data-centric and value-led approach. These transformers 
+will draw on both real-time and predictive data insights from a broad range 
+of sources to make balanced judgment calls that align to the broader 
+business and tech strategies, to drive sustainable value. 
+Organizations that consistently 
+demonstrate these behaviors 
+can outpace their competition 
+and unlock the potential of 
+their technology investments, 
+securing and growing market 
+share as they do so.
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+29
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Foreword
+Conclusion and key recommendations
+Our respondents demonstrate that AI is already living up to the hype, with the majority of executives confirming they have already achieved business value from AI systems. To maintain momentum, organizations 
+should reinforce their data management foundations. As AI PoC experiments are scaled up to production level, data integrity and reliability among other criteria, will dictate whether these innovations result in 
+breakthroughs or costly setbacks. 
+The attitudes and behaviors of high-performing organizations in this report provide many clues as to how to secure value from tech innovation.
+Harness the 
+power of 
+partnership 
+Resist being 
+hypnotized by 
+FOMO 
+While a desire to 
+progress and outpace 
+your competition is 
+healthy, do not let this 
+boil over and distort your 
+judgment. Rather than 
+blindly following the herd, 
+anchor decisions in your 
+organization’s strategic 
+objectives and look for 
+tangible primary evidence 
+of the right path to take.
+Be empirical about 
+deﬁning and 
+delivering value 
+Align stakeholders around a 
+clear deﬁnition of success 
+that cascades into a set of 
+tangible metrics. Adopt an 
+“always-on” approach to 
+performance management 
+and continuously monitor and 
+adjust metrics in accordance 
+with internal and external 
+changes. These steps will help 
+the organization to conﬁdently 
+make decisions and deliver 
+the value promised.
+Mitigate 
+technical debt
+Embrace structured 
+technical debt 
+management. Establish 
+clear remediation plans 
+and robust architecture 
+principles to contain and 
+rationalize the technology 
+landscape.
+Innovation is not 
+restricted to new 
+technology. Explore new 
+ways to collaborate, 
+co-invest and share 
+risk with your chosen 
+partners. Use their 
+networks to gain access 
+to the latest technology 
+and inventive ideas from 
+around the globe.
+Prioritize trust 
+and security 
+Ensure solutions are 
+secure by design and 
+embed trust and security 
+assurance from the 
+outset. Design, build, 
+deploy and use AI and 
+emerging tech solutions 
+in a responsible and 
+ethical manner so 
+your organization can 
+accelerate value with 
+conﬁdence.
+Build a strong 
+data backbone 
+Establish a robust data 
+management framework 
+that combines data, people, 
+processes and policies 
+to ensure information 
+is reliable, relevant and 
+appropriately used. Drive 
+a shared understanding 
+across the organization 
+of how to harness data 
+more effectively to support 
+rapid and informed 
+decision-making.
+Develop AI 
+proﬁciencies through
+knowledge sharing
+Test your workforce 
+competence and 
+sentiment on AI, and 
+use this to determine 
+the best way to bridge 
+knowledge gaps, 
+facilitate continuous 
+learning and encourage 
+cross-functional 
+collaboration. 
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+30
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+30
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Foreword
+Conclusion and key recommendations
+Powered
+Connected
+T
+r
+a
+n
+s
+f
+o
+r
+m
+a
+ti
+o
+n 
+J
+o
+u
+r
+n
+e
+y
+q
+ui
+c
+kl
+y 
+a
+n
+d 
+c
+o
+n
+ﬁ
+d
+e
+n
+tl
+y.
+U
+nl
+o
+c
+k 
+ﬁ
+n
+a
+n
+ci
+al
+ v
+al
+u
+e
+E
+l
+e
+v
+a
+t
+e
+Rebuilding your 
+business, end-to-end,
+around your customers
+Driving outcome
+driven functional
+transformation
+Building and sustaining
+the trust of your
+stakeholders
+Trusted
+The KPMG digital transformation suite
+Scalable Managed Services
+Helping to sustain your business transformation across the front, middle, and back ofﬁce.
+How KPMG firms 
+can help 
+Our research indicates that as tech execs look to harness 
+the potential of various technological innovations, they must 
+navigate a tangle of threats and demands, including cyber 
+attackers, stubborn tech debt and complex value equations. 
+To assist you in combatting these concerns, KPMG 
+professionals can help you set the vision for the future based 
+on your organizational goals, execute digital transformation 
+and deliver managed services. KPMG firms’ tech consulting 
+practices have extensive experience in key tech capability 
+areas and a global delivery network to support your 
+digital transformation.
+We offer leading products, solutions, and accelerators to jump 
+start your transformation and help leverage the latest tech. 
+We offer a broad set of tech services across strategy, 
+platforms, cybersecurity, data, AI and emerging tech, cloud, 
+and risk, so we can help deliver results that matter. 
+Our alliance partnerships allow us to approach your 
+most pressing tech-based challenges and offer broad 
+solutions and services via expanded product offerings 
+and increased capabilities.
+31
+KPMG global tech report 2024
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report 2024
+Identifying value amid the hype
+Optimizing value through evidence-based decisions
+Delivering resilient solutions
+Scaling AI with confidence
+Conclusion and key recommendations
+Foreword
+Some or all of the services described herein may not be permissible for KPMG audit clients and their affiliates or related entities.
+All images in this report have been created using artificial intelligence technology.
+kpmg.com
+Contacts
+Bobby Soni
+Global Technology Consulting Leader
+KPMG International
+bobbysoni@kpmg.com
++1 408 367 158 
+Guy Holland
+Global Leader, CIO Centre of Excellence
+KPMG International
+guyholland@kpmg.com.au
++61 410 530 410
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that 
+such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2024 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity.
+KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. For more details about our structure please visit kpmg.com/governance.
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.
+Throughout this document, “we”, “KPMG”, “us” and “our” refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity.
+Designed by Evalueserve.
+Publication name: KPMG global tech report 2024  |  Publication number: 139536-G  |  Publication date: September 2024

@@ -1,0 +1,1471 @@
+February 2025
+kpmg.com/in
+Accounting and 
+Auditing Update
+Issue no. 103/2025
+KPMG. Make the Difference.
+Editorial
+Ind AS 103, Business Combination provides 
+guidance on accounting for business combinations 
+under the acquisition method. Business 
+combinations are transactions or events in which a 
+reporting entity (acquirer) obtains control of one or 
+more businesses (the acquiree). The date of 
+acquisition is the date on which acquirer obtains 
+control of the acquiree. Ind AS 103 provides the 
+acquirer a time frame, referred to as the 
+‘measurement period’, after the acquisition date to 
+finalise its initial accounting of the business 
+combination. An acquirer in a business 
+combination is required to report provisional 
+amounts when the measurements are incomplete 
+at the end of the reporting period covering the 
+business combination. This edition of Accounting 
+and Auditing Update (AAU) includes an article to 
+discuss the key aspects of the measurement 
+period in a business combination. It discusses the 
+use of provisional amounts, the accounting 
+implications of adjustments made within this 
+period, and the required disclosures in such 
+situations.
+The IFRS Sustainability Disclosure 
+Standards IFRS S1, General Requirements for 
+Disclosure of Sustainability-related Financial 
+Information and IFRS S2, Climate-related 
+Disclosures issued by the International 
+Sustainability Standards Board (ISSB) form the 
+global baseline for sustainability-related 
+disclosures. The standards require companies to 
+provide a complete and balanced explanation of 
+sustainability-related risks and opportunities. 
+Companies disclose material information about the 
+sustainability-related risks and opportunities that 
+could reasonably be expected to affect an entity’s 
+cash flows, its access to finance or its cost of 
+capital over the short, medium, or long term. 
+To support the implementation of IFRS 
+Sustainability Disclosure Standards, in November 
+2024, the ISSB issued an education material 
+‘Sustainability-related risks and opportunities and 
+the disclosure of material information’. The 
+educational material provides guidance to help 
+identify and disclose material information about 
+sustainability-related risks and opportunities that 
+are likely to affect an entity’s prospects. The article 
+on this topic summarises the education material 
+and discusses guidance related to identification 
+and disclosure of material information.
+There have been various regulatory developments 
+in India and internationally during the month. 
+Recently, the Securities and Exchange Board of 
+India (SEBI) various notifications such as a 
+consultation paper to review aspects relating to 
+secretarial compliance report, appointment of 
+auditors and Related Party Transactions (RPT). 
+Additionally, SEBI issued a circular to provide 
+Industry Standards Forum (ISF) to introduce 
+standards for minimum information to be provided 
+by listed entities for review by audit committee and 
+shareholders for approval of RPTs. Subsequently, 
+ISF introduced ‘Industry Standards on minimum 
+information to be provided for review of the audit 
+committee and shareholders for approval of RPT’. 
+The Reserve Bank of India (RBI) issued revised 
+guidelines for Asset Reconstruction Companies 
+(ARCs) to provide a structured and detailed 
+framework for the settlement of dues by ARCs. 
+Recently, the Institute of Chartered Accountants of 
+India (ICAI) released its publication ‘Guidance on 
+Non-Compliances Observed by Quality Review 
+Board (QRB)’ to highlight common non-
+compliances identified by the QRB and provides 
+essential guidance to address these issues 
+effectively. Our regulatory updates section covers 
+these and other important regulatory 
+developments.
+We would be delighted to receive 
+feedback/suggestions from you on the topics we 
+should cover in the forthcoming editions of AAU. 
+Sai Venkateshwaran 
+Partner - Assurance 
+KPMG in India
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+04
+CHAPTER 1
+The measurement 
+period in business 
+combination
+This article aims to:
+• Discuss the key aspects around measurement period in a 
+business combination.
+Accounting and Auditing Update – February 2025
+Ind AS 103, Business Combination provides 
+guidance on accounting for business combinations 
+under the acquisition method. Business 
+combinations are transactions or events in which a 
+reporting entity (acquirer) obtains control of one or 
+more businesses (the acquiree). 
+Business combinations are generally complex 
+transactions and amongst the many challenges in 
+accounting of these transactions, determining the 
+fair values of acquiree’s assets liabilities and non-
+controlling interest are particularly challenging 
+when the business combination occurs shortly 
+before the reporting period end or in situations 
+where terms of business combination agreement 
+are complex. Ind AS 103 provides an acquirer a 
+time frame, referred to as the ‘measurement 
+period’, to finalise its initial accounting of the 
+business combination. In such situations, the 
+acquirer is required to report provisional amounts 
+for the items for which the accounting is 
+incomplete, in its financial statements prepared 
+during the measurement period. 
+This article discusses the key aspects of 
+measurement period, use of provisional amounts, 
+accounting implications of adjustments made 
+within the measurement period and the 
+disclosures required.
+05
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+What is measurement period?
+Measurement period is the period after the 
+acquisition date during which the acquirer may 
+adjust the provisional amounts recognised for the 
+business combination. Measurement period 
+provides entities with a reasonable period of time 
+to obtain the information necessary to identify and  
+measure the following as of the acquisition date in 
+accordance with the requirements of Ind AS 103:
+The identifiable assets acquired, liabilities 
+assumed and any non-controlling interest in the 
+acquiree.
+The consideration transferred for the acquiree 
+(or other amount used in measuring goodwill)
+The equity interest in the acquiree previously 
+held by the acquirer if the business 
+combination is achieved in stages
+The resulting goodwill or gain on a 
+bargain purchase
+(Source: KPMG in India analysis, 2025 based on Ind AS 103)
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+Ind AS 103 states that the measurement period ends as 
+soon as the acquirer receives the information that it 
+needs or learns that more information is not obtainable 
+and such period cannot exceed one year from the 
+acquisition date.
+Is measurement period an open period?
+06
+Ind AS 103 does not provide specific guidance on determining 
+provisional amounts. These amounts are determined based on the 
+available information at the date of acquisition, consistent with the 
+recognition and measurement requirements of the standard. Entities 
+would be expected to make a reasonable effort to determine 
+provisional amounts, and it would not be appropriate to assign only 
+nominal amounts, or no amounts, solely because the acquirer 
+anticipates it is likely to receive additional information about facts and 
+circumstances that existed at the date of acquisition.
+Ind AS 103 requires the acquirer to consider all pertinent factors in 
+determining whether information obtained after the acquisition date 
+would result in an adjustment to the provisional amounts recognised or 
+whether that information results from events that occurred after the 
+acquisition date. Some of the pertinent factors are: 
+•
+Date when additional information is obtained 
+•
+Whether the acquirer can identify a reason for a change to 
+provisional amounts. 
+Information obtained shortly after the acquisition date is more likely to 
+reflect circumstances that existed at the acquisition date than the 
+information obtained several months later. For example, unless an 
+intervening event that changed its fair value can be identified, the sale 
+of an asset to a third party shortly after the acquisition date for an 
+amount that differs significantly from its provisional fair value measured 
+at that date is likely to indicate an error in the provisional amount.
+Thus, whether an event should be recognised as an adjustment to a 
+provisional amount or as a post-combination event may involve 
+significant judgement.
+An example where an entity may report in its financial statements using 
+provisional amounts during the measurement period would be when an 
+entity has not obtained the final valuation report required to account for 
+the assets acquired and liabilities assumed in an acquisition by the 
+time it issues its financial statements for the first reporting period 
+following the business combination. 
+Measurement period adjustments may affect not only the measurement 
+of assets and liabilities but also their recognition. There could also be 
+situations where new information is obtained about facts and 
+circumstances that existed at the date of acquisition that may result in 
+recognition of additional assets or liabilities that were not recognised at 
+the acquisition date In other words, new information might be obtained 
+about facts and circumstances that existed at the acquisition date, but 
+that were unknown at that date. This may indicate additional assets or 
+liabilities (including those arising from contingencies) not recognised in 
+the initial accounting for an acquisition should be recognised as part of 
+the accounting for the business combination.
+What are provisional amounts?
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+Until the accounting for a business combination is 
+complete, the acquirer is required to disclose the 
+following in its annual financial statements and in 
+any interim financial statements:    
+•
+The reasons why the initial accounting for the 
+business combination is incomplete
+•
+The assets, liabilities, equity interests or items 
+of consideration for which the initial accounting 
+is incomplete, and
+•
+The nature and amount of any measurement-
+period adjustments recognised during the 
+period.
+Adjustment to provisional amounts 
+Measurement-period adjustments are analogous 
+to adjusting events after the reporting date under 
+Ind AS 10, Events after the Reporting Period i.e. 
+events that occur after the reporting date but 
+before the financial statements are authorised for 
+issue and that provide evidence of a condition that 
+existed at the reporting date .
+Similarly, the effects of information that first 
+becomes available during the measurement period 
+and that provides evidence of conditions or 
+circumstances that existed at the date of 
+acquisition are reflected in the accounting at the 
+date of acquisition – i.e. the adjustments are 
+recognised retrospectively as if the accounting 
+was completed at the date of acquisition. 
+The acquirer revises its comparative information 
+for prior periods presented in financial statements 
+as needed, including making any change in 
+depreciation, amortisation or other effects on 
+comprehensive income that arise as a result of the 
+adjustments.  
+After the measurement period ends, the 
+acquisition accounting is adjusted only to correct 
+an error in accordance with Ind AS 8, Accounting 
+Policies, Changes in Accounting Estimates and 
+Errors. 
+Disclosures required during the measurement period
+07
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+08
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+These concepts are discussed by way of the following case studies:
+Case Study 1
+•
+Company A acquires Company B on 28 February 2024. Company A seeks an independent valuation 
+for an item of Property, Plant and Equipment (PPE) acquired in the business combination.
+•
+The valuation for the said PPE was not complete by the time Company A issued its financial 
+statements for the year ended 31 March 2024(*). 
+•
+In its financial statements for the year ended 31 March 2024, Company A recognised provisional fair 
+value for such PPE, based upon information available, as INR30 crore. 
+•
+At the acquisition date, the said PPE had a remaining useful life of five years. 
+•
+Five months after the acquisition date, Company A received the independent valuation, which 
+estimated the asset’s acquisition-date fair value as INR40 crore.
+Evaluation of the measurement period adjustment in the financial statements for year ended 
+31 March 2025:
+In the year ended 31 March 2025, 
+a) Company A would determine the measurement period adjustment of INR9.83 crore at the acquisition 
+date as follows:
+•
+Fair value of INR40 crore less provisional value of INR30 crore i.e. INR10 crore less the additional 
+depreciation that would have been recognised if the PPE was accounted at INR40 crore at the 
+acquisition date (INR16.83 lakh for depreciation for a month).
+b) Company A would retrospectively adjust the prior year information related to the acquisition of 
+Company B as follows:
+•
+The carrying amount of PPE as at 31 March 2024 will increase by INR9.83 crore
+•
+The carrying amount of goodwill as at 31 March 2024 will decrease by INR10 crore
+•
+Depreciation expense for the year ended 31 March 2024 will increase by INR16.83 lakh.
+c)
+In accordance with paragraph B67(a) of Ind AS 103, Company A would disclose that the 
+comparative information for the year ended 31 March 2024 is adjusted retrospectively to increase the 
+fair value of the item of PPE at the acquisition date by INR9.83 crore, with a corresponding decrease 
+in goodwill of INR10 crore and an increase in depreciation expense of INR16.83 lakh.
+*It is pertinent to note that Company A in its financial statements for the year ended 31 March 2024 would disclose the reasons of why the initial accounting for PPE acquired in the business combination is incomplete.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+09
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Distinguishing between new information about conditions that existed at the date of acquisition from 
+Information that result from events that occur after the date of acquisition could have a significant impact 
+on accounting of business combination. This assessment involves exercise of significant judgement. 
+It is pertinent to note that measurement period does not provide an open one-year period following the 
+acquisition date to complete the acquisition accounting. This is only to provide reasonable time to the 
+acquirer to deal with accounting of complex business combination transaction and ends as soon as the 
+acquirer receives the information it was seeking about facts and circumstances that existed as of the 
+acquisition date or learns that more information is not available. In no circumstances should the 
+measurement period exceed one year from the acquisition date.
+As the standards do not provide elaborate guidance to determine provisional amounts, this requires 
+companies to make reasonable efforts and significant judgement to determine these amounts 
+appropriately based upon information available as at the acquisition date. Further, the entities should 
+provide comprehensive disclosures about the items for which the business combination accounting has 
+not been completed along with reasons and the nature and amount of any measurement-period 
+adjustments recognised during the period.
+The bottom line
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+Case Study 2
+•
+Company A acquires Company B on 28 February 2024
+•
+In its financial statements for the year ended 31 March 2024, Company A accounted for the assets 
+acquired and liabilities assumed at provisional fair values
+•
+In April 2025, Company A obtained new information about facts and circumstances that existed as of 
+the acquisition date that, if known, would have resulted in the recognition of an additional liability at 
+that date.
+Evaluation of the measurement period adjustment in the financial statements for year ended 
+31 March 2025:
+•
+In this case, the measurement period ended on 28 February 2025 i.e. one year from the acquisition 
+date
+•
+Management obtained the  new information about facts and circumstances that existed as at the 
+acquisition date in April 2025 i.e. after the end of measurement period, and concluded that such 
+adjustment is not resulting from an error in the business combination accounting
+•
+In this case, because the measurement period has ended and the adjustment resulting from the new 
+information is not due to an error, Company A would not adjust the business combination accounting 
+•
+Instead, Company A would treat the new information as a subsequent event with respect to its 
+financial statements for the year ended 31 March 2025. Accordingly, the financial statements for the 
+year ended 31 March 2025 would reflect the effect of the adjustment resulting from the new 
+information in financial statements for the year ended 31 March 2025 by recognising the additional 
+liability through a charge to Statement of profit and loss.
+CHAPTER 2
+Sustainability reporting – 
+Disclosure of material 
+information 
+This article aims to:
+• Discuss the guidance on disclosure of material information 
+related to sustainability related risks and opportunities. 
+10
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+In continuation of our previous article in January 2025 edition, this article aims to discuss the guidance related to identification and disclosing of material information.
+With an aim to support the implementation of first two IFRS Sustainability Disclosure Standards (the ISSB standards):
+•
+IFRS S1, General Requirements for Disclosure of Sustainability-related Financial Information (IFRS S1)
+•
+IFRS S2, Climate-related Disclosures (IFRS S2)
+In November 2024, the ISSB issued an education material ‘Sustainability-related risks and opportunities and the disclosure of material information’. The standards require companies to disclose material 
+information about the sustainability-related risks and opportunities that could reasonably be expected to affect entity’s prospects. The educational material explains the requirements related to identifying and 
+disclosing material information about sustainability-related risks and opportunities that could reasonably be expected to affect an entity’s prospects. 
+The educational material is structured into three sections:
+•
+Chapter 1: The definition of material information and its application in ISSB standards: Discusses the main components of the definition of ‘material information’ to enable an understanding of the use of 
+this term and how to make materiality judgements in that context. 
+•
+Chapter 2: Sustainability-related risks and opportunities that could reasonably be expected to affect an entity’s prospects and its application in ISSB standards: Discusses what sustainability-related 
+risks and opportunities are and how they could reasonably be expected to affect an entity’s prospects to enable an understanding of how this concept is used in ISSB standards. 
+•
+Chapter 3: Identifying and disclosing material information: Discusses the requirements associated with identifying and disclosing material information about sustainability-related risks and opportunities that 
+could reasonably be expected to affect an entity’s prospects. 
+In our previous edition of Accounting and Auditing Update January 2025, we have discussed the guidance related to identification of sustainability-related risks and opportunities. The subsequent section discusses 
+guidance related to identification and disclosing of material information.
+11
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+The standard requires entities to provide material information about an entity’s sustainability-related risks and opportunities to help meet the information needs of primary users. The information is considered 
+material when omitting, misstating or obscuring that information could reasonably be expected to influence primary users’ decisions. However, the distinct scope of the reported information including differences in 
+relevant time horizons and the types of information required to meet the respective objectives of sustainability-related financial disclosures and the related financial statements requires that distinct materiality 
+judgements should be used for those disclosures and for the related financial statements.
+In relation to definition of ‘material information’, the education material provides following guidance relating to main components of the definition:
+•
+Information needs of primary users and the decisions they make based on general purpose financial reports: Materiality judgements involve considerations relating to both who the primary users are 
+and what decisions they make based on general purpose financial reports. General purpose financial reports do not, and cannot, provide all the information that all primary users need. Therefore, an entity 
+should meet the common information needs of primary users. Additionally, an entity assesses whether information is material based on whether that information could reasonably be expected to influence 
+decisions of primary users. Although the entity itself makes this assessment, it is based on the perspective of primary users and their information needs. The materiality assessment requires an entity to consider 
+the characteristics of primary users (such as, potential investors), while also considering the entity’s own circumstances (for example, the entity’s own industry). 
+•
+In the context of sustainability-related financial disclosures: Sustainability-related financial disclosures provide information about an entity’s sustainability related risks and opportunities that is useful to 
+primary users of general-purpose financial reports in making decisions about providing resources to the entity. Although the definition of ‘material information’ in ISSB Standards is aligned with the definition of 
+the same term in IFRS Accounting Standards, however, the information required to meet the objective of the respective general purpose financial reports is distinct. The materiality judgements an entity makes 
+in preparing its sustainability-related financial disclosures will be distinct from those it makes in preparing its financial statements.
+•
+Meaning of ‘omitting, misstating or obscuring’ information: In assessing whether information is material, an entity considers the effect of omitting, misstating or obscuring that information on primary users’ 
+decisions. An entity is required to identify its sustainability-related financial disclosures clearly and distinguish them from other information the entity provides. Therefore, an entity should ensure that 
+sustainability-related financial disclosures are clearly identifiable and not obscured by additional information.
+The definition of material information
+12
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+The previous sections discusses definition of material information and guidance related to identification 
+of sustainability-related risks and opportunities. The subsequent section discusses the requirements in 
+ISSB Standards to identify and disclose material information about sustainability-related risks and 
+opportunities.
+The following chart lists down the four-step process as an example approach to assess whether 
+information is material when preparing its sustainability-related financial disclosures. 
+Identifying and disclosing material information
+13
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Step
+Output
+A set of potentially material 
+information
+A preliminary set of material 
+information
+Draft sustainability-related financial 
+disclosures
+Final sustainability-related financial 
+disclosures
+1
+2
+3
+4
+Identify information about 
+sustainability-related risks and 
+opportunities that has the potential to 
+be material
+Assess whether the potentially 
+material information identified in Step 
+One is, in fact, material
+Organise the information within the 
+draft sustainability-related financial 
+disclosures
+Review the draft sustainability-related 
+financial disclosures
+(Source: ISSB’s Education material: Sustainability-related risks and opportunities and the disclosure of 
+material information, November 2024)
+Step 1: Identify information about sustainability-related risks and 
+opportunities that has the potential to be material
+Considering the requirements of ISSB standards, the education material states that as first step an entity 
+should identify information about its sustainability-related risks and opportunities that primary users might 
+need to understand to make decisions relating to providing resources to the entity. Once the entity has 
+identified a sustainability-related risk or opportunity, an entity should apply the ISSB Standard 
+requirements that specifically applies to identified sustainability-related risk or opportunity. Further, an 
+entity should apply IFRS S2 in combination with IFRS S1, for example, if an entity identifies a climate-
+related risk or opportunity then in determining the required level of disaggregation of climate-related 
+information to provide, an entity should refer to the relevant requirements in IFRS S1.
+The education material also highlights that the disclosure requirements in ISSB Standards specify items 
+of information that an entity is required to provide if that information is material in the entity’s 
+circumstances. The information to be provided should be useful to primary users in making decisions 
+about providing resources to the entity. If an entity determines that information required by an ISSB 
+Standard is not material, the entity need not disclose that information. In case, ISSB standard does not 
+provide disclosure requirements relating to an entity’s identified sustainability-related risk or opportunity, 
+in such scenarios IFRS S1 requires that an entity apply judgement to identify information that is:
+• Relevant to primary users’ decision-making; and
+• Faithfully represents the sustainability-related risk or opportunity. 
+In applying such judgement, an entity needs to assess what information is useful to primary users. 
+Further, to help an entity in assessing whether the information is relevant and faithfully represents the 
+identified risk or opportunity, IFRS S1 specifies sources of guidance for the identification of relevant and 
+hence, potentially material information.
+The output of Step 1 is a set of potentially material information.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+14
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Step 2: Assess whether the potentially material information identified in 
+Step 1 is material
+The education material highlights that in Step 2, an entity assesses whether the potentially material 
+information identified in Step 1 is, in fact, material. Considering that materiality judgements are specific to 
+the entity, ISSB Standards do not specify any thresholds for material information or predetermine what 
+information would be material in a particular situation.
+When making materiality judgements, an entity considers whether the item of information could 
+reasonably be expected to affect primary users’ assessment of the amount, timing and uncertainty of 
+future net cash inflows to the entity and their assessment of stewardship of the entity’s economic 
+resources sufficiently to influence their decisions. The education material highlights that following points 
+should be considered when making materiality judgements:
+•
+Consideration of quantitative and qualitative factors: An entity should assess the materiality of 
+information by considering both quantitative and qualitative factors, it would not be appropriate to rely 
+on purely numerical guidelines or to apply a uniform quantitative threshold for all materiality 
+judgements. Below are some of the considerations:
+o Quantitative factors: An entity ordinarily assesses whether information is quantitatively material by 
+considering the size of the effect of the sustainability-related risk or opportunity against other 
+related measures. Examples of quantitative factors might include impact on cash flows, amount of 
+resource consumption, return on investment or market share. A quantitative factor can be used to 
+assess both the materiality of quantitative information, such as GHG emissions, and also 
+qualitative information, such as qualitative information about an entity’s resilience to a specific 
+sustainability-related risk.
+o Qualitative factors: Qualitative factors, on other hand, are factors that an entity considers in making 
+materiality judgements related to characteristic of the entity, such as its governance, and its 
+interactions with its stakeholders, society, the economy and the natural environment throughout the 
+entity’s value chain, that ultimately give rise to sustainability-related risks or opportunities. The 
+ISSB standards highlights that existence of qualitative factor more likely to influence the decisions 
+of primary users. Therefore, when making materiality judgements, an entity should consider both 
+entity-specific and external qualitative factors. The table on next column discusses some examples 
+of both entity-specific and external qualitative factors qualitative factors.
+•
+The nature of the risk or opportunity
+•
+The extent to which the entity’s business model 
+and strategy depend on particular resources or 
+relationships—for example, relationships with 
+important suppliers or customers
+•
+Unexpected variation or change in trends. 
+Entity-specific qualitative factors
+•
+The entity’s geographical location 
+•
+The entity’s industry or sector
+•
+The state of the economy or economies in 
+which the entity operates.
+External qualitative factors
+While determining whether information is material, an entity considers both quantitative and qualitative 
+factors, however. the presence of a qualitative factor is likely to lower the threshold for a quantitative 
+assessment. The more significant the qualitative factors, the more likely it is that lower quantitative 
+thresholds will apply. While, in some circumstances a quantitative threshold could be reduced to zero 
+and the information would still be material as it is expected to influence primary users’ decisions. Thus, 
+an entity needs to identify information as material based on one or more quantitative or qualitative 
+factors.
+•
+Consideration of possible future events with uncertain outcomes: When assessing whether 
+information about events is material, IFRS S1 requires an entity to consider the range of possible 
+outcomes and the likelihood of the possible outcomes. When considering possible outcomes, an entity is 
+required to consider all pertinent facts and circumstances. An entity is more likely to conclude that 
+information about a possible future event is material if the potential effects are significant and the event 
+is likely to occur.  Information about a possible future event that is expected to affect an entity’s cash 
+flows many years in the future is less likely to be material than information about a possible future event 
+with similar effects that has the possibility of occurring sooner.
+(Source: ISSB’s Education material: Sustainability-related risks and opportunities and the disclosure of 
+material information, November 2024)
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+15
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Step 3: Organise the information within the draft sustainability-related 
+financial disclosures
+An entity should organise a preliminary set of material information in the draft sustainability-related 
+financial disclosures in a way that communicates information clearly and concisely to primary users. An 
+entity needs to exercise judgement while organising material information, including those related to: 
+•
+Aggregating and disaggregating information: An entity is required to consider all facts and 
+circumstances and decide how to aggregate and disaggregate information in its sustainability-related 
+financial disclosures. While aggregating an entity should consider that aggregating would not obscure 
+information that is material and aggregated items only if information has shared characteristics. 
+Further, the entity might need to disaggregate information about sustainability-related risks and 
+opportunities.
+•
+Obscuring information: IFRS S1 requires an entity to clearly identify its sustainability-related 
+financial disclosures and distinguish these disclosures from other information so it cannot obscure 
+material information.
+The output of Step 3 is the draft sustainability-related financial disclosures.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+•
+Consideration of changed circumstances and assumptions: An entity should make new, and 
+reassess old, materiality judgements at each reporting date, considering changed circumstances and 
+assumptions. Such changes can relate to changes in the entity’s individual circumstances or in the 
+external environment. Changed circumstances and assumptions might impact materiality of the 
+information included in sustainability-related financial disclosures. An entity is required to reassess its 
+materiality judgements at each reporting date to consider any changes in circumstances and 
+assumptions. If an entity is exposed to a sustainability-related risk or opportunity that might have 
+consequences in the long term, the entity should disclose the material information about this 
+sustainability-related risk or opportunity.
+The output of Step 2 is a preliminary set of material information.
+•
+Disclosing material information: If an entity concludes that information that is necessary to enable 
+primary users to understand the effects of a sustainability-related risk or opportunity on the entity’s 
+prospects is material, then an entity should disclose such information, regardless of whether it is 
+specifically required by an ISSB Standard. An entity makes judgements about whether this 
+information is material in the same way it makes judgements about other types of information that is, 
+based on the expectation of whether the information could reasonably be expected to influence 
+primary users’ decisions.
+16
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Step 4: Review the draft sustainability-related financial disclosures
+As a last step, the entity ‘steps back’ and considers its sustainability-related financial disclosures as a 
+whole to ensure that it has complied with the requirements related to connected information, such as 
+whether primary users will understand connections between the disclosures in its sustainability-related 
+financial disclosures and other disclosures that are part of general-purpose financial reports. 
+An entity assesses whether information is material both individually and in combination with other 
+information in the context of its whole sustainability-related financial disclosures. The following chart 
+summarises considerations an entity might make while reviewing draft sustainability-related financial 
+disclosures:
+The output of Step 4 is the final sustainability-related financial disclosures.
+In performing this review, the entity 
+considers whether:
+The review might lead to:
+Additional information being provided in the 
+sustainability-related financial disclosures.
+Greater aggregation or disaggregation of 
+information.
+Information that is identified as immaterial being 
+removed from the sustainability-related financial 
+disclosures to avoid obscuring material information.
+Information being reorganised within the 
+sustainability-related financial disclosures.
+All relevant relationships between different items of 
+information have been identified. Identifying new 
+relationships between information might lead to that 
+information being identified as material for the first 
+time.
+Items of information that are individually immaterial, 
+when considered together, could nevertheless 
+reasonably be expected to influence primary users’ 
+decisions.
+The information in the sustainability-related financial 
+disclosures is communicated in an effective, 
+understandable way, and organised to avoid 
+obscuring material information.
+The sustainability-related financial disclosures 
+provide a fair presentation of the entity’s 
+sustainability-related risks and opportunities.
+(Source: ISSB’s Education material: Sustainability-related risks and opportunities and the disclosure of 
+material information, November 2024)
+The review of draft sustainability disclosures might lead an entity to reconsider its assessment in and 
+decide to reassess some information, which might conclude that information previously identified as 
+material and remove it from its sustainability-related financial disclosures.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+17
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+When applying ISSB Standards, an entity is 
+required to provide information in a manner that 
+enables primary users to understand the 
+connections between disclosures provided across 
+its sustainability-related financial disclosures and 
+its related financial statements. In addition, an 
+entity needs to consider materiality in context of 
+sustainability-related financial disclosures. ISSB 
+Standards are designed to result in an entity 
+providing information that is useful for the primary 
+users of general-purpose financial reports. 
+The entities reporting in accordance with ISSB 
+Standards should consider developing a process 
+to identify and disclose material information about 
+the sustainability-related risks and opportunities it 
+has identified and to ensure that it has complied 
+with the requirements of ISSB standards.
+The bottom line
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+18
+CHAPTER 3
+Regulatory 
+updates
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+On 7 February 2025, the Securities Exchange 
+Board of India (SEBI) issued a consultation paper 
+to review aspects relating to secretarial compliance 
+report, appointment of auditors and Related Party 
+Transactions (RPT) of a listed entity (the 
+consultation paper). The consultation paper seeks 
+public feedback on proposed amendments to the 
+SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (LODR 
+Regulations) and SEBI (Share Based Employee 
+Benefits and Sweat Equity) Regulations, 2021 
+(SBEBS Regulations) and is open for comments 
+until 28 February 2025.
+The key amendments  proposed are as follows:
+1. Strengthening the secretarial compliance 
+report: Regulation 24A(2) of the LODR 
+Regulations requires every listed entity to submit 
+a secretarial compliance report to stock 
+exchanges every year in the specified format. 
+However, to enhance secretarial compliance by 
+listed entities, SEBI proposed following 
+amendments relating to secretarial audit and 
+secretarial compliance report:
+a) Disclosure of Annual Secretarial Compliance 
+Report (ASCR) in the annual report 
+b) Mandatory compliance with secretarial 
+standards referred under Section 118(10) of 
+the Companies Act, 2013 (2013 Act)
+c) Change in or resignation of a secretarial 
+auditor will be deemed to be a material event 
+requiring disclosure without application of 
+materiality guidelines as per Schedule III of 
+the LODR Regulations
+d) Total fees paid by listed entity and its 
+subsidiaries to a secretarial auditor along with 
+the fact about the resignation or removal of a 
+secretarial auditor before end of tenure with 
+reasons thereof to be disclosed in the annual 
+report as per Schedule V of the LODR 
+Regulations
+e) Removal of duplication in certifications 
+between ASCR and requirements in other 
+SEBI Regulations.
+2. Eligibility criteria for appointment of 
+statutory auditor and disclosure to audit 
+committee and board of directors: Regulation 
+36(5) of the LODR Regulations outlines specific 
+disclosure requirements for the notice to be sent 
+to shareholders for an annual general meeting 
+when appointing or re-appointing statutory or 
+secretarial auditors. However, considering that 
+the current requirement does not specify the 
+standardised format for these disclosures and 
+does not mandate minimum information 
+disclosure to the Audit Committee or Board of 
+Directors, SEBI proposed to prescribe the format 
+for disclosure of minimum information to the 
+Audit Committee and/or Board of Directors, 
+shareholders of the listed entity for considering 
+appointment or re-appointment of statutory or 
+secretarial auditors of the listed entity. 
+3. Approval of RPTs undertaken by subsidiaries 
+of listed entity: Regulation 23(2) of the LODR 
+requires prescribes ‘approval requirements’ 
+relating to RPT involving a subsidiary of a listed 
+entity. However, to further clarify the applicability 
+of monetary thresholds, SEBI proposed to 
+introduce monetary thresholds of INR1,000 crore 
+for audit committee approval of RPTs in addition 
+to the existing percentage-based threshold (10 
+per cent of the annual standalone turnover) 
+where the lower of the two thresholds (monetary 
+or percentage-based) will be used to determine 
+the need for audit committee approval. In case of 
+SME listed entities, INR50 crore threshold would 
+be applicable. 
+Additionally, in case of subsidiaries which do not 
+have financial track record i.e. published 
+financial statements for at least one year, it is 
+proposed to consider 10 per cent of the certified 
+net worth on standalone basis instead of10 per 
+cent of standalone turnover, as the threshold for 
+audit committee approval. In cases of negative 
+net worth, the share capital plus securities 
+premium will be considered as the threshold 
+instead of net worth. This threshold would be 
+compared with INR 1,000 crore (or INR50 crore) 
+i.e. lower of monetary threshold and percentage-
+based threshold, may be considered for 
+approval of RPTs by an audit committee. 
+4. Clarifications pertaining to applicability of 
+RPT provisions: Regulation 2(1)(zc) of the 
+LODR Regulations defines an RPT as any 
+transaction between a listed entity (or its 
+subsidiaries) and a related party of the listed 
+entity (or its subsidiaries). In this regard, SEBI 
+received requests for clarification on how this 
+definition applies to subsidiaries of listed entities 
+for RPT compliance. Considering that, SEBI 
+proposed to provide following clarifications:
+i. To determine related parties for subsidiaries - 
+definition of RPT (Regulation 2(1)(zc)) should 
+be read along with definition of a related party 
+(Regulation 2(1)(zb)) 
+ii. The exemption under Regulation 23(5)(b) will 
+apply only when the wholly owned 
+subsidiary’s accounts are consolidated with a 
+listed holding company and presented to 
+shareholders. Further, SEBI proposes to 
+clarify that the exemption applies only to listed 
+holding companies.
+(Source: SEBI consultation paper on “Consultation 
+Paper on aspects relating to Secretarial 
+Compliance Report, Appointment of Auditors and 
+Related Party Transactions of a Listed Entity” dated 
+7 February 2025)
+SEBI proposes amendments to secretarial and related party provision of the LODR
+19
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+Recently, SEBI issued the ‘Industry Standards 
+Recognition Manual’ to outline guidelines for 
+recognising industry standards to facilitate 
+compliance with regulatory directions for various 
+regulated entities like Market Infrastructure 
+Institutions (MIIs), Mutual Funds, and listed 
+companies and it provides for the creation and 
+regulation of Industry Standards Forums (ISFs) to 
+develop specific standards, checklists, and 
+Standard Operating Procedures (SOPs) for 
+implementation of the various regulatory 
+directions. 
+Key points of the manual include:
+•
+Scope of ISF: Formulating standards for 
+regulatory compliance, not drafting regulations 
+or taking regulatory actions.
+•
+Constitution of ISF: Comprising members of 
+the concerned industry or regulated entities, 
+including small and medium-sized players, with 
+a chairperson having at least 10 years of 
+relevant experience.
+•
+Functioning of ISF: Preparing of 
+implementation standards in consultations with 
+SEBI for the identified regulatory directive 
+and/or suggest additional directives for framing 
+of standards. 
+•
+Recognition process: Standards must be 
+specific, aligned with regulatory intent, and 
+include step-by-step implementation 
+procedures.
+•
+Publishing standards: Recognised standards 
+would be published on SEBI and industry 
+association websites and must be adopted by 
+regulated entities.
+The manual aims to ensure uniformity and ease of 
+compliance while allowing SEBI to modify 
+guidelines as needed.
+(Source: SEBI advisory/guidance, “Industry 
+Standards Recognition Manual”, dated 
+12 February 2025)
+SEBI introduces the Industry Standards Recognition Manual
+20
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Regulation 23 of the SEBI LODR Regulations 
+require Related Party Transactions (RPTs) to be 
+approved by the audit committee and by the 
+shareholders, if material. Additionally, Part A and 
+Part B of Section III-B of the SEBI Master Circular 
+dated 11 November 2024 (Master Circular) specify 
+the information that should be placed before the 
+audit committee and shareholders, respectively, 
+for consideration of RPTs. Considering these 
+requirements, SEBI on 14 February 2025 issued a 
+circular, wherein it has provided that, the Industry 
+Standards Forum1 (ISF) to introduce standards for 
+minimum information to be provided for review by 
+an audit committee and shareholders for approval 
+of RPTs which will enable listed entities comply 
+with requirements of LODR Regulations and SEBI 
+Master circular.
+Considering the circular, ISF introduced ‘Industry 
+Standards on minimum information to be provided 
+for review of the audit committee and shareholders 
+for approval of RPT’. The standards provide a 
+standard format for listed entities to provide 
+minimum information to the audit committee and 
+shareholders for RPTs entered into on or after 
+1 April 2025. The industry standard covers the 
+following aspects:
+1. Applicability: The standards are applicable to 
+material RPTs as defined under the SEBI 
+LODR Regulations and where the 
+transaction(s) to be entered into individually or 
+taken together with previous transactions during 
+a financial year, exceed lower of the following: 
+a) Two per cent of turnover, as per the last 
+audited consolidated financial statements of 
+the listed entity
+b) Two per cent of net worth, as per the last 
+audited consolidated financial statements of 
+the listed entity, except in case the arithmetic 
+value of the net worth is negative
+c) Five per cent of the average of absolute 
+value of profit or loss after tax, as per the last 
+three audited consolidated financial 
+statements of the listed entity. 
+2. Minimum information: Specifies minimum 
+information required for audit committee’s and 
+shareholders’ review and approval of RPTs.
+3. Format for information: Provides standardised 
+format for presentation of information to the 
+audit committee.
+(Source: SEBI Circular SEBI/HO/CFD/CFD-PoD-
+2/P/CIR/2025/18, dated 14 February 2025 and 
+ISF’s “Industry Standards on “Minimum 
+information to be provided for Review of the Audit 
+Committee and Shareholders for Approval of 
+Related Party Transaction (RPT)””)
+Minimum information disclosure for RPT approval by listed entity
+1.
+ The Industry Standards Forum (ISF) comprising of representatives from three industry associations, viz. ASSOCHAM, CII and FICCI.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+In May 2024, SEBI issued a master circular for 
+Environmental, Social, and Governance (ESG) 
+Rating Providers (ERPs). The master circular 
+mandates ERPs to monitor significant 
+developments or events that could alter the ESG 
+profile of a rated company. Such events include 
+the publication of the Business Responsibility and 
+Sustainability Report (BRSR) or any controversies 
+and penalties related to ESG areas. ERPs are 
+required to review ESG ratings immediately, but 
+no later than 10 days after such events.
+However, stakeholders have raised concerns 
+about the feasibility of reviewing ESG ratings for 
+numerous listed companies within the 10 days 
+timeframe following the publication of the BRSR. 
+Considering these challenges and aiming to 
+facilitate ease of doing business, SEBI issued a 
+circular on 17 January 2025 to extend the review 
+timeline for ESG ratings following the publication 
+of the BRSR to 45 days.
+This extension is expected to provide ERPs with 
+sufficient time to conduct thorough reviews and 
+ensuring more accurate and reliable ESG ratings.
+(Source: SEBI Circular SEBI/HO/DDHS/DDHS-
+PoD-3/P/CIR/2025/007, Timeline for review of 
+ESG Rating pursuant to occurrence of ‘Material 
+events’ dated 17 January 2025)
+SEBI eases ESG rating review timeline
+21
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Rule 9B of the Companies (Prospectus and 
+Allotment of Securities) Rules, 2014 (Prospectus 
+Rules) provides that all private companies 
+(excluding government and small companies) to 
+issue securities in dematerialised form and 
+facilitate the dematerialisation of all their 
+securities. Further, it requires that all private 
+limited companies to comply with these 
+requirements within 18 months of closure of 
+financial year. 
+On 12 February 2025, the Ministry of Corporate 
+Affairs (MCA) issued the Companies (Prospectus 
+and Allotment of Securities) Amendment Rules, 
+2025 (amended rules) to amend Rule 9B of the 
+Prospectus Rules. The amended rules have 
+extended the compliance deadline for all private 
+companies (other than producer companies) to   
+30 June 2025. 
+(Source: MCA notification, Companies 
+(Prospectus and Allotment of Securities) 
+Amendment Rules, 2025, dated 
+12 February 2025)
+MCA extends timelines for share dematerialisation
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+The Quality Review Board (QRB) is responsible 
+for conducting quality reviews of audit services 
+provided by audit firms. These reviews aim to 
+identify instances of non-compliance with various 
+standards and regulations, including Standards on 
+Quality Control (SQC), Standards on Auditing 
+(SAs), audit reports, the Companies (Auditor’s 
+Report) Order (CARO), Accounting Standards 
+(AS), Indian Accounting Standards (Ind AS), and 
+Schedule III of the 2013 Act.
+Recently, the Institute of Chartered Accountants 
+of India (ICAI) released the third volume of its 
+publication titled ‘Guidance on Non-Compliances 
+Observed by QRB. The publication discusses 
+common non-compliances identified by the QRB 
+and provides essential guidance for members to 
+address these issues effectively.
+(Source: ICAI Announcement, Auditing and 
+Assurance Standards Board, dated 
+24 January 2025)
+ICAI issued ‘Guidance on non compliances observed by QRB’
+22
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+Asset reconstruction companies (ARCs) play a 
+crucial role in the financial system by taking over 
+Non-Performing Assets (NPAs) from banks, 
+allowing lenders to focus on core banking 
+activities. However, ARCs often face challenges in 
+recovering dues from borrowers, making 
+settlements a common solution. 
+Considering the challenges, on 20 January 2025, 
+the Reserve Bank of India (RBI) introduced 
+revised guidelines to prescribe more structured 
+and detailed framework for the settlement of dues 
+by ARCs. Key changes include:
+1.
+Board approved settlement policy: 
+The requirement for a board-approved policy 
+covering specific aspects of settlement, such 
+as cut-off date for one-time settlement 
+eligibility, methodology for arriving at the 
+realisable value of the security, etc.
+2.
+Settlement procedure: The criteria for 
+settlement of dues are now divided into three 
+categories:
+a) Principal amounts exceeding INR1 crore: 
+Requires forming the Independent Advisory 
+Committee (IAC) consisting of professionals 
+having technical/finance/legal background. 
+Borrowers with outstanding dues exceeding 
+INR1 crore, settlement proposal is to be 
+reviewed by IAC and recommendations of 
+IAC to be considered by the Board of the 
+ARC with at least two independent directors. 
+The Board must contemplate every avenue 
+of recovery before it allows and orders 
+settlement.
+b) Principal amounts are less than equal to 
+INR1 crore: Settlement of accounts to be 
+done as per the criteria prescribed by the 
+authority in the Board-approved policy, 
+subject to specified conditions.
+c) Dues from borrowers classified as frauds 
+or wilful defaulters: Settlement of accounts 
+to be done under same procedures as 
+settlement of accounts where principal 
+amount exceeds INR1 crore, irrespective of 
+value. An ARC may settle without prejudice 
+to any criminal action that might be pending 
+against such borrowers.
+3.
+Other legal provisions: All settlements must 
+comply with existing laws and regulations. If 
+recovery proceedings are ongoing in a judicial 
+forum, any settlement must obtain a consent 
+decree from the relevant judicial authority.
+(Source: RBI Circular RBI/2024-25/106 
+DoR.SIG.FIN.REC.56/26.03.001/2024-25, dated 
+20 January 2025)
+New RBI guidelines to streamline ARC’s settlement procedure
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+23
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+On 29 January 2025, RBI issued a circular 
+updating the guidelines for Housing Finance 
+Companies (HFCs) regarding the private 
+placement of Non-Convertible Debentures (NCDs) 
+with maturities more than one year. The circular 
+provides that the Guidelines on Private Placement 
+of Non-Convertible Debentures (NCDs) (with 
+maturity more than one year) by Non-Banking 
+Financial Companies (NBFCs), as contained in 
+para 58 of the Master Direction – Reserve Bank of 
+India (Non-Banking Financial Company – Scale 
+Based Regulation) Directions, 2023 (as amended 
+from time to time) would be applicable, mutatis-
+mutandis, to Housing Finance Companies 
+(HCFs). Accordingly, the existing guidelines under 
+Chapter XI of Master Direction – Non-Banking 
+Financial Company – Housing Finance Company 
+(Reserve Bank) Directions, 2021 repealed. 
+The revised guidelines would be applicable to all 
+fresh private placements of NCDs (with maturity 
+more than one year) by HFCs from the date of this 
+circular.
+(Source: RBI Notification RBI/2024-25/107 
+DOR.FIN.REC.No.58/03.10.136/2024-25, dated 
+29 January 2025)
+Revised guidelines for HFCs on 
+private placement of NCDs
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+On 10 January 2025, the Insurance Regulatory 
+and Development Authority of India (IRDAI) 
+announced several regulatory updates to enhance 
+governance, data security, and operational 
+efficiency in the insurance sector. Key points from 
+the notification include:
+a) Regulations on regulatory sandbox: The 
+IRDAI issued the Regulatory Sandbox 
+framework to enhance innovation, flexibility, 
+and operational efficiency in the insurance 
+sector. The new Regulations are principle-
+based and detailed operational guidelines 
+would be provided through a master circular. 
+The sandbox's scope has been expanded to 
+include the provisions that allow Inter-
+Regulatory Sandbox proposals, which span 
+multiple financial sectors.
+b) Regulations on maintenance and sharing of 
+information The IRDAI issued the IRDAI 
+(Maintenance of Information by the Regulated 
+Entities and Sharing of Information by the 
+Authority) Regulations, 2025 to consolidate 
+following regulations to strengthen data 
+governance and confidentiality:
+•
+IRDA (Sharing of Confidential information 
+concerning domestic or foreign entity) 
+Regulations, 2012 
+•
+IRDAI (Maintenance of Insurance Records) 
+Regulations, 2015 
+•
+IRDAI (Minimum Information required for 
+Investigation and Inspection) Regulations, 
+2020
+It mandates electronic record keeping with robust 
+security measures and also provides guidelines for 
+sharing confidential information. Further, it 
+requires Regulated Entities (REs) to adopt data 
+governance framework and implement Board 
+approved policies for record maintenance.
+c) Amendment to meeting regulations In order 
+to enhance operational flexibility, governance 
+and efficiency of conducting meetings, 
+amendments to the following three regulations 
+have been notified:
+•
+IRDAI (Meetings) (Amendment) 
+Regulations, 2025
+•
+IRDAI (Insurance Advisory Committee) 
+(Amendment) Regulations, 2025
+•
+IRDAI (Re-Insurance Advisory Committee) 
+(Amendment) Regulations, 2025.
+The objective of these amended regulations is to 
+improve operational flexibility and efficiency of the 
+meetings of the Authority. 
+(Source: IRDAI Press release ‘IRDAI further 
+strengthens the Regulatory framework’, dated 
+10 January 2025)
+IRDAI introduces new regulatory framework
+24
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+The SEBI (Intermediaries) Regulations, 2008 
+provides guidelines relating to different classes of 
+intermediaries. Recently, SEBI issued 
+amendments to SEBI (Intermediaries) 
+Regulations, 2008 to introduce new provisions 
+regarding the use of Artificial Intelligence (AI) and 
+Machine Learning (ML) by Market Infrastructure 
+Institutions (MIIs), registered intermediaries, and 
+other SEBI-regulated entities. 
+These regulations mandate that any entity using 
+AI/ML tools2, whether developed in-house or 
+sourced from third parties, is solely responsible for 
+the privacy, security, and integrity of investor and 
+stakeholders’ data, the outputs generated by these 
+tools, and compliance with applicable laws. 
+The SEBI would take appropriate action in case of 
+violations by the regulated entities in this matter. 
+The amendment aims to ensure accountability and 
+regulatory compliance in the use of AI/ML 
+technologies in the financial sector.
+(Source: IRDAI Press release ‘IRDAI further 
+strengthens the Regulatory framework’, dated 
+10 January 2025)
+SEBI provides guidelines for use of AI/ML by regulated entities
+2.
+The expression ‘artificial intelligence and machine learning tools and techniques’ may include any application or software program or 
+executable system or a combination thereof, offered by the person regulated by the Board to investors/stakeholders or used internally by it 
+to facilitate investing and trading or to disseminate investment strategies and advice or to carry out its activities including compliance 
+requirements and the same are portrayed as part of the products offered to the public or under usage for compliance or management or 
+other business purposes.
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+The SEBI (Alternative Investment Funds) 
+Regulations, 2012 (AIF Regulations) provide 
+guidelines to regulate private pools of capital in 
+India. Recently, SEBI issued a consultation paper 
+to review Regulation 17(a) of AIF Regulations. 
+The paper addresses concerns about the 
+shrinking investment opportunities in unlisted debt 
+securities due to recent amendments in the LODR 
+Regulations, which mandate the listing of non-
+convertible debt securities. The key proposals 
+include allowing Category II AIFs to invest more 
+than 50 per cent of their investible funds in either 
+unlisted securities or listed debt securities with a 
+credit rating of 'A' or below. 
+This aims to expand the investment universe for 
+AIFs while maintaining their role in providing 
+capital to industries lacking access to traditional 
+funding sources. The consultation paper is open 
+for comments until 28 February 2025.
+(Source: SEBI “Consultation Paper on review of 
+Regulation 17 (a) of SEBI (AIF) Regulations, 
+2012, with the objective of Ease of Doing 
+Business”, dated 7 Feb 2025)
+SEBI proposal on AIF Regulations
+25
+The Ministry of Environment, Forest and Climate 
+Change (MoEFCC) recently issued following 
+guidelines
+•
+The Control of Water Pollution (Grant, Refusal 
+or Cancellation of Consent) Guidelines, 2025 
+under the Water (Prevention and Control of 
+Pollution) Act, 1974.
+•
+The Control of Air Pollution (Grant, Refusal or 
+Cancellation of Consent) Guidelines, 2025 
+under the Air (Prevention and Control of 
+Pollution) Act, 1981.
+These guidelines aim to streamline the consent 
+process, and it outlines the procedures and 
+criteria for obtaining, renewing, and potentially 
+losing consent to establish or operate industrial 
+plants that would cause air and water pollution. 
+(Source: MoEFCC Notification G.S.R. 85(E)., 
+dated 30 January 2025)
+MoEFCC issues new guidelines for 
+control of air and water pollution
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+26
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Accounting and Auditing Update – February 2025
+In June 2023, the International Sustainability 
+Standards Board (ISSB) issued, IFRS S1, General 
+Requirements for Disclosure of Sustainability-
+related Financial Information and IFRS S2, 
+Climate-related Disclosures which provide 
+requirements related to disclosure of sustainability-
+related risks and opportunities, including those 
+related to climate, for capital markets. With an aim 
+to aid companies in implementing these standards, 
+The IFRS Foundation has published a new 
+guide, Applying IFRS S1 when reporting only 
+climate-related disclosures in accordance with 
+IFRS S2, which aims to help companies 
+understand how to report only climate-related 
+information when applicable using International 
+Sustainability Standards Board (ISSB) Standards. 
+Further, in response to the concerns about data 
+availability and readiness, the ISSB introduced 
+transition reliefs in IFRS S1 and IFRS S2. As per 
+ISSB standards, companies must apply both 
+standards together, but paragraph E5 of IFRS S1 
+allows them to disclose only climate-related risks 
+and opportunities in the first year, following the 
+'climate-first' approach.
+This transition relief temporarily narrows the scope 
+of reporting in accordance with IFRS S1 from the 
+requirements of information about all sustainability 
+related risks and opportunities that could 
+reasonably be expected to affect a company’s 
+prospects to the provision of information about only 
+climate-related risks and opportunities, giving 
+companies time to prepare reports on all 
+sustainability related risks and opportunities. 
+However, this relief is optional and in case, 
+companies have the resources to do so, they may 
+report on all sustainability matters as well.
+(Source: IFRS Foundation, News 2025, ‘IFRS 
+foundation published guide to help companies 
+understand how to report only climate related 
+information when applicable in accordance with 
+ISSB standards’, dated 30 January 2025)
+ISSB issues guide to help companies report only climate related 
+information 
+|
+|
+Editorial
+ToC
+Chapter 1 
+| 
+Chapter 2 
+| 
+Chapter 3
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavour to provide accurate and  
+timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such  
+information without appropriate professional advice after a thorough examination of the particular situation.
+KPMG Assurance and Consulting Services LLP, Lodha Excelus, Apollo Mills Compound, NM Joshi Marg, Mahalaxmi, Mumbai - 400 011 Phone: +91 22 3989 6000, Fax: +91 22 3983 6000.
+© 2025 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with  
+KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.
+This document is for e-communication only. (NEWS_0225_AB)
+Follow us on:  
+kpmg.com/in/socialmedia
+Introducing
+‘Askaquestion’
+write to us at
+aaupdate@kpmg.com
+Previous editions are available to download from:  
+kpmg.com/in
+Feedback/queries can be sent to  
+aaupdate@kpmg.com
+First Notes
+SEBI introduces certain key changes in BRSR reporting
+The Securities and Exchange Board of India (SEBI), under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ‘the LODR  
+Regulations) mandates the top 1,000 listed entities in India to prepare the Business Responsibility and Sustainability Report (BRSR). Further, in
+July 2023, SEBI issued the framework for the disclosure and assurance requirements for BRSR Core, ESG disclosures for value chain and  
+assurance requirements.
+With regard to the framework for disclosure and assurance requirements for BRSR Core, ESG disclosures for value chain and assurance  
+requirements, SEBI, at its board meeting dated 18 December 2024 approved certain decisions in relation to BRSR, for facilitating ease of doing  
+business. Additionally, SEBI, vide a circular dated 20 December 2024, issued the Industry Standards on Reporting of BRSR Core. These standards  
+aim to facilitate the standardisation and ease of implementation of BRSR Core disclosures.
+This issue of First Notes provides an overview of the key changes introduced by SEBI in BRSR reporting.  
+To access the First Notes, please click here
+Voices on Reporting - Quarterly updates publication
+December 2024
+In this publication, we have summarised important financial reporting and  
+regulatory updates relevant for the quarter ended 31 December 2024 from the  
+Securities and Exchange Board of India (SEBI), the Reserve Bank of India  
+(RBI), the National Financial Reporting Authority (NFRA), the Ministry of  
+Environment, Forestry and Climate Change and the Institute of Chartered  
+Accountants of India (ICAI).
+To access the publication, please click here

@@ -1,0 +1,1117 @@
+KPMG International | kpmg.com
+KPMG. Make the Difference.
+Drive the next wave of digital transformation with 
+data and decisiveness 
+KPMG global 
+tech report: 
+Energy insights
+Executive summary
+The energy sector is at a pivotal crossroads, facing unprecedented 
+challenges and opportunities. Addressing the challenges and seizing 
+the energy transition opportunities will require a unified approach 
+that integrates technology, data and strategy across the entire 
+business. This dual challenge demands innovative solutions and 
+strategic foresight, making it imperative for energy leaders to leverage 
+advanced technologies and data-driven insights to drive the next 
+wave of digital transformation.
+Our research finds that the energy sector is more resilient and 
+willing to take risks than other sectors, but it needs to increase 
+investments in data capabilities and artificial intelligence (AI) 
+to unlock its next wave of digital transformation. Based on a 
+comprehensive survey of 2,450 global technology leaders, this 
+report examines the experiences of 122 energy technology 
+leaders from 19 countries and provides valuable insights into digital 
+transformation in the energy industry.
+Energy is more resilient and willing to take risks than other sectors, but it needs to increase investments in 
+data capabilities and AI to unlock its next wave of digital transformation. 
+This report advocates that energy leaders must leverage data and 
+decisiveness to drive the next wave of digital transformation within 
+their organizations. By methodically experimenting with AI use cases 
+and leveraging cyber security frameworks, energy companies can 
+protect against threats that could hinder digital innovation. While 
+the energy sector matches or surpasses other industries in many IT 
+disciplines, achievements are often confined to isolated functional 
+areas rather than spanning entire organizations or ecosystems.
+As technological innovation opens new potential in the energy 
+sector, a balance needs to be struck between rapid adoption and 
+a strategic approach to extracting genuine value from technology. 
+Evidence-based decisions should be made to navigate through the 
+hype and find resilient solutions, scaling new tools such as AI safely 
+and responsibly.
+Energy CEOs view Gen AI as both 
+a risk and an opportunity. But the 
+risks — of falling behind and/or 
+making a fatal error in terms of 
+privacy, ethics or integrity — 
+can be managed, while there is 
+hardly an area of business where 
+AI can’t bring value. Integrating 
+AI really comes down to change 
+management, and that’s something 
+CEOs should feel confident about as 
+long as they have the fundamental 
+guardrails in place. 
+ 
+Anish De 
+Global Head of Energy,  
+Natural Resources, and Chemicals
+KPMG International
+2
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+2
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Key 
+findings
+Executive 
+Summary
+Key findings
+67%
+with
+of energy businesses achieving 
+business value from their 
+active AI use cases. But a 
+sizeable proportion are taking 
+a cautious approach and are 
+still at the proof-of-concept 
+stage of AI experimentation.
+Energy companies are methodically 
+experimenting with AI use cases 
+The majority of energy firms are in the top two maturity 
+stages of AI, 
+Energy sector executives are 8 percentage 
+points more likely than the cross-sector average to be 
+in the two earlier stages of AI implementation. 
+In every data management category measured in the research, the 
+energy industry is lagging behind the cross-sector average on data 
+maturity — especially regarding data interoperability, security and 
+extracting meaningful insights. The silver lining is that many energy 
+sector leaders are aware of their data quality gaps and are actively 
+planning initiatives to address this problem area. 
+Data maturity gaps make it harder for the sector to prove the true 
+value of its technology
+Energy is the most likely to generate strong profitability from its 
+cyber security investments — the highest profit category measured 
+in the survey.
+The sector is skilled at getting financial value 
+from cyber security
+Compared with the cross-sector average, the 
+energy industry is less likely to say that market 
+influences such as economic uncertainty and 
+market competitiveness have damaged their 
+confidence about investing in new technologies.  
+The energy sector is 
+bolder than others on 
+technology 
+say that risk aversion rarely 
+makes senior leadership in 
+their organizations move 
+more slowly than the 
+competition, compared with 
+a cross-sector average of 
+17 percent.  
+25
+%
+3
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Key 
+findings
+The energy sector is bolder than 
+others on technology
+Energy is not letting influences such as economic 
+uncertainty, complex regulatory developments 
+and market competitiveness crush its confidence 
+about exploring new technologies. For instance, 
+growing market competitiveness has dented 
+the investment confidence of other sectors to a 
+larger extent than the energy industry. Energy 
+has a more resilient mindset than the cross-sector 
+average across all influences measured.
+“The energy sector is resilient by nature because companies cannot 
+survive without planning for the long haul,” says Sushant Rabra, 
+Partner at KPMG in India. This pragmatic thinking is reflected in how 
+energy companies make investment decisions around technology. 
+Executives in the sector are committed and have a clear view of what 
+they want to achieve, which empowers them to end projects that are 
+not performing as hoped. Energy is the sector that is most likely to say 
+it can stop a digital transformation project when it becomes clear that it 
+is not bringing the anticipated value.
+“Energy companies must prioritize strategic direction over specific 
+technologies or platforms,” says Rabra. This requires companies to 
+constantly re-evaluate performance, take stock of competition and  
+stay on top of emerging technologies. It also helps reduce the risk  
+of complacency. 
+According to Rabra, “Energy companies are surrounded by 
+opportunities because they are at the forefront of enabling multiple 
+transitions, including AI and sustainability.” The survey suggests that 
+this translates into an appetite for innovation and risk-taking, with 
+25 percent of the energy organizations saying that risk aversion 
+either never or hardly ever makes senior leadership in their 
+organizations move more slowly than the competition in embracing 
+tech; the cross-sector average is 17 percent.
+Like last year, the sector has a strong belief in 22the potential of 
+modern delivery systems: 70 percent of energy organizations are 
+planning to invest in low-code/no-code platforms in the next year — 
+7 percentage points more than the cross-sector average. And similar 
+to the cross-sector average, the most immediate investments are 
+likely to go to XaaS systems: 80 percent plan to invest in them in the 
+next 6 months.
+“The evolving nature of XaaS provides energy companies with 
+opportunities to experiment in a low-cost way,” says Rabra. “But 
+they must think about the architectural integrity of their entire 
+tech stacks when they deploy it. However mature the individual 
+components of XaaS are, merging them can be risky. To combat 
+this, companies should be intentional about the technology they use 
+and avoid moving too quickly between solutions.” 
+25% 
+of energy businesses have no 
+trouble managing costs and 
+keeping within their budget — 
+the highest of all sectors.
+4
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Article 1
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are more likely to prioritize modern delivery investments to support their ambitions
+Optimizing value through evidence-based decisions
+of energy organizations are planning to invest in low-code/no-code platforms in the next year —  
+7 percentage points more than the cross-sector average. 
+70% 
+86%
+68%
+65%
+XaaS technologies
+Cybersecurity
+AI and automation
+Energy companies’ top priorities are Xaas, AI, modern delivery and cybersecurity. Seventy percent of energy companies are prioritising modern 
+delivery, compared with sixty-three percent globally.
+90%
+70%
+64%
+XaaS technologies
+AI and automation = 
+Modern delivery 
+Cybersecurity
+Energy businesses are prioritizing investments in new tech 
+Cross-sector average 
+Energy
+6  We prioritize 
+embracing
+new technology
+5
+4
+3
+2
+1  We prioritize 
+maintaining our 
+legacy technology
+7%
+3%
+11%
+22%
+27%
+29%
+Energy
+01
+02
+03
+01
+02
+03
+Q: Of the following technologies, which is your organization currently prioritizing and investing in to support its ambitions? Planning to invest in the next year
+Source: KPMG global tech report 2024
+5
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Article 1
+The energy sector is bolder 
+than others on technology
+67% 
+of energy businesses have 
+already seen business value 
+from AI.
+Fortunately, the energy sector’s bold outlook is 
+not tipping over into recklessness. For instance, 
+energy firms appear to be taking a slightly more 
+gradual, methodical approach to AI adoption 
+than other sectors. The majority of energy firms 
+are in the top two maturity stages of AI adoption 
+and are achieving business value from their 
+active AI use cases.
+Energy companies are methodically 
+experimenting with AI use cases
+But a sizable proportion of the sector (33 percent) is taking a 
+cautious approach and is still within the proof-of-concept stage for 
+AI experimentation. Energy sector executives are 8 percentage 
+points more likely than the cross-sector average to be in the two 
+earlier stages of AI implementation. 
+While the majority of energy firms are in the top two maturity 
+stages of AI use case adoption, a sizable proportion of the sector is 
+still within the proof-of-concept stage.
+“Energy executives are showing an increased interest in AI,” says 
+Dan Fisher, Principal, Advisory, Digital Lighthouse, KPMG in the US. 
+“But while they’re eager to explore AI’s potential, there are three 
+main factors tempering the pace of their adoption.”
+First, the sector must be methodical about maximizing the value 
+of its investment lifecycles. Unlike other industries, the energy 
+sector was a fast mover in making significant investments in earlier 
+generations of enterprise resource planning (ERP) systems. “So now 
+it faces a larger task in modernizing this entrenched infrastructure 
+to access the cloud capabilities required for additional AI initiatives,” 
+says Fisher.  
+Second, many of the energy companies that have already started 
+to implement AI are struggling to scale it across the board because 
+they did not sufficiently redesign the roles and processes involved. 
+Fisher adds “And finally, many energy firms lack robust, unified  
+data foundations, which hinders their ability to benefit fully from 
+AI’s capabilities.”
+Nevertheless, the industry clearly recognizes AI’s potential:  
+67 percent of energy executives say they have already seen business 
+value from it. One prominent way in which the sector uses AI is 
+predictive maintenance, where performance of the electrical grid is 
+continuously monitored to identify potential failures before they happen. 
+This should benefit both energy organizations and their customers 
+because it significantly improves resource reliability. 
+6
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Conclusion and key recommendations
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Energy companies are methodically 
+experimenting with AI use cases
+AI maturity levels of the energy sector vs. the cross-sector average
+Which of the following best describe your organization’s current maturity level with AI adoption?
+Energy
+Total
+30% 31%
+43%
+37%
+19%
+26%
+We are innovating and deploying AI
+use cases into production at scale.
+We have achieved ROI on a number
+of our AI use cases.
+We have invested strategically in core
+business capabilities and have AI use cases
+running actively across the organization
+that are returning business value.
+We have a large number of AI proof-of-concept
+tests running but haven't achieved ROI yet.
+We have a limited number of ad hoc
+use cases in production
+To accelerate their AI adoption, energy organizations 
+must be proactive and rethink their business processes 
+as they implement new technologies by:
+Pushing forward with ERP modernization 
+and cloud migration. Our research shows 
+that this is already under way: energy is 
+the sector that is most likely to say its use 
+of public cloud over the past 12 months 
+has accelerated its adoption of advanced 
+technology, including AI. 
+Building solid data foundations and 
+practices so that AI solutions have 
+credible and well-organized sources to 
+draw from. This is essential for high-quality 
+outputs that respect data privacy rights.2
+Putting the right roles and processes in place. 
+For example, by appointing a chief AI officer 
+to govern from the top and help implement AI 
+solutions responsibly and effectively.1 
+1 KPMG International, ‘Trust in artificial intelligence,’ 2023
+2 KPMG International, ‘Privacy in the new world of AI,’ 2023
+7
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report: Energy insights
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Energy companies are methodically 
+experimenting with AI use cases
+Working with data requires a fundamentally different approach than 
+traditional technology systems. Businesses should adopt measures that help 
+ensure greater accountability and transparency throughout the entire data 
+lifecycle — from collection to storage and analysis. Establishing guiding 
+principles rooted in fairness, explicability and purpose is essential to fostering 
+the ethical use of enterprise AI assets. Effective monitoring systems are also 
+critical, providing regular assessments to ensure compliance and maintain 
+necessary checks and balances. Additionally, investing in initiatives that 
+cultivate an AI-enabled workforce will embed a culture of ethical AI in the 
+workplace. For energy companies, which naturally possess a higher degree of 
+self-awareness, implementing these measures should come more seamlessly.
+Sushant Rabra  
+Partner, Transformation  
+KPMG in India
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology
+The majority of energy executives in the survey say that their 
+organization is satisfied with the value it gets from technology 
+investments, but they do lag behind other industries.
+Visibility limitations are likely to be a contributing factor for the energy industry. In the nine 
+areas measured in the survey, energy executives are on average 11 percentage points less 
+likely than the cross-sector average to say they are confident in their organization’s ability to 
+quantitatively measure the value being generated by its technologies. Customer, employee 
+and environmental metrics are the areas where confidence is lowest. 
+“This lack of visibility presents challenges when it comes to decision-making and capital 
+allocation,” says Rabra.  
+A likely contributing factor here will be that the sector is lagging on data maturity in all 
+categories measured. Just 36 percent of executives describe their organization’s ability to 
+extract meaningful insights as either influential or embedded — our top two levels of data 
+maturity — compared with 52 percent across all sectors. And just 35 percent of energy 
+executives say their data science capabilities are in the top two levels of data maturity, 
+compared with 50 percent across all sectors.
+8
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Conclusion and key recommendations
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+Environmental goals
+Energy
+Cross-sector average
+Customer-centric metrics
+Financial metrics
+Brand reputation metrics
+Risk and cyber security-related metrics
+Operational metrics
+Business growth and innovation metrics
+Employee metric
+71%
+58%
+69%
+64%
+66%
+60%
+66%
+50%
+65%
+46%
+68%
+59%
+67%
+57%
+69%
+50%
+Energy executives express lower levels of confidence in quantitatively measuring the value of their 
+technologies 
+For each metric, please indicate if you are confident in your company’s ability to quantitatively measure the value being generated by your 
+technologies (those who answered ‘yes’).
+Just 36%  
+of energy executives describe their 
+organization’s ability to extract meaningful 
+insights as either influential or embedded —  
+our top two levels of data maturity — 
+compared with 52% across all sectors.
+Source: KPMG global tech report 2024
+The energy sector is going to have to invest in the quality, visibility, 
+transparency and integration of its data across the value chain.3 
+It needs to unite the many data pools it has access to — from 
+operational data to financial data. “This will allow companies to get 
+a much better sense of where impact is being made and where 
+corrections are needed,” says Rabra. “Not having this visibility can 
+lead to suboptimal performance, for instance with grid maintenance 
+and investment allocation.” 
+Fortunately, these investments are already under way. Compared with 
+2023, energy businesses are now more likely to say both their data 
+investments and data governance are influential or embedded. 
+“Many clients are building data expertise through internal quality 
+assessments,” says Rabra. “We’re also seeing many organizations 
+unbundling their tech, digital and data teams and appointing separate 
+leaders for each. Making one person solely accountable for the 
+quality of data can significantly boost consistency and efficiency.” 
+KPMG’s value realization framework is an effective way to do this. 
+3 KPMG International, ‘Transforming the enterprise of the future,’ 2024
+9
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+Case study
+It helps organizations map their technology investments against 
+business goals by using balanced scorecards and KPIs aligned with 
+strategic objectives. This high-level insight is crucial to avoiding a 
+‘tech for tech’s sake’ mindset, where tech is implemented without 
+having real business value.
+XaaS is also playing a crucial role in creating business value. It is 
+having more impact on the data maturity of energy than any other 
+sector: 43 percent of energy executives say their organization has 
+improved data management and integration because of its XaaS 
+usage in the past 12 months — 6 percentage points higher than the 
+overall average.
+Generative AI will also be a game changer for data-led decision-
+making and capital allocation via predictive analytics. While the 
+predictive maintenance of assets is not a new practice, the 
+sophistication of today’s models makes it possible to integrate 
+predictive insights into broader digital production processes. This 
+allows organizations to optimize cash flow and predict margins more 
+effectively, ultimately improving decision-making about investments.
+ 
+When oil and gas producer Encino Energy 
+acquired 900 wells from Chesapeake Energy, it 
+quickly became clear that its operational needs 
+exceeded the capabilities of its usual ways of 
+working. These working practices depended on 
+a small set of applications, spreadsheets, email 
+and offline communications. 
+As Chesapeake’s data poured in, Encino’s 
+employees spent hours compiling reports from 
+disconnected sources, fixing conflicting data 
+formats and disputing data integrity. Encino 
+lacked visibility into real-time well economics, 
+struggled to optimize field operations and 
+burned through cycles manually comparing 
+production output to forecasts. 
+To swiftly modernize its data and analytics 
+functions, Encino asked KPMG in the US 
+to create a scalable data foundation. As a 
+result, Encino now has a scalable cloud-based 
+architecture, fitted with master datasets that 
+surface insights across disparate systems. 
+This data infrastructure is improving Encino’s 
+decision-making and has reduced reporting cycle 
+times from months to weeks.  
+Read the full case study 4
+How Encino Energy’s data modernization shift saved weeks in 
+reporting cycle time
+4 KPMG US, ‘Encino Energy taps the awesome power of modern analytics,’ 2024 
+10
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting financial 
+value from cyber security 
+Energy executives maintain that using cyber 
+security and privacy considerations 5 to guide 
+technology implementation is essential for 
+organizations to thrive in a digital economy. This 
+explains why energy companies are increasingly 
+making sure that their digital solutions are secure 
+by design. 
+5 KPMG International, ‘Cybersecurity considerations 2024: Energy and natural resources sector,’ 2024  
+6 KPMG International, ‘Investing in cybersecurity to safeguard innovation,’ 2024
+“Digital solutions are designed to create value, but once this is 
+generated it must be preserved,” explains Rabra. “This is especially 
+true in the energy sector, where the huge scale of operations and 
+direct impact on the economy creates many risks of data exposure.” 
+This might explain why energy companies are 9 percentage points 
+less likely than the cross-sector average to say that cyber security is 
+frequently treated as a tick-boxing exercise in staff training and is not 
+embedded as extensively as it could be. 
+“Energy companies understand that cyber security is not just 
+a shield but a catalyst for value creation,” says Ronald Heil, 
+Global Cyber Lead for Energy and Natural Resources at KPMG 
+International. “Treating cyber security as a driver of value, 
+operational integrity and profitability helps organizations to build 
+resilience and maximize digital ROI.”
+This organizational mindset goes beyond reducing incidents; 
+it helps transforms security into a critical enabler for growth and 
+agility.6 A collaborative approach, within and across sectors, ensures 
+that companies can collectively defend against emerging threats, 
+strengthening resilience across industries rather than leaving 
+individual organizations vulnerable to cyber-attacks. “While larger 
+firms also strive to maintain a balance with the principle that cyber 
+security should not be a competitive advantage, sharing intelligence is 
+essential to helping secure the entire supply chain and ecosystem as 
+a whole,” says Heil.
+11
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Conclusion and key recommendations
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+The sector is skilled at getting  
+financial value from cyber security 
+Energy is deriving value from cyber security 
+Over the past 24 months, have your digital transformation efforts with cyber security 
+positively impacted your organization’s profitability? 
+12
+Tech
+24%
+Retail and Consumer
+Packaged Goods
+22%
+Life Sciences
+24%
+Industrial Manufacturing
+20%
+Healthcare
+20%
+Government
+19%
+Financial Services
+23%
+Energy
+29%
+When it comes to cyber security, energy businesses are most likely to say that 
+a strategic vision exists but executive buy-in and/or investment approval is 
+limiting progress.
+and front-loading security into the process rather than 
+adding it on at the very end of digital transformation.”
+“True resilience in cyber security goes beyond 
+technology and planning,” says Janet Rieksts Alderman, 
+Partner and Power, Utilities and Renewables Lead at 
+KPMG in Canada. “It’s about empowering people to act 
+swiftly and confidently by fostering strong governance 
+and thoughtful change management. Energy firms that 
+prioritize this are better positioned to protect digital 
+assets, seize emerging opportunities and drive value 
+from cyber security investments.”
+16% profit increase or more.
+And cyber tech is most likely to have generated a
+Source: KPMG global tech report 2024
+Like in 2023, energy organizations are getting positive 
+results from their attitude to cyber security. Out of all 
+eight sectors, energy executives are the most likely  
+to report that their organization had seen at least a  
+16 percent increase in profitability from its cyber security 
+investments, which is the highest profit category 
+measured in the survey.
+“Energy companies recognize that profiting from cyber 
+security means avoiding or limiting the incidents that 
+would otherwise severely disrupt operations and cause 
+long-term damage,” says Rabra. “It’s about looking ahead 
+12
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+The sector is skilled at getting  
+financial value from cyber security 
+The future for energy 
+To navigate a turbulent landscape with confidence and clarity, energy executives should:
+In line with KPMG’s recent Energy, Natural Resources and Chemicals CEO Outlook,8 this research finds the energy sector at a tipping point. Meeting the challenges and seizing the opportunities of the energy transition 
+will require a unified approach that integrates technology, data and strategy across the entire business. With heightened investment in these areas, companies will be equipped to navigate this transformative era, 
+reinforce their resilience and set a course for sustainable growth.
+Build resilience 
+through targeted 
+technology investment 
+and innovation. 
+This means not only 
+adopting new solutions, 
+but also striving to ensure 
+the architectural integrity of 
+digital networks and aligning 
+technology with reimagined 
+business processes. 
+With careful attention to 
+the foundations of digital 
+systems and the security of 
+interconnected networks, 
+companies can accelerate 
+the long-term benefits of 
+technology investments, 
+enhancing both operational 
+efficiency and security.
+01.
+Mitigate 
+technical debt. 
+Addressing 
+legacy systems 
+and outdated 
+technologies is 
+crucial. Establishing 
+structured plans to 
+manage and reduce 
+technical debt 
+can help maintain 
+scalability and 
+interoperability while 
+avoiding bottlenecks 
+during digital 
+transformation.
+03.
+Enhance 
+partnerships 
+and ecosystem 
+collaboration.
+Partner with technology 
+providers, research 
+institutions and startups 
+to co-develop innovative 
+solutions and access 
+expertise in cutting-
+edge technologies. 
+This can accelerate AI-
+driven advancements 
+in renewable energy, 
+grid management, and 
+predictive maintenance.
+05.
+Focus on 
+workforce 
+enablement  
+for AI adoption.
+Empower your teams by 
+building AI literacy and 
+fostering cross-functional 
+collaboration. Continuous 
+knowledge-sharing 
+initiatives can close 
+skills gaps and promote 
+confidence in deploying 
+AI for operational 
+improvements and clean 
+energy initiatives.
+06.
+Scale pilots 
+responsibly. 
+Pilot emerging 
+technologies on a 
+small scale to validate 
+their effectiveness 
+before broader 
+implementation. For 
+instance, test AI models 
+for renewable energy 
+forecasting or grid 
+optimization in select 
+regions, scaling based 
+on proven outcomes.
+07.
+Build a strong  
+data backbone.
+As the industry evolves, 
+robust data infrastructure 
+is expected to be essential 
+for evaluating the impact of 
+new technologies. Investing 
+in data systems not only 
+increases confidence in 
+performance metrics but 
+also unlocks synergies 
+across departments by 
+integrating data pools. 
+Establishing a centralized 
+data leadership team 
+can further enhance data 
+quality and accountability, 
+empowering executives 
+with precise insights to 
+inform strategic decisions.
+02.
+Leverage AI’s 
+transformative 
+capabilities across 
+operations and  
+climate initiatives. 
+The potential of AI in the 
+energy sector is vast, from 
+enabling predictive analysis to 
+enhancing climate action efforts. 
+According to KPMG India’s 
+ACED (accelerating clean energy 
+delivery) through AI report,7 
+AI can dramatically improve 
+efficiency within energy systems 
+and drive the rapid scaling of 
+renewables. Embracing AI 
+fully, with a strategic focus 
+on sustainability, can position 
+companies at the forefront of the 
+clean energy transition.
+04.
+7 KPMG India, ‘ACED through AI,’ 2024
+8 KPMG International, ‘Energy, Natural Resources and Chemicals CEO Outlook,’ 2024
+13
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+Executive 
+Summary
+Authors
+Methodology 
+How KPMG 
+can help
+The future 
+for energy 
+Methodology
+How KPMG can help 
+Our research highlights that as energy leaders strive to harness the potential of technological 
+innovations, they face a complex web of challenges, including mounting cybersecurity risks, 
+entrenched tech debt and intricate value calculations in an evolving energy landscape.
+KPMG energy professionals can collaborate with you to define a clear vision for the future 
+that aligns with your organizational goals, execute transformational strategies tailored to the 
+energy sector and provide managed services to drive sustainable results. Our energy-focused 
+technology consulting practice combines deep sector expertise with a global delivery network 
+to support your digital transformation journey.
+We offer innovative products, tailored technological solutions and accelerators designed to 
+help fast-track your transformation efforts and enhance the potential of advanced technologies 
+in energy. From strategy to execution, we provide a detailed suite of services across critical 
+areas, including platforms, cybersecurity, data and AI, emerging technologies, cloud and risk 
+management.
+Through our strategic alliance partnerships, we help address some of your most pressing 
+energy and technology challenges with expanded offerings and capabilities. Together, we can 
+help deliver impactful digital solutions that help unlock efficiencies, improve resilience and 
+support the energy transition.
+The energy perspective of the KPMG global tech report 2024 draws on the 
+views of 122 technology leaders from 19 countries and territories from the 
+energy industry (including power and utilities, oil and gas, natural resources, 
+and chemicals).
+Survey respondents represented organizations with annual revenues above US$1 billion and included a 
+diverse group of technology leaders, such as Chief Digital Officers, CIOs, CTOs, CISOs, Chief AI Officers, 
+and others. A significant proportion of the respondent sample was composed of senior leaders: 
+were board 
+members or 
+members of the 
+C-suite.
+75%
+held director or 
+senior manager 
+level positions.
+25%
+14
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. 
+All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Authors
+How KPMG 
+can help
+Methodology 
+Sushant Rabra 
+Partner, Transformation  
+KPMG in India
+Sushant’s specialization is in digital transformation, 
+covering usage of emerging technologies, 
+including blockchain, 3D printing, drones, IoT and 
+related fields. He has advised large multinational 
+companies, public sector organizations, SMBs 
+as well as regulators on the application of such 
+solutions. His engagements often have been with 
+the board of directors, CXOs and other senior 
+leaders, helping them chart out the technology 
+agenda for the organization. 
+Ronald Heil  
+Lead of Global Cyber and 
+Risk for Energy and Natural 
+Resources, KPMG International 
+and Partner 
+KPMG in the Netherlands 
+Ronald is a partner at KPMG in the Netherlands 
+and is KPMG International‘s Global Cyber Leader 
+for the Energy and Natural Resources sector. He 
+has extensive experience helping international 
+companies connect their products and devices 
+to the IoT and providing information security and 
+advice on industrial control systems (ICS) and 
+supervisory control and data acquisition (SCADA). 
+Dan Fisher 
+Principal, Advisory  
+Digital Lighthouse  
+KPMG in the US
+Dan is a Principal in the KPMG in the US Advisory 
+Management Consulting Technology Practice. 
+He is the US technology leader for the energy 
+and chemicals sectors. Dan leads the firm‘s 
+Data Platforms and Engineering Practice in the 
+US and has 29+ years of experience partnering 
+with clients to transform the way they run their 
+organizations through the application of emerging 
+data, analytics, and AI technologies.
+Janet Rieksts Alderman  
+Partner, Risk Services  
+and Co-Chair  
+Board Leadership Center  
+KPMG in Canada 
+Janet is a widely respected Canadian business 
+and thought leader with deep experience in 
+capital project risk and project performance. For 
+close to 20 years, Janet has advised public and 
+private sector clients in Canada and around the 
+world and currently serves as Power, Utilities and 
+Renewables Lead. Her executive insights help 
+manage multifaceted risks and drive value for a 
+range of industries, including utilities, infrastructure, 
+energy, mining and financial services. 
+Authors
+15
+KPMG global tech report: Energy insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Key 
+findings
+The energy sector is bolder 
+than others on technology
+Energy companies are methodically 
+experimenting with AI use cases
+Data maturity gaps make it harder for the 
+sector to prove the value of its technology 
+The sector is skilled at getting  
+financial value from cyber security 
+The future 
+for energy 
+Executive 
+Summary
+Methodology 
+How KPMG 
+can help
+Authors
+Anish De 
+Global Head of Energy,  
+Natural Resources and Chemicals 
+KPMG International 
+anishde@kpmg.com
+Carlo Franchina 
+Lead of Global Tax for ENRC 
+KPMG International 
+cfranchina@kpmg.com.au
+Ronald Heil 
+Lead of Global Cyber and  
+Risk for ENRC 
+KPMG International 
+heil.ronald@kpmg.nl
+Mike Hayes  
+Lead of Global Renewables 
+KPMG International 
+mike.hayes@kpmg.ie
+Trevor Hart 
+Lead of Global Mining 
+KPMG International 
+thart@kpmg.com.au 
+Franceli R. Jodas   
+Lead of Global ESG for ENRC 
+KPMG international 
+fjodas@kpmg.com.br
+Gillian Morris 
+Lead of Global Chemicals 
+KPMG International 
+gillianmorris@kpmg.com 
+Colm O’Neill  
+Lead of Global Power and Utilities
+KPMG International
+colm.oneill@kpmg.ie
+Jonathan Peacock 
+Lead of Global Oil and Gas
+KPMG International 
+jonathan.peacock@kpmg.co.uk
+Sushant Rabra 
+Lead of Global Digital and  
+Technology for ENRC 
+KPMG International 
+srabra@kpmg.com
+Some or all of the services described herein may not be permissible for KPMG audit clients and their affiliates or related entities.
+kpmg.com
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of 
+the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity.
+KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. For more details about our structure please visit kpmg.com/governance.
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization
+KPMG’s participation and contribution in this regard is not an endorsement, sponsorship or implied backing of any company’s products or services.
+Throughout this document, “we”, “KPMG”, “us” and “our” refers to the KPMG global organization, to KPMG International Limited (“KPMG International”), and/or to one or more of the member firms of KPMG International, each of which is a separate legal entity.
+Designed by Evalueserve.
+Publication name: KPMG global tech report: Energy insights  |  Publication number: 139797-G  |  Publication date: January 2025
+Contacts

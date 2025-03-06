@@ -1,0 +1,2141 @@
+The mutual funds route 
+to Viksit Bharat @2047
+Table of contents
+i)	
+Foreword	
+4–5
+ii)	 Executive summary	
+6–8
+iii)	 Preface	
+9
+iv)	 The journey so far
+A.	
+Laying the foundation (1964–2014) 	
+10–13
+B.	
+Gaining momentum and democratisation (2015–2024) 	
+13–18
+v)	 The road ahead: Financial freedom – 	
+19–42 
+	
+from financial inclusion to financial wellbeing
+Foreword 
+India stands on the cusp of a transformative era, with 2047 marking a momentous milestone – the centenary of our 
+independence. As we navigate towards this historic moment, we have a unique opportunity to lay the cornerstone of 
+a nation defined by financial empowerment, inclusive growth and economic resilience.
+The mutual fund industry in India is poised to play a crucial role in this journey. Over the years, the industry has seen 
+remarkable progress in AUM and SIP contributions. However, this progress only scratches the surface of the true 
+potential. Less than 5% of India’s 1.4 billion population actively participates in mutual funds – a stark contrast with 
+mature markets such as the United States, where mutual fund penetration exceeds 50%.1 Bridging this gap presents 
+both a challenge and an extraordinary opportunity.
+By 2047, we envision an India where mutual funds are a tool for wealth creation as well as a foundation of financial 
+security for every household. Achieving this requires prioritising trust-building, technological integration, process 
+simplification and, most importantly, financial literacy. Empowering the next generation of investors with the 
+knowledge and confidence to participate in capital markets will be crucial to unlocking the industry’s vast potential.
+Our roadmap for the future must focus on innovation, accessibility and inclusivity. India’s socioeconomic diversity 
+demands tailored approaches to engaging communities where financial decision making typically is localised and 
+collective. We must go beyond offering various investment products and ensure that these products remain simple, 
+transparent and accessible to investors from all walks of life.
+The democratisation of financial wellbeing is within our grasp. However, this requires a concerted effort from all 
+stakeholders – asset managers, advisors, distributors, investors, policymakers, service providers and the media. 
+Together, we must foster an ecosystem that transcends the barriers of geography, income and financial literacy, 
+ensuring that investing becomes a seamless and integral dimension of every Indian’s financial planning journey. All 
+Indians should feel empowered to take control of their financial future, from young students to retirees.
+I am delighted to introduce this vision document, which presents a comprehensive roadmap for the evolution of 
+the mutual fund industry – from expanding financial inclusion to achieving genuine investor empowerment. The 
+document underscores the critical need to prioritise investor education, balance innovation and risk management, 
+and foster a culture of trust. It challenges us to make investing accessible, intuitive and empowering for all.
+While there are valuable lessons to learn from the evolution of the mutual fund industry in mature markets such 
+as the United States, India must forge its own path that aligns with its unique social, economic and demographic 
+realities. We aim to ensure that the mutual fund industry promotes financial inclusion and catalyses sustainable 
+economic growth.
+I thank the team at PwC for their insightful contributions to shaping this document. I also wish to acknowledge the 
+instrumental role of SEBI in fostering the industry’s growth and ensuring its alignment with the best interests of 
+investors. Together, let us commit to building a mutual fund industry that drives India towards a future of financial 
+prosperity and inclusion.
+Navneet Munot
+Chairman, AMFI
+1	 https://www.aninews.in/news/business/only-3-indias-population-invests-in-mutual-funds-indicates-underpenetration-motilal-
+oswal20241210152216/
+4 | PwC | The mutual funds route to Viksit Bharat @2047
+Foreword 
+The mutual fund industry has seen remarkable growth in terms of both assets under management (AUM) and 
+number of unique customers over the last five years. The industry AUM has grown by ~175%, from INR 24.78 trillion 
+in April 2019 to INR 68 trillion in January 2025. The number of unique customers increased from 1.93 crore to over 
+5.33 crore during the same period. The systematic investment plan (SIP) contribution has grown nearly sixfold, from 
+INR 8,055 crore in March 2019 to INR 26,400 crore in January 2025.2
+Despite this progress, the industry remains in its early stages of development. As India continues its ascent to 
+become the world’s third-largest economy by 2030, mutual fund participation remains restricted to a small fraction 
+of the population. This represents a significant challenge as well as an extraordinary opportunity for growth and 
+inclusion. 
+As we move towards the vision of Viksit Bharat by 2047, our mission is to foster financial wellbeing by building a 
+financially empowered India where mutual funds are a cornerstone of every household’s financial future. To achieve 
+this, we seek to increase retail mutual fund penetration from ~3.6% in 2025 to approximately 15% by 2047. While 
+India’s saving rate is among the highest globally, a substantial portion of these savings remains invested in low-
+return instruments, creating unbalanced portfolios. Empowering India’s citizens requires that we redirect more of 
+this capital into productive assets such as equities and mutual funds, which have proven their ability to create long-
+term wealth. This transformation, however, requires a paradigm shift in mindset – from traditional, passive saving 
+habits to active, disciplined and future-focused investing. This shift must be tailored to address the diverse financial 
+behaviours and needs of India’s vast and diverse investor base. 
+Achieving this vision requires a multipronged, investor-centric approach. We must simplify and broaden access to 
+mutual funds, leverage innovation and communicate in ways that resonate with the diverse financial perspectives 
+across the country. At the same time, we must cultivate a robust investment culture while harnessing new-age 
+technologies to make investing seamless and accessible for millions, both in urban and rural areas. 
+This document is a call to action to all stakeholders – policymakers, asset managers, distributors and individuals. 
+It emphasises the need for collective efforts to boost investor confidence, simplify the investment process and 
+foster a culture of long-term wealth creation. More than a mere roadmap, this vision document represents a shared 
+commitment to drive systemic change, paving the way for a society where financial security and autonomy are 
+within every citizen’s reach. 
+I thank the team at PwC and all the contributors for their dedication and efforts in bringing this document to life. Let 
+us embark together on this transformative journey towards a financially inclusive and empowered India.
+V N Chalasani
+Chief Executive, AMFI
+2.	 AMFI data
+The mutual funds route to Viksit Bharat @2047 | PwC | 5
+Executive summary
+6 | PwC | The mutual funds route to Viksit Bharat @2047
+3	 https://www.amfiindia.com/Themes/Theme1/downloads/AMFI_Phase1_05042021.pdf
+4	 AMFI data
+Six decades into India’s mutual fund journey, the industry stands on the cusp of an extraordinary 
+transformation. Its evolution from a single product, single-player model in the 1960s to today’s dynamic 
+ecosystem – comprising 40+ asset management companies, over 1,500 schemes, more than 2 lakh active 
+distributors and over 22.9 crore investor accounts (as of January 2025) – reflects not just growth but a 
+fundamental reimagining of India’s financial landscape.3
+Today, India’s mutual fund industry epitomises the intersection of technological sophistication and financial 
+democratisation. Our streamlined KYC operations, competitive cost structures and transparent asset 
+disclosure practices set global benchmarks. We pioneered digital-first solutions while retaining the flexibility 
+to serve investors across the socioeconomic spectrum through small-ticket investment options. These 
+accomplishments, however, signify not an endpoint but a foundation for an even more ambitious future.
+As we chart our course towards Viksit Bharat 2047, we recognise a fundamental truth: The success of 
+the industry is inextricably linked to the holistic financial empowerment of every Indian citizen. Financial 
+wellbeing represents far more than wealth accumulation or sophisticated investment portfolios; it is a 
+transformative condition where individuals possess the means and the confidence to navigate their financial 
+present and future. It manifests in the ability to meet daily obligations without strain, build resilience against 
+life’s uncertainties, pursue aspirations without compromise and craft legacies for future generations. 
+Financial sovereignty – where money enables rather than constrains – is essential to realising the vision of a 
+developed India.
+This Amrit Kaal marks a defining moment for India’s mutual fund industry. It envisions a dramatic expansion 
+on the basis of our estimates, with over 26 crore investors served by around 2047 and AUM scaling to 
+approximately USD 33 trillion. More significantly, this growth will catapult India’s mutual fund assets from a 
+current GDP ratio of 19% to over 110%, positioning India alongside global investment powerhouses. These 
+numbers, while impressive, underscore a deeper imperative. As India advances towards becoming a USD 
+30 trillion economy, the mutual fund industry must continue evolving from being a beneficiary of growth to 
+becoming its catalyst.
+The past decade’s achievements underscore this potential. Monthly SIP inflows have surged from INR 
+3,000 crore to INR 19,000 crore, further crossing the INR 26,000 crore mark in January 2025. Further, 
+B30 cities have demonstrated unprecedented momentum, with their AUM contributions rising from 9% 
+to approximately 19% – a remarkable growth rate of ~9.5x in absolute terms. Digital transformation has 
+revolutionised access, with 60% of transactions forming ~21% of the transaction value now occurring 
+digitally, compared to 45% of transactions forming 1% of the transaction value in FY2013.4
+However, unlocking our industry’s full potential requires a fundamental shift in approach. By drawing on 
+insights from transformative successes across sectors – from telecommunications to healthcare – we 
+realise that sustainable change requires more than product innovation. It entails deep cultural resonance, 
+community engagement and solutions that complement rather than replace existing financial wisdom.
+To engineer this transformation, we propose a comprehensive framework built on four interconnected 
+pillars:
+Strategic orchestration
+•	
+Enhanced coordination among industry stakeholders through the Association of Mutual Funds in 
+India’s (AMFI) governance mechanism
+•	
+Development of regional strategies that respect cultural nuances while driving financial inclusion
+•	
+Creation of robust research mechanisms to understand and address behavioural patterns
+Infrastructure evolution
+•	
+Transformation of registrars and transfer agents (RTAs) into intelligent platforms for handling 
+unprecedented scale
+•	
+Implementation of vernacular solutions and intuitive investor journeys
+•	
+Development of cloud-enabled capabilities ensuring real-time, secure operations
+Regulatory partnership
+•	
+Collaborative frameworks balancing innovation with the necessary guardrails
+•	
+Development of new product categories that meet emerging demographic needs enhanced disclosure 
+mechanisms that promote transparency while enabling growth
+The mutual funds route to Viksit Bharat @2047 | PwC | 7
+Cultural integration
+•	
+Region-specific communication strategies that leverage local leadership networks
+•	
+Products that align with community financial practices and aspirations
+•	
+Technology integration with traditional distribution networks
+This vision demands transforming the investor journey by adopting an investor-centric approach with 
+focused attention on the following:
+1.	 Simplified accessibility for all 
+•	
+Intuitive multilingual platforms with vernacular support
+•	
+AI-powered personalised and assisted investment journeys
+•	
+Voice-assisted navigation and bite-sized education
+•	
+Collaborative features enabling guided decision making
+2.	 Relevant product innovation and communication
+•	
+Lifecycle solutions reflecting Indian family structures
+•	
+Technology-enabled investment products
+•	
+Strategic offerings bridging current market gaps
+•	
+Cultural alignment in communication strategies
+3.	 Inclusive solutions
+•	
+Accessible platforms for specially abled individuals
+•	
+Flexible investment options for gig economy and blue-collar workers
+•	
+Visual and audio-based systems for limited literacy
+•	
+Community-based comprehensive investor education programmes
+4.	 Behavioural transformation 
+•	
+Deep understanding of regional investment psychology
+•	
+Trust-building through community engagement
+•	
+Early-stage financial literacy integration 
+5.	 Ensuring last-mile connectivity
+•	
+Hyperlocal guidance through trusted community networks
+•	
+Integration with the existing retail infrastructure
+•	
+Ongoing leveraging of technology to bridge the accessibility gap
+The moment before us is unprecedented. Just as the liberalisation of the 1990s laid the groundwork for 
+today’s achievements, our decisions today will shape India’s financial landscape for generations. The 
+mutual fund industry is uniquely positioned to drive this transformation – not merely as an investment 
+vehicle, but as a catalyst for national development.
+As we progress towards Viksit Bharat @2047, success will be measured in assets managed or accounts 
+opened as well as lives transformed. The path ahead demands unprecedented collaboration, unwavering 
+commitment to innovation and a deep understanding of Indian investors’ needs and aspirations, where 
+mutual funds serve as the cornerstone of India’s financial wellbeing.
+The industry’s opportunity and responsibility are evident. Through collective action and a shared vision, the 
+industry ecosystem can ensure that financial wellbeing is not just an aspiration but also a reality for every 
+Indian citizen.
+8 | PwC | The mutual funds route to Viksit Bharat @2047
+Preface
+The journey towards financial wellbeing is a personal and collective endeavour 
+that transcends metrics and figures, touching the essence of human dignity and 
+autonomy. This document is crafted in the spirit of this journey, aiming to evaluate 
+and redefine what financial success means for millions of individuals across India. 
+As we stand at the crossroads of technological advancement and economic 
+transformation, the question before us is: Are we simply including or genuinely 
+empowering?
+Drawing inspiration from various global models while remaining deeply rooted in 
+India’s unique socioeconomic fabric, this work explores the potential and necessity 
+of evolving from financial inclusion to financial wellbeing. It examines the pillars of 
+financial security, resilience and freedom, presenting a vision of financial systems as 
+engines of growth for every individual. As we navigate this course, we will highlight 
+the steps necessary to guarantee that financial wellbeing becomes a reality for all, 
+not just a privileged few.
+Sidharth Diwan
+Partner – Business Transformation, Financial Services
+PwC India
+The mutual funds route to Viksit Bharat @2047 | PwC | 9
+The journey so far
+10 | PwC | The mutual funds route to Viksit Bharat @2047
+A. Phase 1: Laying the foundation (1964–2014)
+The evolution of India’s mutual fund industry reflects a long journey of expanding investment choices, deeply 
+intertwined with the nation’s economic transformation. In 1964, India’s economy was predominantly agrarian, with 
+agriculture contributing 45%–50% of GDP and employing nearly 70% of the workforce.5 Bank deposits dominated 
+the rudimentary financial sector for retail investors.
+The critical challenge was economic. Persistent inflation of 6%–8% annually6 eroded the value of savings, with 
+bank fixed deposits averaging only 4%–6%.7 This wealth erosion created an urgent need for alternative investment 
+options. The first mutual fund product, introduced in 1963 with support from the government and regulators, 
+emerged as an innovative solution to mobilise household savings and facilitate wealth creation through capital 
+markets.
+Phase 1A: The paradox of choice (1964–1987)
+The mutual fund industry initially faced the paradox of limited choice. Beginning with a single product, US-64 
+was constrained by conservative investor expectations and a narrow urban demographic. However, economic 
+reforms in the 1990s gradually transformed the landscape. Private sector innovation introduced specialised 
+schemes and systematic investment plans (SIPs), democratising market access.
+By the mid-2010s, mutual funds had evolved from a singular, government-backed option into a vibrant ecosystem 
+characterised by flexibility, transparency and investor empowerment. This evolution highlights the critical role 
+of choice – not just as a market strategy, but as a fundamental mechanism for fostering a more inclusive and 
+dynamic investment landscape.
+The journey from a single, balanced approach to a diverse array of investment products illustrates a broader 
+narrative of financial maturation. What started as a limited, government-guided investment option has evolved into 
+a sophisticated market that enables investors to align their investments with personal financial goals and risk 
+tolerances.
+Phase 1B: Expanded choice of players and products (1987–1995)
+Macroeconomic and market conditions: The need for diversified choices and regulatory oversight
+The early 1990s marked a transformative period for India’s financial landscape, with profound economic challenges 
+demanding innovative investment solutions. By 1990, India’s fiscal deficit had surged to approximately 8.3% of 
+GDP8 – significantly higher than global counterparts like the United States and the United Kingdom – creating an 
+urgent need for capital generation from within the economy.
+5	 https://www.niti.gov.in/sites/default/files/2021-08/11_Rural_Economy_Discussion_Paper_0.pdf
+6	 https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=IN
+7	 https://www.bis.org/review/r080218c.pdf
+8	 https://www.indiabudget.gov.in/budget_archive/es199091/1%20The%20Economic%20Situation%20in%201990-91.pdf
+1963
+Introduction of 
+maiden MF
+INR 5,000 
+crore AUM 
+(Assets under 
+management)
+1987
+SEBI getting 
+statutory 
+powers 
+Entry of private 
+sector asset 
+management 
+companies 
+Expense ratio 
+caps, abolition 
+of entry loads
+INR 10 lakh 
+crore AUM 
+India’s 
+economic 
+liberalisation
+1991
+•	 Establishment 
+of AMFI
+•	 INR 47,000 
+crore AUM
+1995
+35% of the 
+MF AUM with 
+private players
+2000
+1992
+Introduction of 
+simplified KYC 
+norms 
+2011
+2015
+2005
+2008
+INR 68 lakh 
+crore by 
+November 2024
+2024
+Figure 1: An overview of the key milestones of the mutual fund industry (1963-2024)
+The mutual funds route to Viksit Bharat @2047 | PwC | 11
+The severe economic strain, compounded by inflation reaching 13.1% in 19919 and a critical balance of payments 
+crisis, compelled India to implement comprehensive economic reforms. These challenges positioned the mutual fund 
+industry as a vital mechanism for mobilising retail savings and channelling household investments into the formal 
+financial sector.
+The government responded strategically by encouraging public sector entities to enter the mutual fund market. 
+Reaching beyond urban elites, access was provided to semiurban and rural investors, leveraging its extensive 8,000+ 
+branch network.10 
+Alongside market expansion, the regulatory framework evolved significantly, starting with the current regulator 
+receiving its statutory powers in 1992 – a critical development to enforce transparency, protect investor interests 
+and establish fair trading practices. Establishing the Association of Mutual Funds in India (AMFI) in 1995 further 
+solidified the industry’s commitment to self-regulation and ethical standards.
+The results were remarkable. AUM surged from INR 6,700 crore in 198711 to INR 47,000 crore by 199512 while the 
+investor base expanded from 1.5 million to 6 million accounts. Approximately 50 new schemes were introduced, 
+encompassing debt, balanced and cautiously structured equity-linked investments.
+Nevertheless, significant challenges remained. By 1995, only 25–30% of urban households possessed basic 
+mutual fund literacy, limiting deeper market penetration. Long-term industry growth would fundamentally depend on 
+comprehensive investor education and demystifying these financial instruments.
+This period represented far more than market expansion  – it was a time of fundamentally reimagining India’s 
+investment ecosystem, laying the groundwork for a more sophisticated, inclusive and democratised financial 
+sector.
+Phase 1C: Expanding product choices: Diverse schemes, increased demand and the 
+advent of private sector innovation (1995–2014)
+The entry of private sector asset management companies (AMCs) around the year 2000 revolutionised the industry. 
+By 2005, private AMCs held 35% of AUM,13 introducing specialised schemes like sector-sp ecific funds, equity-
+linked savings schemes (ELSS) and fixed maturity plans (FMPs). Introduced in the late 1990s, SIPs encouraged 
+disciplined investments, while exchange-traded funds (ETFs) and fund of funds (FoFs) offered retail investors 
+low-cost, diversified options. By 2013, these innovations made mutual funds more accessible to cost-conscious 
+investors.
+Regulatory advancements strengthened investor protection and transparency. Key measures included standardised 
+disclosure norms, expense ratio caps and the abolition of entry loads in 2008, which reduced costs for retail 
+investors. Investor education initiatives, such as the Market Awareness Campaign (2003), boosted financial literacy, 
+with awareness in urban areas rising from 20% in 2005 to 50% by 2014.14 The simplified know your customer (KYC) 
+procedures introduced in 2011 further streamlined onboarding, increasing the value of mutual fund accounts to 3.5 
+crore by 2014.15 
+These developments drove exceptional growth in investor participation and industry AUM, which surged from INR 
+47,000 crore in 199516 to INR 10 lakh crore by 2014.17 Retail investors – contributing 50% of total AUM by 201418– 
+embraced mutual funds as a mainstream choice, aided by SIPs and an expanding distribution network of 75,00019 
+including RIAs and IFAs.
+9	 https://www.indiabudget.gov.in/budget_archive/es1992-93/4%20Prices%20and%20Distribution.pdf
+10	https://epwrf.in/includefiles/c10641.htm#:~:text=In%201975%2C%20the%20Government%20established,by%20the%20end%20of%201969
+11	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+12	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+13	https://www.sebi.gov.in/sebi_data/commondocs/sumrep_p.pdf
+14	https://dea.gov.in/sites/default/files/ATRMay2003.pdf
+15	https://www.businesstoday.in/mutual-funds/story/mutual-fund-investor-accounts-rise-on-equity-folios-sebi-139216-2014-12-08
+16	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+17	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+18	AMFI data
+19	AMFI data
+12 | PwC | The mutual funds route to Viksit Bharat @2047
+20	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+21	AMFI data
+22	PwC analysis
+23	https://www.amfiindia.com/investor-corner/knowledge-center/history-of-MF-india.html
+24	AMFI data
+B. Phase-2: Gaining momentum and democratisation (2015–2024)
+By 2014, mutual fund industry AUM had surged from ~INR 47,000 crore to ~INR 10 lakh crore.20 In contrast, SIP 
+AUM accounted for a small fraction, i.e. INR 1,000 crore in monthly inflows,21 owing to the limited adoption by the 
+more prominent retail investor class stemming from low financial awareness, product understanding and investor 
+psyche. The years 2015–2024 have been a defining period for the Indian mutual fund industry, characterised by 
+significant democratisation of investment avenues, unparalleled growth, and a significant broadening of investor 
+participation. As the industry evolves, it plays an essential role in supporting the vision of Viksit Bharat 2047 – a 
+developed India characterised by inclusive and sustainable growth.
+After 2014, India’s mutual fund AUM grew exponentially, more than doubling of the global mutual fund AUM 
+market share from 0.3% to 0.8% by 2023,22 expanding from INR 10.8 lakh crore in 201523 to over INR 68 lakh 
+crore by November 2024 (INR 53.40 lakh crore by March 2024) 24– a nearly sixfold increase. This exponential 
+growth was fuelled primarily by retail participation, buoyant equity markets and structural shifts in the country’s 
+mutual fund and capital market ecosystems, largely mainly by structural changes in the domestic mutual fund and 
+capital markets ecosystem. 
+Product innovation, regulatory reforms, technological advancements and a strong focus on investor education, 
+key drivers of this transformation, have all been instrumental in overcoming the industry’s existing challenges and 
+positioning it on an unprecedented growth trajectory.
+Figure 2: India’s rise as a global mutual fund powerhouse between 2015–2024 - growth rate (%)
+13%
+14%
+15%
+14%
+22%
+6%
+7%
+20%
+24%
+20%
+11%
+11%
+11%
+8%
+9%
+12%
+4%
+7%
+11%
+9%
+8%
+9%
+19%
+5%
+Brazil
+China
+Germany
+India
+5 years 
+10 years 
+15 years 
+Japan
+South 
+Africa
+United 
+Kingdom
+United 
+States
+Source: AMFI; IIFA
+Conclusion
+The evolution of choice in India’s mutual fund industry is a testament to how increasing competition, 
+innovation and regulation have shaped a strong, investor-focused market. The rise in investor literacy, 
+bolstered by a dynamic regulatory framework and innovative product offerings, has democratised access 
+to financial markets, providing new investors the tools and knowledge to engage in wealth creation and 
+economic growth. This journey of choice – from a single product market to a diversified ecosystem – 
+underscores the mutual fund industry’s resilience and adaptability in meeting the constantly evolving needs 
+of India’s growing investor base.
+The mutual funds route to Viksit Bharat @2047 | PwC | 13
+Casual investor
+•	
+Market uncertainty and trust 
+deficit
+•	
+Low returns vs alternatives
+•	
+Competition from stable 
+alternatives
+Informed investors
+•	
+Limited reach of distributors
+•	
+Metro-centric distribution
+•	
+Confidence gap in DIY investing
+Uninformed investors
+•	
+Low financial literacy
+•	
+Preference for traditional 
+investments
+•	
+Complexity of MF products
+The following sections will dive into the critical challenges  that existed and the strategic responses being adopted by 
+the industry ecosystem. 
+A. Existing challenges tackled in this decade 
+Retail investors seeking to build wealth through mutual funds have faced systemic challenges over the past decade. 
+We have identified the key issues impacting the industry according to investment personas. The three investor 
+personas were as follows: 
+1.	 Casual investors (investors who are aware but are hesitant to invest considering market risks and affordability of 
+investments)
+2.	 Informed investors (investors who are willing to invest but lack a confidant)
+3.	 Uninformed investors (those who lack financial education) 
+Figure 3: Key challenges that hindered mutual fund adoption in India
+1.	 The casual investors’ conundrum: Balancing market uncertainty and affordability with the lure of stable 
+alternatives 
+Mutual funds primarily deterred casual retail investors due to the limited trust stemming from several 
+market corrections and the inherent volatility of equity markets, leading to uncertain market returns. 
+Net returns on mutual funds were further impacted by elevated total expense ratios (TERs) stemming from 
+exit loads, management fees and commissions. Thus, volatile capital markets and high investment costs 
+tempered casual investor sentiments during this period. 
+The availability of more dependable options, like the public provident fund (PPF), also reduced the lure 
+of mutual funds. The PPF stood out for its sovereign guarantee with returns higher than fixed deposits, 
+offering a secure foundation that was highly attractive to risk-averse investors. Thus, the PPF’s positioning as a 
+compelling choice often drew investors away from the more dynamic landscape of mutual funds.
+2.	 Distribution deficits: The accessibility gap for India’s ‘informed’ investors
+Despite increasing awareness, India’s mutual fund industry around 2013–2014 grappled with severe 
+distribution constraints compared to the expansive reach enjoyed by the insurance sector. While insurance 
+relied on an extensive pan-India network of over two million agents,25 mutual funds had only approximately 
+80,000–100,000 AMFI-registered distributors,26 concentrated mainly in metropolitan areas. This disparity of 
+reach left retail investors who were aware yet cautious, particularly those with smaller investable surpluses, 
+without accessible advisory support to understand the benefits of investing in mutual funds. These investors 
+lacked the confidence to independently invest in equity-linked instruments owing to market volatility and 
+inaccessibility of advice.
+25	https://irdai.gov.in/document-detail?documentId=377530
+26	AMFI data
+14 | PwC | The mutual funds route to Viksit Bharat @2047
+3.	 Persistent lack of investor awareness
+One of the most significant challenges to fully democratising mutual funds has been the lack of investor 
+awareness, particularly outside urban centres. 
+Low financial literacy in Tier-2 and Tier-3 cities and a preference for traditional, more straightforward and 
+perceived-safer options, such as fixed deposits, PPFs, and gold, hindered broader adoption. Complexities 
+around fund categories, risk-return dynamics and new product types further confused uninformed investors, 
+resulting in lower conversion rates and product uptake.
+These challenges underscore the complex relationships between structural barriers and behavioural factors. 
+Addressing these issues required the concerted efforts of the regulator, asset management companies, 
+distributors and FinTech platforms. At the same time, the industry leveraged product innovations, education 
+campaigns and digital platforms to reduce the gap between potential and actual investor participation.
+In the next section, we explore how various interventions – product, technological, regulatory and association-
+driven – helped mitigate these challenges and propel mutual fund growth in India.
+B. Strategic interventions to sustain the scaling momentum
+The mutual fund industry’s rapid growth in India from 2015 to 2024 is attributed to targeted products, technology-
+driven, along with association and regulatory, interventions that addressed challenges with respect to returns 
+stability, cost efficiency, accessibility and awareness, broadening and diversifying the investor base.
+Figure 4: Growth in share of mutual funds in financial assets of Indian households (in %)
+2013
+2023
+Deposits
+PF/Pension
+Insurance funds
+Currency
+Mutual funds
+6.1
+0.8
+8.0
+10.5
+18.1
+16.9
+22.4
+14.7
+57.0
+37.2
+Source: RBI
+1.	 Empowering casual investors: The focused push to navigate market volatility and high costs
+•	
+Emergence of SIPs to address market volatility and instil investment discipline
+The significant uptake of SIPs as a structured investment approach has been a hallmark of this period. 
+This uptake was propelled by several factors, including the emergence of digital platforms, the ease of 
+KYC and seamless onboarding, focused campaigns and awareness efforts and positioning SIPs as 
+an accessible low-ticket-size tool to generate wealth and achieve one’s financial goals. By reinforcing the 
+principle of cost averaging, SIPs offered casual investors a disciplined, risk-averse method to accumulate 
+mutual fund units across volatile market cycles. AMCs further capitalised on this approach through tactical 
+initiatives like value SIPs, power SIPs, top-up SIPs and prepaid SIPs. They also leveraged massive 
+awareness campaigns along with the rise of digital platforms.
+•	
+Direct plans and passive funds: 
+At the same time, direct plans and passive funds rose to prominence, catering to investors seeking cost-
+efficient and diversified portfolio exposure. Direct funds eliminated intermediary costs, while passive 
+funds provided investors with a low-cost, index-based entry into capital markets
+Additionally, given that the alpha generation is known to be elusive in the long run, the lower cost of entry 
+and exit associated with passive investment options has made them increasingly attractive investment 
+The mutual funds route to Viksit Bharat @2047 | PwC | 15
+options. The expansion of direct plans’ AUM share from 31% to 46% and passive plans from a mere 
+1.58% to a 17.5% market share in this period underscored the acceptance of these instruments.27 
+•	
+Rise of registered investment advisors (RIAs):
+Introduced in 2013, the RIA framework institutionalised fiduciary standards, gradually leading to circa 1000 
+RIAs,28 underscoring the demand for personalised financial planning services. RIAs prioritise client goals 
+over product sales, fostering trust and long-term engagement and providing guidance with the investor’s 
+best interest in mind. Thus, RIAs empower and enable casual investors to make more informed financial 
+decisions, fostering greater financial resilience.
+2.	 Technological interventions: Enabling seamless accessibility and scalability
+Technology has become a transformative force in the mutual fund industry, facilitating seamless access, 
+improving operational efficiency and improving the investor experience. These advancements have 
+leveraged digital platforms, process automation and tech-driven distribution models, making mutual funds 
+more accessible to an increasingly aware investor base, particularly in Tier-2 and Tier-3 cities where financial 
+knowledge is growing but traditional investment channels remain limited.
+•	
+Digital-first platforms: Empowering investors 
+The advent of digital-first platforms has redefined how investors access mutual funds. These platforms 
+draw in tech-savvy individuals while extending their reach to previously underserved segments in Tier-2 
+and Tier-3 cities. These platforms simplify investment journeys with features such as goal-based investing, 
+real-time portfolio tracking and personalised recommendations, empowering investors to make 
+informed and independent decisions.
+These platforms have technologies such as e-KYC, Aadhaar-enabled onboarding and unified payments 
+interface (UPI)-based payments, eliminating traditional barriers through digital distribution and making 
+investments seamless and accessible. The streamlined execution and intuitive user interfaces have 
+created a more inclusive and investor-friendly ecosystem.
+•	
+The role of RTAs: Enabling scalability with precision
+RTAs are the operational backbone of the mutual fund industry. RTAs leverage automation, enabling 
+AMCs to scale operations efficiently while ensuring error-free processing and reliable services. This has 
+significantly reduced operational costs and enhanced efficiency for AMCs, allowing them to cater to the 
+market’s growing demands. 
+RTAs also provide centralised digital platforms, offering investors real-time access to portfolios, 
+transaction histories and account details, enhancing transparency and convenience. Additionally, RTAs 
+empower FinTech platforms through API integration, seamlessly delivering mutual fund services to a 
+younger, tech-savvy demographic. Riding the wave of financial inclusion, ushered in by the Jan Dhan, 
+Adhaar, Mobile (JAM) trinity coupled with robust compliance frameworks and data integrity protocols, 
+RTAs have also ensured faster, paperless and more secure investor onboarding while adhering to regulatory 
+standards, enhancing investor ease, confidence and trust across the ecosystem.
+3.	 Association interventions: Advancing investor awareness, financial literacy and investor confidence 
+Driven by AMFI in collaboration with AMCs, investor education and awareness have been central to the success 
+of mutual fund democratisation. The industry’s growth required ensuring that retail investors understood 
+the benefits and risks of mutual funds while addressing misconceptions. In FY24, AMCs conducted 14,505 
+programmes for 10,96,192 participants nationwide, while AMFI ran an additional 290 Investor Awareness 
+Programmes (IAPs) for 56,528 participants.29 
+•	
+‘Mutual Funds Sahi Hai’ campaign (2017): 
+This groundbreaking campaign transformed public perceptions by simplifying mutual fund investing and 
+promoting disciplined SIP-based investments. By 2024, it reached over 350 million Indians, resulting 
+in a 30% increase in inflows within five years and significantly boosting retail participation, especially 
+in equity funds. The campaign’s success spurred the launch of a follow-up, ‘Mutual Funds Mein Fixed-
+Income Wali Baat’, which educates investors on debt funds as a safer, reliable hedge against volatility than 
+traditional assets such as FDs.
+•	
+‘MFD Shuru Karein’ campaign (2022): 
+This campaign intended to expand the network of mutual fund distributors (MFDs) by targeting graduates, 
+27	 AMFI data
+28	 https://cafemutual.com/news/industry/28940-even-after-10-years-india-has-just-1300-investment-advisors
+29	 AMFI
+16 | PwC | The mutual funds route to Viksit Bharat @2047
+retirees and small business owners, showcasing the earning potential of a career in distribution. TV, print 
+and digital ads significantly increased the distributor count, from 1.4 lakh in FY21 to over 2 lakh in FY24. 
+This initiative has strengthened the distribution system by bridging the gap between investor demand and 
+distributor availability, fostering investor education and ensuring the industry’s inclusive growth.
+•	
+Bharat Nivesh Yatra (2024): 
+AMFI’s latest effort to enhance awareness, this initiative deploys four branded buses travelling to 170 cities 
+over 75 days, covering financial topics such as goal setting, SIPs and the investment process. Targeting 
+underserved and rural areas, this programme exemplifies AMFI’s commitment to expanding investor 
+education nationwide.
+4.	 Regulatory interventions: Advancing cost efficiency, transparency and investor protection
+2017
+2018
+2023
+2024
+Reclassification of mutual 
+fund schemes: Streamlined 
+over 2,000 overlapping 
+schemes into 36 well-de-
+fined categories, improving 
+product clarity and portfo-
+lio alignment.
+Capping of total expense 
+ratio (TER): A tiered cap 
+on TER reduced invest-
+ing costs, benefiting retail 
+investors by enhancing 
+wealth accumulation.
+Enhanced environmental, 
+social and governance 
+(ESG) disclosures: Strin-
+gent ESG norms mandated 
+clear integration of ESG 
+factors, promoting sus-
+tainable and responsible 
+investing.
+Hybrid fund regulations: 
+New rules strengthened 
+risk disclosures and 
+enforced asset allocation 
+norms, ensuring alignment 
+with advertised strategies.
+The rapid growth and democratisation of the Indian mutual fund industry from 2015 to 2024 were undergirded by 
+regulatory interventions. These reforms, along with various disclosure mandates around NAV, AUM bifurcation, 
+portfolios, significant unit holdings, commissions, etc., prioritised investor protection, transparency and a more 
+structured mutual fund ecosystem, addressing areas such as product categorisation, cost reduction and focused 
+incentivisation.
+•	
+Reclassification of mutual fund schemes (2017): Streamlined over 2,000 overlapping schemes into 36 well-
+defined categories, improving product clarity and portfolio alignment.
+•	
+Capping of TER (2018): A tiered cap on TER reduced investment costs, benefitting retail investors by 
+improving wealth accumulation.
+•	
+Enhanced ESG disclosures (2023): Stringent ESG norms mandated the clear integration of ESG factors, 
+fostering sustainable and responsible investing.
+•	
+Hybrid fund regulations (2024): New rules strengthened risk disclosures and enforced asset allocation 
+norms, ensuring alignment with advertised strategies.
+•	
+Incentivisation for B30 markets: The 30 bps TER incentive (2009) drove rural penetration, expanding mutual 
+fund accessibility beyond metropolitan centres.
+Figure 5: Regulatory milestones - Strengthening investor protection and market transparency in mutual 
+funds
+The mutual funds route to Viksit Bharat @2047 | PwC | 17
+Conclusion
+In summary, the 5x increase in the mutual fund industry measured by AUM over the last decade or so 
+is attributed to the concerted efforts of all stakeholders of the ecosystem. AMCs developed innovative 
+products and made them attractive for average investors (SIPs, FoFs, ETFs, etc.); technological 
+interventions such as digital-first platforms by new-age players and digital tools and infrastructure were 
+established by RTAs to streamline onboarding, settlement, record-keeping and servicing; campaigns were 
+created to drive customer awareness and distribution reach by AMFI (MF Sahi Hai, MFD Shuru Karein); 
+and regulatory interventions were imposed around product simplicity, affordability, democratisation and 
+sustainability (36 categories, hybrid asset class, TER capping, ESG disclosures, etc.)
+These interventions created a conducive environment not only for existing stakeholders but also ushered 
+in new entrants, reshaping the ecosystem’s supply side. The deployment of quantitative models by niche-
+focused FinTechs and AMCs catered to an evolving set of expectations from new-age and first-time 
+investors. At the same time, traditional AMCs also charted impressive growth, supported by expanding 
+margins on the back of economies of scale. 
+18 | PwC | The mutual funds route to Viksit Bharat @2047
+The road ahead
+The mutual funds route to Viksit Bharat @2047 | PwC | 19
+Phase 3: Financial freedom: From financial inclusion to financial wellbeing (2025–47)
+Over the past few decades, financial inclusion has profoundly altered India’s economic landscape, bringing millions 
+of individuals from the margins into the formal financial ecosystem. Initiatives such as Jan Dhan Yojana (over 80% 
+penetration),30 the proliferation of microcredit through SHGs (over 16 crore families)31 and the expansion of digital 
+payments (70% UPI transactions)32 have provided households with the tools of financial empowerment. Although 
+the door to inclusion has been opened wide, a more fundamental question arises: Are Indians indeed flourishing 
+financially?
+For many, inclusion has signified little more than an entry point – a foothold in a system that remains daunting, 
+fragmented and complex. The journey from inclusion to empowerment is incomplete, often leaving individuals 
+vulnerable to financial instability. As the industry charts the course to Viksit Bharat 2047, the challenge lies in 
+broadening access and fostering financial wellbeing – i.e. a state of security, resilience and freedom that transforms 
+financial systems from enablers into engines of growth.
+Section 1: What is financial wellbeing, and why is there a pressing need to address it?
+Figure 6: The four pillars of financial wellbeing: A data-driven perspective
+1: Control over day-to-day and 
+month-to-month finances
+•	
+57% of Indians are increasingly 
+worried about inflation. 
+•	
+34% struggle to manage routine 
+expenses. 
+•	
+Household savings rate has 
+declined from 23.6% of GDP in 
+FY12 to nearly 18% in FY23.
+•	
+Over the past decade, per 
+capita net national income (NNI) 
+grew at 9% CAGR, but private 
+consumption grew at 10% CAGR, 
+reflecting rising financial strain.
+2
+4
+3
+1
+2: Resilience against financial 
+shocks
+•	
+Out-of-pocket healthcare 
+expenses account for 50% of 
+India’s total health expenditure  
+(vs 17% global average).
+•	
+About 40 crore Indians remain 
+uninsured, increasing financial 
+vulnerability.
+•	
+Rural households face risks 
+like agricultural losses, while 
+urban households deal with job 
+instability, making emergency 
+preparedness critical.
+Financial wellbeing transcends metrics. It is not defined by bank balance or the possession of particular financial 
+instruments. Instead, it is a profoundly personal and dynamic state in which money ceases to be a source of stress, 
+becoming instead a foundation of opportunity. It is about providing the confidence needed to navigate present 
+needs, withstand future uncertainties and pursue long-term ambitions without compromise.
+30	https://www.ndtv.com/india-news/10-years-of-jan-dhan-yojana-a-transformative-success-in-financial-inclusion-6434871#:~:text=The%20
+Pradhan%20Mantri%20Jan%20Dhan,the%20ambit%20of%20financial%20inclusion
+31	https://www.nabard.org/auth/writereaddata/tender/status-of-microfinance-in-india-2022-23.pdf
+32	https://financialservices.gov.in/beta/en/page/growth-various-modes-digital-payment#:~:text=UPI%20has%20been%20the%20
+major,month%20for%20the%20first%20time
+4: A roadmap to achieve financial 
+goals
+•	
+88% of Indians foresee financial 
+instability over the next five years.
+•	
+80% lack clarity on retirement 
+planning.
+•	
+Even among affluent households, 
+40% lack sufficient emergency 
+funds. About 27% face gaps in tax 
+planning.
+3: Autonomy to make choices
+•	
+75% of Indian retail spending is on 
+essentials (groceries, utilities, etc.), 
+leaving only 25% for discretionary 
+expenses.
+•	
+In comparison, 60-70% of 
+household spending in the US and 
+China is allocated to discretionary 
+categories.
+•	
+The income divide shapes 
+financial flexibility – i.e. lower-
+income groups focus on 
+necessities, while affluent 
+consumers drive demand for 
+premium products.
+20 | PwC | The mutual funds route to Viksit Bharat @2047
+At its core, financial wellbeing is the transition from financial anxiety to financial independence, underpinned by four 
+broad pillars of the architecture of a secure and fulfilling financial life:
+1. Mastery over day-to-day and month-to-month finances
+Imagine being able to meet every monthly obligation – groceries, school fees or utility bills – without the fear of 
+running out of money before the next paycheck. This control is transformative for countless households, marking 
+the difference between restless nights and lasting peace of mind. It is the foundation of stability, achieved through 
+disciplined financial management where spending and earnings align, and the threat of perpetual debt is banished. 
+About 57% of Indians are increasingly worried about inflation, while 34% struggle to manage routine 
+expenses. This concern is underscored by the country’s declining household savings rate, which fell from 23.6% of 
+GDP in FY12 to just around 18% in FY23.
+Adding to this challenge is the growing imbalance between income and expenditure. Over the past decade, while 
+per capita net national income (NNI) grew at a 9% CAGR,33 private final consumption expenditure (PFCE) expanded 
+at a faster 10% CAGR,34 reflecting the persistent pressure of rising consumption. For many households, pursuing 
+aspirations is at the expense of financial stability, eroding their ability to save or invest for the future.
+2. Resilience against financial shocks
+The unpredictability of life is a universal truth. A sudden medical emergency, an unforeseen job loss or an 
+unexpected home repair can ruin even the most diligent of financial planning. Financial wellbeing demands more 
+than survival; it calls for resilience. This requires creating a financial buffer – a contingency fund that absorbs the 
+brunt of life’s shocks. More than a safety net, this buffer is an anchor of emotional strength, empowering individuals 
+to face adversity with courage and confidence.
+The lack of preparedness among Indian households is particularly stark, with a significant proportion of the 
+population paying for healthcare out-of-pocket, accounting for 50% of India’s total health expenditure in 2021, 
+compared to the global average of 17%.35 
+While health costs are a visible trigger, they are part of a broader pattern of financial instability. The lack of robust 
+emergency funds exposes households to various shocks, from agricultural losses in rural India to job insecurity 
+in urban centres. Despite incremental progress in insurance penetration and saving awareness, 40 crore Indians 
+remain uninsured,36 risking financial ruin when emergencies strike. 
+3. Autonomy to make choices
+True financial freedom is rooted in choice – the ability to direct resources towards necessity and aspiration. It is the 
+liberty to say ‘yes’ to a family vacation, invest in a child’s education or seize an unexpected opportunity without 
+financial constraints. This freedom embodies dignity, autonomy and the capacity to live on one’s own terms, where 
+decisions are guided by aspiration rather than limitation.
+For many Indian households, spending on necessities dominates their financial landscape. With 75% of retail 
+spending allocated to groceries and other essentials, discretionary spending amounts to only 25%, curtailing 
+opportunities for quality-of-life upgrades.37 
+By comparison, the US and China allocate 60–70% of household spending to discretionary categories,38 
+reflecting the transformative power of financial flexibility. In India, this divide is most visible across income groups: 
+While lower-income households spend almost entirely on essentials, affluent consumers drive the demand for 
+premium products and lifestyle improvements. For a large segment of the population, freedom of choice is an 
+unfulfilled aspiration, tethered to the constraints of necessity.
+4. A roadmap to reach financial goals
+Financial wellbeing is as much about the future as about the present. From owning a home to planning for 
+retirement, everyone envisions milestones that shape their financial aspirations. However, these dreams are rarely 
+achieved by chance. Reaching financial goals requires a journey of deliberate action, disciplined planning and an 
+unwavering commitment to purpose. It is the satisfaction of watching ambitions transform into reality, one thoughtful 
+step at a time.
+33	https://www.data.gov.in/keywords/NNI
+34	https://www.data.gov.in/keywords/PFCE
+35	https://pib.gov.in/PressNoteDetails.aspx?NoteId=153237&ModuleId=3&reg=3&lang=1
+36	https://www.indiatoday.in/diu/story/40-crore-indians-are-a-medical-emergency-away-from-financial-ruin-2568229-2024-07- 7#:~:text=An%20
+emergency%20out%2Dof%2Dpocket,any%20financial%20protection%20for%20health
+37	https://www.dataforindia.com/consumption-expenditure/
+38	https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107494
+The mutual funds route to Viksit Bharat @2047 | PwC | 21
+According to surveys, the future for many Indians is fraught with uncertainty, with 88% of respondents anticipating 
+financial instability over the next five years39 and 80% lacking clarity on retirement planning.40 This ambiguity 
+extends even to affluent households, where 40% lack sufficient emergency funds41 and 27% face gaps in tax 
+planning.42 
+A call to action 
+The above-mentioned data clarifies that achieving financial wellbeing is not a luxury – it is a fundamental need. 
+Rising costs, fragile safety nets, constrained choices and unplanned futures underscore the urgency of equipping 
+households with tools and strategies to navigate an increasingly complex financial world. 
+The new frontier
+As India marches through the ‘Amrit Kaal’, the vision of financial wellbeing is both a national imperative and personal 
+transformation for millions. It shifts the narrative from participating in financial systems to thriving in them. 
+In other words, ‘Financial inclusion was the beginning; financial wellbeing is the destination’. However, this 
+destination demands a closer examination of the challenges that hinder financial wellbeing for households across the 
+socio-economic strata. From rising living costs to unplanned futures, the need for a comprehensive framework that 
+addresses these gaps has never been more pressing.
+Financial wellbeing is not one-size-fits-all
+While these challenges affect individuals across socioeconomic strata, the meaning of financial wellbeing varies 
+widely depending on particular contexts. For an affluent urban professional, this might mean diversifying investments 
+and planning for retirement. For a farmer in rural India, it could be about ensuring stability through emergency funds 
+and affordable credit. These disparities highlight that financial wellbeing is deeply personal, shaped by affluence, 
+lifestyle, geography, preferences and aspirations.
+India’s socioeconomic diversity contrasts sharply with the homogeneity of most developed economies, where 
+financial systems cater to relatively uniform needs. Thus, directly replicating the strategies of developed markets in 
+India will likely fail to address the country’s layered complexities.
+For financial wellbeing to be meaningful in this context, India requires its own approach that recognises these 
+nuances and tailors solutions to its unique demographic and cultural fabric.
+Section 2: Mutual funds – the ‘fit for purpose’ instrument
+India’s financial landscape is marked by a growing urgency to transition from inclusion to wellbeing – a shift that 
+recognises its society’s diverse financial realities. As aspirations grow and vulnerabilities multiply, the need for a 
+scalable, adaptable and empowering financial tool has never been greater.
+Similar to the transformative success of UPI – which democratised digital transactions by combining accessibility, 
+versatility and trust – mutual funds are potentially a cornerstone of financial wellbeing in India. UPI’s evolution from 
+a niche innovation to a ubiquitous enabler of payments provides a blueprint for mutual funds – simplify, personalise 
+and deliver value at scale.
+The core attributes of mutual funds – access, usage and quality – establish a foundation for bridging the gap 
+between financial inclusion and financial empowerment. These attributes position mutual funds as a transformative 
+instrument for reshaping the wealth-building opportunities for a broad and diverse investor base.
+Access: Bringing wealth creation within reach
+Mutual funds have redefined how Indians engage with financial markets by offering unparalleled accessibility.  
+End-to-end digital platforms (EOPs) and do-it-yourself (DIY) models have transformed investing into a seamless 
+process, enabling individuals to make decisions from the convenience of their smartphones. Online platforms 
+facilitating seamless investments, AMC websites, mobile apps and bank channels ensure that mutual funds are 
+accessible across many touchpoints.
+39	https://www.livemint.com/economy/inflation-rising-prices-household-expenditure-fmcg-fmcg-spend-rural-urban-divide-
+inequality-11718944442708.html
+40	https://www.livemint.com/economy/inflation-rising-prices-household-expenditure-fmcg-fmcg-spend-rural-urban-divide-
+inequality-11718944442708.html
+41	https://www.indiatoday.in/diu/story/40-crore-indians-are-a-medical-emergency-away-from-financial-ruin-2568229-2024-07-17
+42	https://www.livemint.com/economy/inflation-rising-prices-household-expenditure-fmcg-fmcg-spend-rural-urban-divide-
+inequality-11718944442708.html
+In the subsequent sections, we explore how mutual funds can play a transformative role in addressing these 
+gaps and elevating financial wellbeing across the nation, while navigating the challenges of India’s layered 
+diversity.
+22 | PwC | The mutual funds route to Viksit Bharat @2047
+This accessibility extends beyond technology. Mutual funds are distributed through diverse channels, including 
+distributors, RIAs and exchanges, making them available to millions. This multichannel approach ensures that 
+mutual funds are not merely a tool for the affluent but that they also hold the promise of reaching the farthest corners 
+of India’s socioeconomic spectrum.
+The success of mutual funds in democratising access reflects the same principles that drove the wide adoption 
+of UPIs. Both instruments have proven their ability to integrate seamlessly into the lives of individuals across 
+geographies and socioeconomic contexts, bringing sophisticated systems to the masses.
+Usage: A pathway to building wealth 
+The promise of mutual funds lies in their ability to deliver inflation-beating returns while catering to a broad 
+spectrum of financial goals. Over the past decade, benchmarks like the Nifty 50 have consistently delivered 11–12% 
+CAGR (2013–23),43 significantly outpacing Consumer Price Index (CPI) inflation, which has averaged 5–6%.44 For 
+investors, this means that mutual funds both preserve and increase wealth, making them a vital tool for achieving 
+long-term financial security.
+Mutual fund affordability further strengthens this proposition. With SIPs starting as low as INR 100 and INR 
+500, mutual funds allow first-time investors to participate in financial markets without the burden of large initial 
+commitments. For cost-conscious participants, direct plans eliminate intermediary fees, offering a streamlined, low-
+cost option for wealth accumulation.
+Moreover, mutual fund versatility ensures that they align with diverse financial goals. With 1,500+ schemes across 
+36 categories,45 investors can develop portfolios tailored to their risk tolerance, time horizons and specific 
+objectives – whether it’s saving for education, purchasing a home or building a retirement corpus.
+This ability to cater to varied needs is akin to UPI’s adaptability, allowing both microtransactions for individuals and 
+large-scale transactions for businesses. 
+Quality: Trust built through resilience and transparency
+Mutual funds have shown remarkable resilience across economic cycles, offering stability and reliability even in 
+turbulent times. Despite challenges such as the 2008 financial crisis, demonetisation, debt defaults by large 
+financial institutions and the COVID-19 pandemic, the underlying markets have consistently reclaimed their 
+previous highs, confirming mutual funds’ reputation as a long-term wealth-building instrument.
+Transparency is another cornerstone of the appeal of mutual funds. Governed by stringent regulations, they ensure 
+robust investor protection through mandatory disclosures, risk assessments and operational oversight. Unlike 
+unregulated or poorly monitored instruments, mutual funds are a beacon of trust, minimising fraud risks and fostering 
+confidence.
+This focus on resilience and transparency mirrors the success of UPI, which gained trust through its secure, 
+government-backed infrastructure and user-centric security measures. 
+The road ahead: Expanding the reach of mutual funds
+Despite this excellent value proposition as a financial instrument, mutual funds’ current reach is limited to 5.33 crore 
+investors (as of January 2025)46 vs. over 25 crore online shoppers,47 2.8 crore of foreign travellers,48 leaving a 
+vast majority of India’s population untapped. Transcending a product-centric approach and adopting an investor-
+centric journey aligns with the diverse financial aspirations and barriers unique to India’s socioeconomic fabric. Such 
+a paradigm shift may help tap into this potential.
+A product-centric approach has traditionally shaped the mutual fund industry, focusing on developing various 
+schemes and investment strategies. Communication under this model tends to comprise multiple technical terms. 
+While this approach has driven growth, improving personalisation would better address individual investors’ unique 
+challenges and preferences.
+In contrast, an investor-centric approach reimagines the role of mutual funds by placing individuals at the core of 
+every decision and interaction. This approach involves understanding India’s regional, social and vernacular diversity 
+and aligning offerings and communication with investors’ emotional and practical needs. From the initial stages of 
+43	PwC analysis
+44	PwC analysis
+45	AMFI data
+46	AMFI data
+47	https://timesofindia.indiatimes.com/business/india-business/meesho-sees-6-5-crore-unique-visitors-on-day-1-of-festive-season-sale-orders-
+double/articleshow/113785179.cms#:~:text=According%20to%20a%20report%20by%20research%20firm,it%20tripled%20compared%20
+to%20business%20as%20usual
+48	https://tourism.gov.in/sites/default/files/2024-02/India%20Tourism%20Statistics%202023-English.pdf
+The mutual funds route to Viksit Bharat @2047 | PwC | 23
+awareness and education to onboarding, investment and post investment support, this model ensures that every 
+step in the investor journey is intuitive, relatable and empowering.
+Figure 7: Ramesh’s dilemma – a guided path to confidence
+Figure 8: Neha’s challenge – a smarter investment journey 
+Savings in fixed deposits
+Fear of complexity and mistrust
+Uncertain about mutual fund investment
+Localised campaigns in vernacular 
+languages
+Step-by-step onboarding via mobile app
+Regular updates and transparent 
+performance reviews
+Consider the journey of Ramesh, a small business owner from a Tier-2 city. Although Ramesh has savings 
+locked in fixed deposits, he hesitates to explore mutual funds, feeling overwhelmed by the complexity of fund 
+types and unsure of whom to trust. Under an investor-centric approach, he was guided through vernacular 
+campaigns that resonated with his local context, followed by a simplified onboarding process via a mobile app 
+that guided him step-by-step through his first SIP with clarity. Regular updates and transparent performance 
+reviews have kept Ramesh engaged and confident, gradually strengthening his financial resilience.
+Access to advanced platforms
+Struggling to align investments with career 
+goals
+Confusion between short-term vs long-term 
+goals
+AI-powered personalised investment options
+Goal-based investment strategy
+Real-time nudges and data-driven insights
+24 | PwC | The mutual funds route to Viksit Bharat @2047
+These examples illustrate the transformative potential of providing solutions during the entire investor journey, 
+not merely at the investment point, through sustained education, communication and post-investment support. 
+Understanding the regional, cultural and economic nuances that shape investor behaviour will be paramount to 
+achieving this level of personalisation.
+Thus, as mutual funds prepare to expand their reach, it becomes imperative to delve deeper into India’s unique 
+financial personas. The following section explores the intricate fabric of India’s diverse financial mindsets and how 
+mutual funds can adapt to meet the aspirations of a rapidly evolving investor base.
+Section 3
+3.1 One nation, multiple financial mindsets: The intricate tapestry of Indian economic 
+behaviour beyond economic stereotypes 
+Figure 9: Diamond merchant in Surat, tribal 
+entrepreneur in Bastar, business owner in 
+Meghalaya
+India is not just a country, it is a civilization that 
+embodies a nation and this is highly evident through our 
+economic behaviours. Traditional economic frameworks 
+do not stand a chance when confronted with India’s 
+complex landscape, where financial decisions are 
+shaped by income brackets as well as intricate layers of 
+cultural memory, community wisdom and generational 
+narratives.
+India’s economic diversity defies simple categorisation 
+as its unique financial ecosystems showcase diverse 
+approaches to wealth creation. For instance, Surat’s 
+diamond merchants, particularly the Palanpuri Jain 
+community, combine conservative saving with 
+aggressive global investments through tight-knit 
+community networks and generational knowledge. In 
+Kadapa, the Reddy community shifts from traditional 
+farming to entrepreneurial ventures, focusing on land, 
+education and diversification. In Bastar, tribal groups 
+prioritise sustainability and community-driven decision 
+making through resource-sharing mechanisms, while 
+Meghalaya’s Khasi community operates within a 
+matrilineal structure, where women primarily control 
+wealth and financial decisions.
+Thus the India’s economic fabric thrives not through standardisation, but through a personalised, context-aware 
+approach.
+Similarly, Neha, a young professional in Bengaluru, might have access to advanced digital platforms but 
+struggles to align her investments with her career aspirations. A personalised digital interface could offer Neha 
+curated options based on her income, goals and risk tolerance, with AI-powered insights nudging her towards 
+smarter decisions. 
+The mutual funds route to Viksit Bharat @2047 | PwC | 25
+Behavioural and mindset change
+Fostering financial  
+wellbeing
+E
+D
+C
+B
+A
+Simplicity
+Relevance
+Inclusiveness
+Last-mile connectivity
+These elements are not merely theoretical but practical necessities for the industry to truly empower India’s 
+diverse populations. To propel the mutual fund industry towards greater inclusivity and financial wellbeing, five key 
+imperatives are emphasised as follows.
+A. Simplicity - Reimagining financial accessibility beyond complexity
+Mutual funds are not rocket science; however, they can seem to be considerably complex to the average investor. 
+Although the industry has put in considerable effort to remove the information asymmetry, there is room for further 
+simplification. 
+Consider the linguistic landscape: Beyond English and Hindi, approximately 400 million Indians communicate 
+primarily in regional languages.49 These are not insignificant numbers – they represent entire economic ecosystems 
+systematically excluded from sophisticated conversations about finances. While the technical terms are complex 
+conceptually, it is always possible to further simplify and clarify these concepts without losing their essence.
+Digital platforms, while revolutionary, have inadvertently become labyrinths of complexity. A young professional in 
+Bhubaneswar faces the same cognitive overload as someone in Bengaluru – i.e. too many choices that lack clarity. 
+The leading interfaces reflect an engineering mindset to developing human-centred design.
+But this is where opportunity meets innovation – instead of simplifying interfaces, the goal is to strategically redesign 
+financial communication.
+Figure 10: Key solution themes
+ A 	
+Simplicity
+Ensuring that they 
+are easily accessible 
+and understandable 
+across diverse 
+contexts
+ B 	
+Relevance
+Making the products 
+and communication 
+resonate with every 
+unique segment
+ C 	
+Inclusiveness
+Ensuring the 
+underserved and 
+untapped segments 
+are not left behind
+ D 	
+Behavioural and 
+mindset change
+Addressing 
+psychological 
+barriers and 
+inculcating an 
+investment mindset 
+and culture
+ E 	
+Last-mile 
+connectivity
+Expanding mutual 
+fund access and 
+driving adoption in 
+Tier-2, Tier-3, and 
+rural markets
+3.2 Key solution themes
+The mutual fund industry must prioritise these five key themes to become a catalyst for financial well-being in order 
+to cater to this diverse economic landscape.
+49	 https://www.news18.com/news/india/although-widely-spoken-hindi-is-not-the-mother-tongue-of-almost-6-out-of-10-indians-2308927.html
+26 | PwC | The mutual funds route to Viksit Bharat @2047
+Intuitive interface design, 
+vernacular support, simplified 
+language, offline integration
+Need/goal-based personalised  
+journeys, voice-over navigation, 
+nudges and warnings, suggestive-
+bite-sized educational guides
+One-click assistance, collaborative
+features, feedback loops
+User-centric designs
+Personalised and guided  
+experience
+Collaborative support
+1.	 User-centric platform design
+•	
+Intuitive interface design: Interfaces should continue to evolve in line with user-centric design principles, 
+providing a seamless and engaging experience. This entails minimising clutter, using visual hierarchies to 
+guide users and incorporating intuitive navigation to make the investment process straightforward and less 
+intimidating.
+•	
+Vernacular support: Platforms can reach a wider audience that may not be proficient in English or Hindi 
+through vernacular language options. This inclusion respects the linguistic diversity of India and ensures that 
+language barriers do not confine financial literacy.
+•	
+Simplified language: The financial world would be demystified and investment products would be even 
+more approachable by using clear, simplified language. 
+•	
+Offline integration: For regions with limited internet connectivity, integrating offline options or hybrid 
+models that combine digital and physical interactions can expand reach. This could include downloadable 
+content, SMS-based updates or partnerships with local community centres to provide in-person support.
+2.	 Personalised and guided experiences
+•	
+Need/goal-based personalised journeys: Platforms should continue to enhance and build on their 
+existing personalisation strategies, guiding users on journeys aligned with their financial goals and 
+minimising the complexity of an excess of options. By leveraging data analytics and AI, tailored pathways 
+could be created that guide investors from start to finish based on their unique circumstances and 
+objectives.
+•	
+Voice-over navigation: Integrating voice command functionalities, especially in regional languages, could 
+break down barriers for users who may not be comfortable with text-based navigation. This feature would 
+empower a broader demographic to engage with financial platforms in a manner that feels natural and 
+accessible.
+•	
+Nudges and warnings: Implementing behavioural nudges and timely warnings could help users make 
+better financial decisions. For instance, reminders about risk levels or prompts to review investments would 
+help investors stay informed and make prudent choices.
+•	
+Suggestive bite-sized educational guides: Offering short, digestible educational content could provide 
+users with the necessary knowledge to make informed decisions. These guides could be integrated into the 
+user journey, providing context and clarity at crucial decision points.
+3.	 Collaborative support
+•	
+One-click assistance: User confidence would be enhanced by providing immediate, accessible support 
+through one-click assistance features, such as chatbots, AI-driven help desks or live support options, 
+ensuring users are never stranded in their investment journeys.
+•	
+Collaborative features: Allowing users to share their investment journeys with family or financial advisors 
+could provide additional support and confidence. Features that enable collaboration could facilitate 
+discussions and decisions, ensuring that users are not navigating financial landscapes alone.
+•	
+Feedback loops: Providing users with the ability to provide feedback on their experience could help 
+continuously refine and improve the platform. Financial services can adapt and evolve by actively listening to 
+user inputs to meet changing user needs and preferences.
+Figure 11: Driving simplification
+The mutual funds route to Viksit Bharat @2047 | PwC | 27
+Key considerations for stakeholder action
+Achieving mass financial accessibility requires coordinated efforts from key stakeholders. A strategic and structured 
+approach ensures that all players contribute to a more inclusive mutual fund ecosystem.
+Asset management companies 
+•	
+Simplify apps and platforms to enhance user-friendliness and intuitive navigation.
+•	
+Leverage AI for personalised experiences, behavioural nudges and interactive educational guides.
+•	
+Partner with technology platforms to provide intelligent assistance and user-friendly features.
+•	
+Equip the distributor and RIA network with digital and AI-driven tools to facilitate better client conversations and 
+intelligence-driven recommendations.
+Financial advisors and distributors
+•	
+Develop user-centric platforms that incorporate regional language support and intuitive design.
+•	
+Train advisors to communicate financial concepts simply while respecting cultural nuances.
+•	
+Utilise AI tools to present investment options clearly and simplify investor decision-making.
+•	
+Design clean, prioritised dashboards that minimise cognitive overload.
+•	
+Ensure a seamless and consistent experience across both physical and digital channels.
+Regulatory bodies
+•	
+Continue refining the guidelines for terminology simplification, platform usability and partnering with local 
+communities.
+•	
+Encourage hackathons and sandbox initiatives to drive FinTech-led solutions that enhance investor experience 
+and accessibility.
+•	
+Strengthen efforts towards system interoperability and open architecture across AMCs to promote seamless 
+collaboration and innovation.
+Registrar and transfer agents (RTAs)
+•	
+RTAs provide the necessary infrastructure for platform enhancements and seamless integration with financial 
+intermediaries.
+•	
+Standardising processes, from onboarding to redemption, across AMCs while ensuring intuitive, small steps
+•	
+Vernacular onboarding flows coupled with e-KYC integration to ease the entry process.
+By aligning efforts across these stakeholders, financial accessibility would move beyond rhetoric to execution – 
+making mutual funds genuinely inclusive for all segments of society.
+The solution requires a thoughtful recalibration of the approach, not oversimplifying. There is a need for:
+•	
+contextual design that speaks multiple languages – literally and metaphorically
+•	
+interfaces that adapt to individual financial literacy levels
+•	
+training programmes that equip financial advisors with emotional intelligence
+•	
+technology that simplifies without sacrificing sophistication.
+B. Reimagining relevance: Cultural narratives and product innovation in India’s mutual 
+fund ecosystem
+In the intricate tapestry of India’s economic transformation, mutual funds are more than just a financial  
+instrument – they are potentially a catalyst for widespread economic empowerment. To realise this potential, we 
+would benefit from revisiting the understanding that innovation is not about creating uniform solutions but rather 
+about crafting experiences that resonate with India’s diverse landscape.
+1.	 Product innovation: A holistic ecosystem of financial solutions
+The future of mutual funds potentially lies in products that are not just investments but also life companions. The 
+multifaceted nature of Indian financial aspirations will drive product strategy.
+28 | PwC | The mutual funds route to Viksit Bharat @2047
+Life-stage and goal-based products
+Lifecycle-based hybrid funds are another innovative 
+frontier. Inspired by the US 401(k) system, these 
+funds dynamically shift from equity to debt 
+exposure as investors approach retirement. For 
+women, conservative hybrid funds aligned with 
+financial independence goals can be developed. 
+More customised options consistent with solution-
+oriented schemes linked to personal milestones, 
+such as weddings, education or home ownership, 
+can foster financial confidence.
+Similar to 529 plans in the US, educational 
+investment accounts offer tailored saving solutions 
+for educational goals. These accounts can be 
+adapted to meet state-specific needs, providing 
+tax advantages and investment growth for parents 
+preparing for their children’s futures.
+Lifestyle-based investment plans synchronise 
+financial planning with personal aspirations, offering 
+Thematic and specialised funds: Bridging diversity through innovation
+In the quest to align investment opportunities with India’s vast and varied socioeconomic landscape, thematic and 
+specialised funds are a powerful mechanism to address the unique challenges of Indian diversity. These funds 
+are not just financial instruments but rather vehicles for integrating cultural, regional and personal narratives into 
+investment strategies.
+Cultural and community investments
+•	
+Cultural investment funds can be a transformative tool, 
+designed to support industries that reflect India’s rich 
+cultural heritage. By investing in traditional crafts, local 
+artisans and regional tourism, these funds link financial 
+growth and cultural preservation, turning investments into 
+vehicles for sustaining India’s diverse traditions.
+•	
+Community-based micro-investment platforms, 
+inspired by global crowdfunding models, enable rural 
+communities to pool resources and invest in local 
+projects. This approach mirrors the community investment 
+practices common in Africa and Latin America, where local 
+populations drive economic development according to their 
+unique needs.
+•	
+Funds capitalising the key trends can attract and engage 
+newer segments aligned with emerging trends, including 
+entertainment, lifestyle, fashion, art, religious tourism and 
+content creation. This approach takes its cues from product 
+innovation around South Korean pop culture.
+portfolios tailored to various life stages or interests, such as travel or wellness. Much like lifestyle brands that 
+resonate with individual identities, this approach integrates financial growth with personal narratives.
+The retirement phase, often viewed with apprehension due to income uncertainty, can be transformed through 
+thoughtfully structured systematic withdrawal plans (SWPs), providing retirees with a predictable income stream 
+and turning accumulated wealth into reliable funding of daily living expenses. By customising SWPs to align 
+with individual retirement goals and financial needs, retirees can have peace of mind and financial stability. For 
+instance, SWPs can be designed to gradually reduce withdrawals as other income sources, such as pensions or 
+annuities, ensuring a seamless transition into retirement.
+The mutual funds route to Viksit Bharat @2047 | PwC | 29
+The mutual fund industry can address the diverse needs of India’s population more holistically by incorporating these 
+innovative solutions. Through these strategies, investments will be financially rewarding and culturally and socially 
+meaningful, paving the way for a more inclusive and dynamic economic future.
+2.	 Communication and campaigns: The cultural transformation playbook
+The most revolutionary campaigns in India’s consumer landscape did not replace cultural practices – they 
+enhanced and extended them. This cultural integration approach offers a potent blueprint for mutual fund 
+adoption.
+Learning from successful cultural campaigns
+Social and environmental impact products
+•	
+Social impact bonds offer another innovative frontier. They align 
+financial returns with positive social outcomes and focus on regional 
+challenges, such as diversity, education, healthcare or sustainable 
+infrastructure development, making these bonds attractive to 
+investors interested in making a tangible difference, similar to 
+successful implementations in global markets.
+•	
+Localised green bonds of private enterprises, urban local bodies and 
+development finance institutions are used to finance environmental 
+projects that resonate with regional priorities, such as solar farms or 
+water conservation efforts. By aligning with global green bond markets, 
+these investments generate returns and foster local environmental 
+impact.
+Technology-driven investment innovations
+•	
+Dynamic risk funds leverage AI and machine learning to adapt 
+investment strategies based on evolving investor profiles. This 
+personalised approach, much like adaptive learning technologies in 
+education, caters to the diverse financial literacy levels across India by 
+providing tailored risk management solutions.
+•	
+Digital asset platforms for traditional assets utilise blockchain 
+technology to democratise access to wealth-building opportunities. 
+By tokening assets like gold or real estate, these platforms make 
+traditional investments accessible to a broader audience.
+Baby diaper brands did 
+not attempt to abolish 
+traditional cloth diapering 
+practices. Instead, they 
+demonstrated how modern 
+diapers could make 
+parenting easier, more 
+hygienic and less stressful. 
+They created products that 
+complemented established 
+parental practices, not 
+replaced them.
+The telecom revolution 
+was not about introducing 
+an alien technology, but 
+rather about making digital 
+connectivity an extension 
+of the existing social 
+networks. Industry players 
+created interfaces in local 
+languages and developed 
+region-specific content 
+packages, making the 
+technology feel familiar 
+and accessible.
+The Pulse Polio 
+campaign is perhaps the 
+most vivid example of 
+cultural transformation. 
+Rather than attacking 
+traditional beliefs, the 
+campaign worked through 
+community leaders, 
+religious figures and local 
+influencers, transforming 
+vaccinations from a 
+medical intervention into a 
+community movement.
+The infant food industry 
+players did not just sell 
+baby food; they became 
+nutrition partners. By 
+understanding regional 
+dietary practices, they 
+created products that 
+complemented traditional 
+weaning methods, making 
+modern nutrition feel like a 
+natural progression.
+30 | PwC | The mutual funds route to Viksit Bharat @2047
+Mutual fund campaign strategy	
+In the context of mutual funds, these examples inspire us to give the ‘suitability’ messages with greater emphasis on 
+the following:
+•	
+vernacular interfaces that include local languages
+•	
+culturally aligned campaigns that respect local financial wisdom
+•	
+financial literacy drives that work through community networks
+•	
+multisensory approaches for underserved demographics.
+The strategy involves:
+•	
+deep ethnographic research
+•	
+understanding the micro market
+•	
+cultural sensitivity
+•	
+adding instead of replacing value.
+Key considerations for stakeholder action
+Achieving mass financial accessibility requires coordinated efforts from key stakeholders. A strategic and structured 
+approach ensures that all players contribute to a more inclusive mutual fund ecosystem.
+Asset management companies 
+•	
+Assess product viability for culture-, trend- and community-based funds, defining relevant benchmarks.
+•	
+Leverage investor behaviour analytics to refine offerings and simplify choices.
+•	
+Simplify apps and platforms to enhance user-friendliness and intuitive navigation.
+•	
+Equip distributors and RIAs with digital and AI-driven tools for personalised client engagement.
+•	
+Collaborate with AMFI for targeted, culturally relevant campaigns.
+Financial advisors and distributors (AMFI support could be taken)
+•	
+Train distribution networks to effectively pitch new products with a cultural and regional focus.
+•	
+Develop region-specific strategies for communicating the benefits and strengths of mutual funds.
+•	
+Utilise AI tools to simplify financial concepts and investment decision-making for investors.
+•	
+Ensure seamless, user-friendly experiences across both physical and digital channels.
+Regulatory bodies
+•	
+Continue to evolve frameworks that balance innovation with investor protection.
+•	
+Encourage and recognise product innovations that address financial needs while aligning with cultural values.
+•	
+Strengthen guidelines for platform usability, interoperability and FinTech-driven investor accessibility.
+•	
+Promote hackathons and sandbox initiatives to foster FinTech-led solutions favouring financial inclusion.
+Registrar and transfer agents 
+•	
+Enhance infrastructure to support seamless integration with financial intermediaries.
+•	
+Facilitate system interoperability across AMCs to promote investor convenience and accessibility.
+By aligning efforts across these stakeholders, financial accessibility can move beyond rhetoric to execution – making 
+mutual funds genuinely inclusive for all segments of society.
+C.	Inclusiveness: Reaching untapped segments
+Figure 12: Personas for untapped segments
+Visually challenged individuals 
+Illiterate/semi-literate individuals 
+Gig workers  
+freelancers, delivery pilots,  
+part-time/temporary workers etc.
+The mutual funds route to Viksit Bharat @2047 | PwC | 31
+1.	 Visually challenged and specially abled individuals
+•	
+Accessible digital platforms: Develop platforms compatible with screen readers and provide audio 
+descriptions for visually impaired users. Ensuring that investment platforms meet accessibility standards 
+can make mutual funds more approachable for those with visual impairments.
+•	
+Braille and audio educational materials: Offering educational resources in Braille and audio formats can help 
+visually challenged individuals understand investment opportunities and make informed decisions.
+•	
+Partnerships with NGOs: Collaborating with NGOs specialising in supporting the visually impaired can 
+facilitate outreach and provide targeted support, ensuring the design of inclusive financial products.
+2.	 Gig workers – freelancers, delivery pilots, part-time and temporary workers 
+•	
+Flexible investment products: Develop products that cater to the irregular income patterns of gig workers, 
+such as flexible SIPs that allow for variable contributions based on monthly earnings.
+•	
+Tax and compliance guidance: Provide resources and advisory services that help gig workers navigate tax 
+implications and compliance issues related to their investments, simplifying their financial planning.
+•	
+Community-based financial literacy programmes: Organise workshops and seminars specifically for gig 
+workers, addressing their unique financial challenges and opportunities.
+•	
+Explore partnerships with established organisations and institutions that typically employ such workforces 
+to facilitate their integration into the investment ecosystem. These organisations can manage the onboarding 
+process, paperwork and the option for employees to make voluntary contributions from their payouts, 
+simplifying the overall journey.
+3.	 Illiterate and semi-illiterate individuals
+•	
+Visual and audio communication: Develop communication strategies that rely on visual cues, symbols 
+and audio instructions to convey investment information, making investing accessible to those with limited 
+reading skills.
+•	
+Local language support: Ensure that all communications and customer service interactions can take place in 
+regional languages, lowering barriers to entry for non-English speakers.
+•	
+Simplified onboarding: Streamline the onboarding process with minimal paperwork and straightforward 
+instructions, utilising biometric identification where possible to ease accessibility.
+Assessing viability and impact
+1.	 Data-driven insights: Conduct comprehensive market research to understand these untapped segments’ size 
+and specific needs, ensuring accurate demographic data inform product development. To add some context, 
+India has 62 million visually impaired individuals and approximately 8 million blind people50 – i.e. roughly 70 
+million individuals who cannot access the mutual fund industry on their own. Similarly, India has over 280 
+million illiterate individuals,51 over 10 million gig workers,52 about 450 million blue-collar workers53 and 30 million 
+differently abled individuals.54
+2.	 Pilot programmes: Implement pilot programmes in targeted communities to test the effectiveness of inclusive 
+financial products and strategies and gather feedback for continual improvement.
+3.	 Impact measurement: Establish metrics to assess inclusive financial initiatives’ social and economic impact, 
+ensuring that efforts translate into tangible benefits for these communities.
+Key considerations for stakeholder action
+Asset management companies 
+•	
+Assess product gaps to ensure the inclusiveness and viability of micro investments.
+•	
+Ensure adherence to regulatory guidelines regarding inclusive product structures.
+•	
+Evaluate the feasibility and cost-effectiveness of integrating features, such as screen reader compatibility and 
+voice navigation in digital platforms.
+50	https://www.thehindu.com/news/cities/chennai/62-million-in-india-visually-impaired/article27699902.ece
+51	https://m.economictimes.com/news/politics-and-nation/india-has-highest-population-of-illiterate-adults-at-287-million-un-report/
+articleshow/29545673.cms#:~:text=UNITED%20NATIONS%3A%20India%20has%20by,the%20country’s%20rich%20and%20poor
+52	https://www.businesstoday.in/latest/corporate/story/social-security-for-gig-workers-labour-ministry-finalising-scheme-to-seek-cabinet-nod-
+soon-463706-2025-02-06#:~:text=The%20NITI%20Aayog%20had%20estimated,earnings%20with%20no%20safety%20net
+53	https://www.weforum.org/stories/2023/04/growth-summit-2023-technology-is-about-to-disrupt-the-blue-collar-workforce-in-emerging-
+markets/
+54	https://yourstory.com/2024/12/delivering-change-flipkarts-inclusive-mission#:~:text=Yet%2C%20for%20the%2030%20million,both%20
+organised%20and%20unorganised%20sectors
+32 | PwC | The mutual funds route to Viksit Bharat @2047
+•	
+Partner with technology providers to meet accessibility standards effectively.
+•	
+Explore opportunities to collaborate with institutions like AMFI to build platforms that provide the necessary 
+infrastructure for advisors and distributors.
+Financial advisors and distributors
+•	
+Upskill and train to serve underserved segments, including the visually impaired, gig workers and low-literacy 
+investors.
+•	
+Gain expertise in inclusive technologies and financial products designed for these segments.
+•	
+Leverage platforms with built-in accessibility features to facilitate better investor engagement.
+Regulatory bodies
+•	
+Continue refining the guidelines to encourage developing inclusive and flexible financial products.
+•	
+Enhance the tracking of inclusivity metrics and assess their impact on financial accessibility.
+•	
+Establish and enforce standards for accessible and inclusive digital investment platforms.
+The mutual fund industry can take tangible steps towards making financial inclusion a reality by aligning these 
+actions, expanding access to underserved segments while fostering long-term economic empowerment.
+By focusing on inclusivity, the industry can transform financial products into empowerment tools for traditionally 
+underserved populations. This approach aligns with ethical imperatives and opens up new markets, driving growth 
+and innovation in the financial sector. Strategic investments in accessibility, education and community engagement 
+will help mutual funds develop a more inclusive and equitable financial future.
+D.	Behavioural and mindset change: Engineering a national investment culture
+Institutional strategies for mass adoption
+Building blocks for effective financial decision making
+Biases/drivers of financial decision making
+Loss aversion
+Emotional triggers
+Bandwagon effect
+Risk aversion
+Familiarity bias
+Status quo bias
+Institutional embedding  
+of behavioural  
+science
+Product selling to  
+financial empowerment  
+mindset
+Education and  
+financial literacy
+Transformative 
+communication
+Technology-human  
+interfaces
+Pyramid of trust, 
+building accessibility, 
+personalisation and 
+inclusivity
+Figure 13: Strategic framework to drive behavioural and mindset change
+The mutual funds route to Viksit Bharat @2047 | PwC | 33
+I. The psychological landscape of Indian investments
+Central to India’s financial transformation is a complex psychological terrain shaped by generations of financial 
+conservatism, familial wisdom and deep-rooted economic uncertainties. Investment behaviour is not merely a 
+financial choice but a profound cultural narrative that has been carefully crafted through decades of collective 
+experience.
+Indian households have historically viewed money through the lens of preservation instead of growth. In addition to 
+fixed deposits, gold and real estate being investment instruments, they were established protective shields against 
+economic uncertainties. This mindset goes beyond financial caution; it expresses a deeply rooted approach to 
+achieving stability and resilience first, passed down through generations.
+Psychological barriers to financial participation
+Transforming the mutual fund ecosystem requires first understanding the intricate psychological obstacles to broad 
+financial participation.
+1.	 Generational financial trauma
+It is not uncommon for households in India to hold onto shared financial memories of economic hardship. 
+Stories of lost investments, speculative failures and financial setbacks create generational risk aversion. For 
+instance, a family that lost savings during an economic downturn might pass down a narrative of financial 
+hesitance that persists for decades.
+2.	 Collective decision-making dynamics
+Unlike individualistic western financial models, Indian investment decisions are complex negotiations involving 
+multiple family members. Individual financial risk differs considerably – a potential loss is not just personal but 
+probably affects the entire family’s financial security.
+3. 	 Trust as a primary currency
+In the Indian context, trust is not a metric calculated through financial ratios; instead, it is a holistic assessment 
+constructed over generations. Financial institutions are evaluated on returns and their ability to demonstrate 
+reliability, stability and alignment with community values.
+II. Strategic intervention frameworks
+To dismantle these psychological barriers, a multidimensional approach that goes beyond traditional financial 
+literacy is needed.
+1.	 Neuroscience and behavioural economics in finance
+Neuroscience of financial decision-making: This requires acknowledging that investment decisions are 
+fundamentally emotional journeys. 
+•	
+Map cognitive biases: Understand how loss aversion, status quo bias and fear of complexity prevent 
+financial participation.
+•	
+Develop emotional intelligence in financial communication.
+•	
+Create narratives that address psychological reservations.
+Behavioural economics of mass financial adoption: The ultimate goal is to transform investments from an 
+occasional decision to an instinctive financial habit through the following:
+•	
+default enrolment in micro-SIPs
+•	
+life goal-linked investment reminders
+•	
+contextual nudges that normalise investing.
+2.	 Cross-cultural and early investment education
+Cross-cultural investment behaviour research: India’s financial ecosystem is a complex mosaic of regional, 
+cultural and economic diversity. The research should accomplish the following:
+•	
+Develop a sophisticated psychological mapping.
+•	
+Create culturally nuanced communication strategies.
+•	
+Design products aligned with community aspirations.
+34 | PwC | The mutual funds route to Viksit Bharat @2047
+Embedding an investment culture early: Taking cues from various initiatives, instilling an investment culture 
+in the early stages is important, through school curricula like Money Sense for Youth, Singapore; Financial 
+Capability Curriculum, UK and Money Smart Programme in Australia. Introducing investment concepts 
+and financial literacy into school curricula cultivate an early understanding and appreciation for financial 
+planning. Educating students about mutual funds and investment strategies fosters a generation that views 
+financial growth as a natural and attainable goal, effectively embedding an investment culture from a young age.
+•	
+Introduce investment concepts into school curricula.
+•	
+Foster financial literacy from a young age.
+•	
+Cultivate a generation that understands financial growth.
+The technology–human interface:
+•	
+AI-driven personalised financial counselling
+•	
+Predictive analytics for individual financial journeys
+•	
+Emotional intelligence in financial platforms
+•	
+Simplified user experiences that reduce anxiety
+3.	 Transformative communication strategies
+•	
+Learn from cross-sectoral innovations by:
+	-
+developing an ‘investor accessibility guide’
+	-
+simplifying financial terminology
+	-
+providing clear, contextual communication
+	-
+ensuring comprehension across linguistic and literacy barriers.
+•	
+Respect existing cultural wisdom.
+•	
+Demonstrate how modern financial instruments complement traditional savings mechanisms.
+•	
+Position investments as tools of empowerment.
+•	
+Create narratives that feel simultaneously revolutionary and familiar.
+4.	 Institutional strategy
+•	
+Financial institutions should build upon their successful efforts to drive psychological transformation.
+•	
+Embed behavioural science in distributor training.
+•	
+Develop comprehensive accessibility standards.
+•	
+Create personalised financial communication strategies.
+•	
+Establish trust-building initiatives in sceptical markets.
+The deeper transformation
+We are not simply creating financial literacy. We are reimagining financial participation as a core principle and a 
+pathway to individual and collective economic empowerment.
+The mutual fund industry is at a crossroads. It has an opportunity to transform itself from a financial product provider 
+to a catalyst of economic imagination for millions of Indians. By creating progressive and respectful narratives, we 
+seek to unlock a new era of financial participation.
+Key considerations for stakeholder action
+Regulatory bodies
+•	
+Encourage collaborative studies with financial institutions to explore the role of behavioural economics and 
+cognitive biases in investment decisions.
+•	
+Strengthen integration with national financial literacy programmes and expand partnerships with schools to 
+foster early investment literacy.
+Asset management companies 
+•	
+Build trust through transparent communication on pricing, market risks and growth potential.
+•	
+Ensure prompt mechanisms to redress grievances and maintain investor confidence.
+•	
+Provide personalised updates and nudges to investors, helping them track progress towards their financial 
+goals.
+The mutual funds route to Viksit Bharat @2047 | PwC | 35
+Distributors and influencers
+•	
+Highlight the power of compounding through real-life success stories.
+•	
+Conduct regular check-ins with investors and offer guidance at key financial milestones.
+By embedding behavioural insights into financial strategies, the mutual fund industry can drive a more extensive 
+transformation that increases participation and redefines investing as a fundamental aspect of financial wellbeing.
+E.	 Last-mile connectivity: Bridging gaps in mutual fund access 
+Expanding mutual fund access to Tier-2, Tier-3 and rural markets requires innovative solutions to ensure last-mile 
+connectivity. Democratising access to mutual funds begins by addressing the dual needs of reach and trust. Despite 
+digital platforms’ remarkable progress in breaking geographical barriers, the human connection provided by physical 
+touchpoints is irreplaceable – particularly for first-time investors seeking confidence and transparency before making 
+financial decisions. Collaborations such as AMCs partnering with the Open Network for Digital Commerce (ONDC) 
+illustrate how financial products can be integrated into everyday spaces, such as kirana shops, turning these hubs 
+into accessible financial touchpoints.
+Ensuring last-mile  
+connectivity
+ Localised confidence 
+and hyper-local  
+guidance
+Scalable models  
+like ONDC 
+Taking cues from 
+global best  
+practices 
+Leveraging existing 
+community networks 
+for expansion
+1.	 Localised confidence and hyper-local guidance: A farmer visiting his neighbourhood kirana shop to buy 
+daily essentials could now encounter an opportunity to invest in mutual funds. At this crucial juncture, a 
+knowledgeable local advisor – the shop owner or a trained facilitator – could make all the difference. This type of 
+hyper-local guidance would address cultural and financial barriers, fostering trust and empowering individuals to 
+take their first steps towards financial investment.
+2.	 Scaling models like ONDC for greater impact: Stakeholders should continue to look for ways to integrate 
+physical and digital networks to replicate and scale such initiatives across the industry. The key strategies 
+include:
+•	
+Financial kiosks in local markets: High-traffic kiosks staffed by trained advisors could explain mutual fund 
+products in regional languages while offering real-time onboarding with mobile technology.
+•	
+Empowering local shop owners as financial ambassadors: Kirana shop owners could be equipped with 
+digital tools to onboard customers, explain products and facilitate small-ticket SIPs, replicating the success 
+of India’s Common Service Centres for government services.
+Figure 14: Strategic levers to ensure last-mile connectivity
+36 | PwC | The mutual funds route to Viksit Bharat @2047
+3.	 Leveraging existing community networks for mutual fund expansion
+Jan Seva Kendras, post offices and cooperatives provide community trust and accessibility that can be 
+harnessed to expand mutual fund participation. By partnering with these entities, mutual funds could extend 
+financial literacy initiatives, offer localised advisory services and facilitate personalised onboarding of new 
+investors. Integrating mutual fund offerings into these networks leverages their existing infrastructure to 
+provide real-time access and transactions, building on their credibility to foster trust and overcome investment 
+scepticism. Furthermore, these centres would serve as valuable feedback channels to continuously refine and 
+improve mutual fund products and services to meet local needs better.
+4.	 Global best practices for last-mile connectivity: International examples provide valuable insights. In 
+Kenya, investment products have been seamlessly incorporated into mobile wallets, reaching unbanked rural 
+populations. Brazil’s correspondent banking programme enabled local businesses to act as financial agents, 
+while China’s rural financial service stations brought advisory services to remote villages. These models 
+illustrate the importance of blending technology with localised engagement.
+Building scalable infrastructure and trust: To ensure scalability, AMCs and RTAs may consider investing in robust 
+infrastructure supporting local training, vernacular outreach and digital onboarding. Technology would continue to be 
+crucial in bridging access and addressing gaps, enabling efficient service delivery and greater inclusion. Simplified 
+small-ticket SIP processes, incentives for distributors and the intermediary network and micro-investment options 
+can encourage participation while building trust. This dual approach fosters sustainable growth and long-term 
+investor confidence.
+Towards ubiquitous financial inclusion: Imagine a future where mutual funds are as accessible as daily essentials, 
+available at every corner store and through every smartphone. By leveraging industry collaboration, initiatives like 
+ONDC and global best practices, the mutual fund ecosystem has the potential to become a cornerstone of financial 
+inclusion, democratising wealth creation and empowering every Indian to participate in the nation’s economic 
+growth.
+Key considerations for stakeholder action
+Regulatory bodies
+•	
+Continue to encourage and support mutual fund adoption in less penetrated markets through targeted 
+incentives.
+•	
+Develop a localised guidance framework to develop partnerships with community networks.
+•	
+Clarify and enhance guidelines to ensure transparency in eligibility, roles, responsibilities and commission-
+sharing.
+Asset management companies
+•	
+Reassess distribution strategies, ensuring a balance between traditional distributors and local influencers.
+•	
+Establish physical touchpoints for investors and partners to resolve issues efficiently.
+•	
+Partner with local entities with existing touchpoints, such as banks, post offices and cooperative networks.
+•	
+Equip local partners with training, guides, content and digital tools to facilitate onboarding.
+Registrar and transfer agents 
+•	
+Build scalable infrastructure to support seamless expansion into Tier-2, Tier-3 and rural markets.
+•	
+Enable smooth integration of onboarding processes via local touchpoints, ensuring accessibility and efficiency.
+•	
+Continue to build on system resilience and data integrity through suitable use of encryption, AI-driven threat 
+detection, and redundant, geographically distributed data centers for uninterrupted services.
+Distributors and influencers
+•	
+Provide ongoing hand-holding and personalised assistance to first-time investors.
+•	
+Leverage real-time onboarding tools and digital platforms for seamless investor participation.
+•	
+Use interactive educational guides to provide simple and relatable explanations of investment processes.
+•	
+Organise regular meetups to provide updates, gather feedback and address investor concerns, prioritising trust 
+and long-term engagement.
+The mutual fund industry can transform accessibility and trust by strategically integrating technology with local 
+engagement, making mutual funds as ubiquitous and essential as daily financial transactions.
+The mutual funds route to Viksit Bharat @2047 | PwC | 37
+As the mutual fund industry approaches 2047, its evolution requires a cohesive, adaptive and collaborative 
+framework in which a central entity harmonises the ecosystem and balances the needs of investors, distributors, 
+AMCs and regulators. AMFI is uniquely positioned to play this role as a facilitator and orchestrator of an inclusive and 
+forward-looking mutual fund ecosystem.
+As the industry’s unified voice, AMFI will continue to advocate for the following:
+•	
+policy and regulatory reforms that balance innovation with investor protection, ensuring flexibility for AMCs to 
+experiment with new-age products
+•	
+standardised frameworks for operational efficiency, such as universal onboarding protocols, simplified KYC 
+processes and enhanced disclosures
+•	
+localised strategies that guide AMCs and distributors in penetrating underrepresented regions while maintaining 
+cultural sensitivity and trust.
+Regulators
+Goal: Ensuring market stability and 
+investor protection 
+AMFI’s role:
+•	
+Facilitating regulatory dialogue 
+for balanced policies
+•	
+Strengthening governance and 
+ethical distribution practices
+•	
+Advocating for risk-appropriate 
+investor incentives
+Distributors
+Goal: Ensuring market stability and 
+investor protection distributors
+AMFI’s role:
+•	
+Empowering distributors with 
+training, resources and digital 
+tools to enhance efficiency and 
+reach
+•	
+Promoting fair compensation 
+and ensuring regulatory 
+compliance for investor 
+protection
+•	
+Expanding distribution networks 
+to increase mutual fund access 
+in underserved areas
+Investors
+Goal: Financial empowerment 
+through accessibility and informed 
+decision-making 
+AMFI’s role:
+•	
+Simplifying investor education 
+and onboarding
+•	
+Enhancing trust via transparency 
+and disclosures
+•	
+Promoting financial inclusion via 
+vernacular campaigns
+Figure 15: AMFI - Orchestrating a unified ecosystem for financial empowerment 
+Section 4: AMFI as an enabler: Role as the central orchestrator
+The transformative journey of India’s mutual fund industry towards 2047 hinges critically on three enabling factors: 
+Strategic orchestration, infrastructural resilience and regulatory sophistication. These interconnected domains 
+represent the vital architectural foundations determining the industry’s capacity to scale, innovate and democratise 
+financial participation across the nation’s diverse socioeconomic landscape.
+Registrars and transfer agents  
+(RTAs)
+Goal: Seamless fund operations and 
+investor servicing
+AMFI’s role:
+•	
+Promoting efficiency via 
+digitisation and automation
+•	
+Driving interoperability between 
+platforms
+•	
+Enforcing robust data security 
+and compliance
+Asset management companies 
+(AMCs)
+Goal: Product innovation and 
+sustainable growth
+AMFI’s role:
+•	
+Advocating flexible regulations 
+for new-age products
+•	
+Encouraging ESG integration 
+and investor-centric fund design
+•	
+Establishing standardised 
+operational frameworks
+AMFI
+38 | PwC | The mutual funds route to Viksit Bharat @2047
+Driving ecosystem collaboration: The conductor’s role
+AMFI can align the mutual fund ecosystem’s disparate stakeholders – investors, regulators, AMCs, distributors and 
+RTAs – into a collective movement for achieving financial empowerment.
+Scaling mass campaigns  
+with local flavour
+Facilitating research  
+and insights 
+Championing investor-
+centric policies
+1.	 Scaling mass campaigns with local flavour: Building on the success of investor awareness campaigns 
+such as ‘Mutual funds sahi hai’, AMFI can scale these initiatives into localised, regional formats reflecting the 
+aspirations and challenges of India’s diverse communities by:
+•	
+tailoring campaigns for Tier-2 and Tier-3 cities, focusing on wealth stability and trust.
+•	
+introducing vernacular media strategies that resonate with different states’ cultural and linguistic nuances.
+2.	 Championing investor-centric policies: As the industry’s representative body, AMFI could advocate for 
+regulatory policies that democratise access and protect investor interests. For example:
+•	
+promoting SWPs as a cornerstone of retirement planning and reliable instruments for financial freedom.
+•	
+negotiating sustainability-linked incentives, encouraging AMCs to integrate ESG principles into their funds 
+while maintaining long-term ecosystem stability.
+3.	 Facilitating research and insights: AMFI could establish itself as the thought leader of the Indian mutual fund 
+industry to stay ahead in a dynamic global market, conducting in-depth research on the following topics:
+•	
+regional financial literacy disparities and strategies to uplift low-literacy states.
+•	
+behavioural patterns that drive investment decisions across demographic segments, leveraging cross-
+cultural studies to guide AMCs’ product innovation.
+•	
+measuring the industry’s inclusivity and accessibility using novel frameworks like the Inclusivity Index, 
+Accessibility Score and Financial Empowerment Quotient.
+By 2047, success will be measured not just by transaction volumes or technological sophistication, but by 
+the ecosystem’s ability to democratise financial knowledge, reduce entry barriers and create pathways for 
+inclusive wealth generation across India’s socioeconomic spectrum. Progress towards this vision requires 
+continuous evolution, collaborative innovation and an unwavering commitment to balancing technological 
+advancement with human-centric design principles.
+Figure 16: AMFI - Driving ecosystem collaboration
+The mutual funds route to Viksit Bharat @2047 | PwC | 39
+Section 5: Impact and conclusion 
+If the strategies and interventions outlined in Phase 3 are executed effectively, the mutual fund industry will be 
+poised to achieve the ambitious milestones envisioned for India’s financial future. As Amrit Kaal progresses – 
+ushering in an era of transformative economic growth and inclusivity – the figures projected for 2047 represent 
+aspirations and attainable realities.
+The exponential potential of this sector is reflected in the expected outcomes: a 6x increase in retail investors, 
+a 10x rise in per-investor AUM and a mutual fund AUM-to-GDP ratio surpassing 100%.55 While optimistic, 
+these projections are achievable goals provided the ecosystem embraces an adaptive, collaborative and investor-
+centric approach. By addressing challenges such as accessibility, inclusivity and investor education, the industry 
+can significantly deepen capital markets and mobilise funds into key sectors critical to nation-building, such as 
+infrastructure, green energy and innovation.
+This transformation will democratise wealth creation and foster robust capital formation, driving sustainable 
+economic growth and ensuring mutual funds become a cornerstone of financial empowerment. The industry can 
+create a nation where financial wellbeing is universally accessible, paving the way for a prosperous and equitable 
+future.
+55	PwC analysis
+Figure 17: Roadmap to 2047
+Parameter
+Present
+Initiation
+Gathering  
+pace
+ Growth
+Developed
+GDP  
+(INR lakh crore)
+279
+494
+795
+1,280
+2,492
+Total MF AUM  
+(lakh crore)
+53.4
+172
+461
+1,152
+2,791
+AUM/GDP
+18.7%
+35%
+58%
+90%
+112%
+Per capita income 
+(INR lakh)
+1.8
+3.3
+5.2
+8.4
+16.5
+No. of retail 
+investors (crore)
+4.5
+7.1
+11.6
+17.5
+26.3
+No. of AMCs
+44
+91
+142
+201
+212
+No. of distributors/
+RIAs (lakh)
+2.07
+3.06
+4.67
+6.81
+9.95
+Retail AUM  
+(INR lakh crore)
+34.2
+113.2
+308.9
+788.9
+1,953.7
+Institutional AUM 
+(INR lakh crore)
+19.2
+59.6
+152.1
+362.8
+837.3
+Retail MF 
+penetration rate (%)
+3%
+5%
+7%
+11%
+15%
+Amrit Kaal
+2024 
+(Actual)
+2047
+40 | PwC | The mutual funds route to Viksit Bharat @2047
+56	PwC analysis
+57	PwC analysis
+Considerations
+•	
+The projections outlined in this paper are predicated on the basis of several key considerations that align with 
+India’s economic trajectory and global financial market developments. Fundamental to these projections is 
+India’s sustained economic growth, averaging 10% CAGR through 2047, in line with the Government of India’s 
+vision of ‘Viksit Bharat 2047’, targeting a USD 30 trillion economy. This economic expansion is expected to 
+drive significant growth in per capita income from INR 1.8 lakh to INR 16.5 lakh, creating a robust foundation for 
+increased financial asset investment.56 
+•	
+The mutual fund industry’s growth trajectory has been benchmarked against 24 major economies with 
+established mutual fund sectors, categorised by their GDP per capita levels. Analysis of emerging and 
+developed markets suggests that India’s mutual fund AUM-to-GDP ratio can grow significantly, from 18.7% to 
+112%, by 2047.57 Deepening market maturity and increased financialisation of household savings will support 
+this expansion.
+•	
+The industry structure is expected to evolve towards global standards, particularly its market concentration. 
+The dominance of top AMCs is projected to moderate from the current 40% market share to 30%, aligning with 
+global benchmarks. Simultaneously, the operational efficiency of AMCs is anticipated to significantly improve, 
+with the average AUM per AMC increasing tenfold, which is comparable to global standards. This will support 
+the growth in AMCs from 44 to 212, creating a more competitive and diverse market landscape.
+•	
+The retail–institutional mix in mutual fund AUM is projected to shift gradually from the current 64:36 ratio to 
+a 70:30 split by 2047, mirroring developed markets. Sustained market returns of 11% annually and increasing 
+mutual fund penetration from nearly 3% to 15% of the population will support this transformation. The number of 
+unique mutual fund investors is expected to grow from 4.5 crore to 26 crore during this period, with the average 
+AUM per retail investor reaching INR 74 lakh, evidencing deeper market participation and increased wealth 
+creation through mutual funds.
+•	
+The distribution network is projected to grow fivefold to support this expanding investor base, with the number 
+of distributors/RIAs increasing from 2.07 lakh to nearly 10 lakh. This growth corresponds to the rising investor 
+penetration and will be accompanied by increased efficiency, with the average AUM per distributor growing 
+from INR 26 crore to INR 281 crore. This expansion in distribution capacity will be crucial for maintaining service 
+quality and advisory support as the industry scales.
+•	
+These projections assume continued regulatory support for market development, sustained improvement in 
+financial literacy and progressive adoption of technology, facilitating access to mutual fund investments. The 
+growth trajectory also factors in increasing penetration in Tier-2 and Tier-3 cities, greater participation from 
+younger investors and a sustained shift in savings and investment vehicles from physical to financial assets. 
+The mutual funds route to Viksit Bharat @2047 | PwC | 41
+Conclusion
+The Indian mutual fund industry stands at a historic inflection point, having taken decisive steps towards enabling 
+widespread financial wellbeing in a nation with over 1.4 billion aspirations. While developed markets such as the US 
+achieved 5-10x growth58 in mutual fund AUM over 44 years, India is uniquely positioned to accelerate this journey 
+significantly, powered by its digital public infrastructure and demographic dividend. 
+With technological advantages like UPI, the account aggregator framework and ONDC, supported by forward-
+thinking regulation and operating at global efficiency standards, the industry is well-positioned to compress this 
+growth timeline into just 24 years. This transformation mirrors India’s leapfrogging journey in digital payments, where 
+we developed a world-class infrastructure that processes more digital transactions than the US, the UK, Germany 
+and France combined. 
+The road ahead focuses on developing deeper understandings and serving the Indian investor through solutions that 
+balance inclusivity with appropriate incentives across the value chain, leveraging India’s robust digital architecture to 
+develop seamless, trust-based interactions. 
+With a projected sixfold growth in customer base and a tenfold increase in per-investor AUM, driven by initiatives 
+emphasising simplicity, relevance, behavioural and mindset change, inclusivity and last-mile delivery, the industry is 
+poised to catalyse India’s wealth creation story. This growth will be further magnified by India’s expanding middle 
+class, increasing financial literacy and the shift from physical to financial savings. 
+As we navigate this era of abundant choice, the commitment to guiding investors towards suitable products will 
+democratise wealth creation and contribute substantially to India’s economic prosperity, potentially adding several 
+percentage points to the GDP through efficient capital allocation. The next quarter-century or the ‘Amrit Kaal’ 
+promises to be transformative, as India becomes a nation where financial wellbeing is not just an aspiration but a 
+widespread reality, creating a model for emerging economies worldwide. Just as India showed the world how to 
+build digital public goods at the population scale, we are also positioned to demonstrate how to achieve financial 
+inclusion and wealth creation at an unprecedented scale and velocity.
+As we envision the trajectory towards Viksit Bharat 2047, the promise of financial wellbeing transcends the 
+boundaries of mere inclusion. This paper has articulated a vision where financial systems are enablers and catalysts 
+of personal and national growth. The strategies and frameworks outlined here are designed to transition from a 
+model of access to one of empowerment, ensuring that every Indian citizen can thrive within the financial ecosystem.
+The journey from financial inclusion to financial wellbeing is not a linear path; it is a dynamic process requiring all 
+stakeholders’ collaboration, innovation and commitment. If executed effectively, the strategies laid out in this paper 
+will potentially multiply retail investors, elevate per capita asset management and integrate mutual funds into the 
+fabric of everyday financial decision-making. By embracing inclusivity, fostering innovation and prioritising education, 
+we can create a financial landscape that is equitable, resilient and robust – paving the way for a future where 
+financial wellbeing is not just an aspiration but a universal reality. Despite the challenges of the road ahead, with 
+concerted efforts, the destination is within our reach.
+58	PwC analysis
+42 | PwC | The mutual funds route to Viksit Bharat @2047
+The mutual funds route to Viksit Bharat @2047 | PwC | 43
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in  
+151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory and tax 
+services. Find out more and tell us what matters to you by visiting us at www.pwc.com. 
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. 
+Please see www.pwc.com/structure for further details. 
+© 2025 PwC. All rights reserved.
+Contact us
+Gautam Mehra
+Leader – Tax and Regulatory Services 
+PwC India
+gautam.mehra@in.pwc.com
+Sidharth Diwan
+Partner – Business Transformation, Financial Services
+PwC India
+sidharth.diwan@pwc.com
+Gayathri Parthasarathy
+Technology Leader – Global Financial Services,
+Sector Leader – Indian Financial Services 
+PwC India
+gai.partha@pwc.com
+Ritesh Jha
+Director – Business Transformation, Financial Services
+PwC India
+ritesh.jha@pwc.com
+Contributors
+Vikas Srivastava
+Veer Doshi
+Indrajeet Kenjale
+Shaunak Shah
+About PwC
+In this document, PwC refers to PricewaterhouseCoopers Services LLP (a limited liability partnership firm in India having LLP Identification number  
+AAI-8885), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Services LLP (PwCSL) to be reliable but PwCSL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCSL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCSL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Services LLP. All rights reserved.
+pwc.in
+Data Classification: DC0 (Public)

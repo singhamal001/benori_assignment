@@ -1,0 +1,72 @@
+May 2024
+6th February 2025
+Key takeaways from the Ministry of Finance, 
+Government of India 
+PwC India FS Risk 
+Symposium
+Keynote session
+PwC India proudly conducted the fourth edition of its flagship Financial Services (FS) Risk Symposium 
+on 6th February 2025 in Gurugram – the first of its kind in the north region.
+The symposium brought together industry leaders and experts from the FS sector to share their 
+knowledge, experiences, insights and strategies to help navigate the uncertain and emerging risk 
+landscape of the banking, financial services and insurance (BFSI) space. 
+This edition of the symposium was meticulously designed to focus on the emerging challenges faced by 
+the financial institutions on the:
+evolving complexities of anti-money laundering (AML)/know your customer (KYC) compliances
+recently updated Digital Personal Data Protection (DPDP) guidelines to strengthen data 
+protection measures for Indian citizens. 
+risks associated with operational and cyber management policies
+2  |    PwC  PwC India FS Risk Symposium
+3  |    PwC  PwC India FS Risk Symposium
+Smarak Swain, an esteemed officer of the Ministry of Finance, was the keynote speaker and commenced 
+the symposium with an engaging speech that touched upon the complexity of cybersecurity challenges 
+and geopolitical concerns that predominantly loom over the FS industry today. His address underlined 
+the vulnerabilities in the crypto field, especially stressing on a significant factor that ‘crypto exchanges are 
+semi-regulated entities in India, despite having a fund balance of around INR 4,000 crore’. He highlighted 
+a crypto exchange platform incident, which resulted in the loss of around USD 230 million and ascribed it 
+to insufficient incident response systems and poor cybersecurity hygiene.
+Swain further emphasised the importance of cybersecurity measures and the methods of corrective 
+implementations and constant vigilance, noting that the breach was more of a ‘sleight of hand’ exploiting 
+employee psychology, rather than a sophisticated attack. This incident was a sobering reminder of 
+the significance of implementing strong cybersecurity systems as well as the increased possibility of 
+reputational damages due to a single hack.
+Moving forward to geopolitical risks, Swain discussed in length the possible consequences of political 
+developments in the US and Middle-East. Highlighting currency conversions and the involvement of global 
+intermediaries, the discussion also addressed the effect of the US Treasury sanctions on trade dynamics 
+between different countries.
+Additionally, Swain brought attention to some of the risks highlighted in the National Risk Assessment 
+(NRA) 2022 and announced that the next iteration of the NRA will be released in 2025. He mentioned that 
+this forthcoming version will adopt a bottom-up approach, ensuring high involvement of the private sector 
+to enrich the assessment with diverse perspectives and insights.
+The address further explored the ongoing difficulties stemming from the constant evolution of regulatory 
+compliance and its associated risk assessments. Emphasising the role of corporate compliance officers in 
+negotiating challenging regulatory settings, Swain recommended they pivot their focus towards a bottom-
+up strategy in risk management. To achieve precise documentation and risk assessments within financial 
+institutions, it is essential to have a thorough knowledge of client due diligence and integrate consistent 
+KYC procedures that will allow firms to better manage regulatory shifts in the near future.
+In conclusion to his insightful address, Swain urged industry stakeholders to be alert and proactive 
+in addressing such challenges by clearly delineating the link between cybersecurity and geopolitical 
+concerns in their assessment models. The address ultimately served as a call to action for the financial 
+industry and its leaders to appropriately, yet comprehensively, enhance resilience against progressing 
+threats and uncertainties. 
+4  |    PwC  PwC India FS Risk Symposium
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms 
+in 151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory 
+and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal 
+entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or 
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is 
+a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. 
+Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. 
+Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are 
+entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this 
+publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. 
+PS/February 2025/ 44064

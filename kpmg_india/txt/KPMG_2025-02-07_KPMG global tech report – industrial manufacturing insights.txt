@@ -1,0 +1,750 @@
+KPMG global tech 
+report — industrial 
+manufacturing 
+insights
+KPMG International | kpmg.com
+KPMG. Make the Difference.
+Interoperability, hybrid models and AI 
+innovation are the battlegrounds for digital 
+excellence in industrial manufacturing 
+Executive summary
+In the rapidly evolving landscape of industrial manufacturing (IM), 
+organizations are increasingly recognizing the imperative of digital 
+transformation to enhance operational efficiency, quality control, and 
+sustainability. The KPMG global tech report highlights that industrial 
+manufacturing firms are at the forefront of this transformation, 
+showcasing the highest levels of digital maturity across various 
+technology categories compared to other sectors. This report 
+serves as a critical resource for understanding the current state of 
+digital adoption in industrial manufacturing and the strategic steps 
+necessary for continued advancement.
+The research conducted by KPMG surveyed 2,450 executives 
+from 26 countries, including 368 leaders from the industrial 
+manufacturing sector. The findings reveal that 76 percent of 
+industrial manufacturing firms express a strong willingness to 
+embrace cutting-edge technology, the highest among all sectors 
+surveyed. Notably, the sector excels in AI adoption, with 34 percent 
+of organizations achieving a return on investment (ROI) from multiple 
+AI use cases. However, the report also identifies significant maturity 
+gaps in areas such as supply chain, procurement, and finance 
+functions, which hinder the full realization of digital potential. 
+To address these challenges and capitalize on the opportunities 
+presented by digital transformation, several recommendations emerge 
+from the report. First, organizations should focus on enhancing their 
+data strategies to help ensure seamless integration and analysis 
+across disparate systems. This is crucial for unlocking the full potential 
+of AI and achieving data-led decision-making. 
+Second, upskilling the workforce is essential to help bridge the skills 
+gap exacerbated by the rise of AI. Training programs should target 
+analytical decision-making and foster a data-centric culture, enabling 
+employees to leverage real-time data effectively. Furthermore, 
+organizations must prioritize the development of robust cybersecurity 
+measures to protect internal data networks, especially as they begin 
+to share data in real time with external partners.
+Lastly, fostering a culture of innovation 
+and agility will be vital for meeting 
+evolving client expectations regarding 
+lead times and customization. By 
+investing in processes that elevate the 
+voice of the customer, manufacturers 
+can gain insights that drive new product 
+lines and revenue streams. 
+2
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+2
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+Executive summary
+IM excels at 
+achieving AI ROI
+Key findings
+Out of the eight sectors polled, manufacturing 
+organizations are most likely to be in the highest 
+stage of strategic maturity in the majority of the 
+nine tech categories measured. And 
+Manufacturing’s proactive and progressive 
+spirit is propelling its digital maturity
+Manufacturing is one of the three sectors 
+where organizations are most likely to be at 
+the most mature phase of AI adoption, with
+The sector excels at achieving 
+AI ROI, but disconnects 
+prevent further progress
+Industrial manufacturing performs above the cross-sector average in 
+the number of its organizations that are in our  
+While it has above-average data 
+maturity, the sector continues 
+to hold itself to high standards top two levels of data maturity.
+of respondents say in their leadership 
+role they empower their organization 
+to strategically innovate so they can 
+capitalize on market trends with AI.
+80%
+34%
+76%
+already achieving return on 
+investment (ROI) in several AI 
+use cases.
+of industrial manufacturing firms say their 
+workforce has an appetite to embrace 
+cutting-edge technology — the highest 
+proportion of all sectors surveyed. 
+3
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+Key findings
+IM excels at 
+achieving AI ROI
+Manufacturing’s proactive and progressive 
+spirit is propelling its digital maturity
+For the second year running, industrial 
+manufacturing is setting the pace for digital 
+transformation. Out of the sectors surveyed, it is 
+the one whose organizations are most likely to be in 
+the highest stage of strategic maturity in six out of 
+the nine tech categories measured.
+In this stage, which we call ‘proactive,’ organizations 
+have successfully designed and tested a strategic 
+vision, achieved leadership funding, and are 
+implementing that strategy while adapting it to 
+market  developments. 
+In all nine technology categories, industrial manufacturing is ahead of the cross-sector average in terms of 
+the proportion of organizations in the proactive stage. 
+XaaS technologies (including public cloud or multi-cloud)
+Cybersecurity
+AI and automation (including generative AI)
+Data and analytics
+Edge computing
+Modern delivery (including low code/no code)
+Web3 (including blockchain and tokenization)
+Quantum computing
+VR/AR/XR(including Metaverse) and spatial computing
+35%
+30%
+31%
+28%
+26%
+25%
+25%
+22%
+24%
+39%
+38%
+37%
+35%
+31%
+30%
+28%
+26%
+26%
+Average across all sectors
+Industrial manufacturing
+Q: How would you describe your organization’s position today in each of the following areas? [Those answering ‘We are proactive in progressing against our 
+strategy and are continually evolving’] 
+Source: KPMG global tech report 2024
+4
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+Key findings
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+Manufacturing’s proactive 
+and progressive spirit
+IM excels at 
+achieving AI ROI
+of industrial manufacturing 
+execs say that their 
+organization is satisfied with 
+the value generated by their 
+tech investments, which is 
+above the cross-sector average.
+72%
+Striving for digital maturity and a culture of 
+innovation is a continual goal of and challenge 
+for our industrial manufacturing clients. Today 
+we’re helping them architect and implement 
+strategies that embrace AI, machine learning 
+and data transformation, but with a concurrent 
+focus on how their human talent can thrive in 
+such environments. Both elements are equally 
+important to their long-term success. 
+ 
+Claudia Saran  
+Head of Industrial Manufacturing  
+KPMG in the US
+According to Saurabh Bhatnagar, Partner, Industrial Automation, 
+Intelligence and Digitalization, KPMG in India, meeting client 
+expectations around lead times and customization is a prime area for 
+the sector to generate value from technologies.
+“Clients’ lead-time expectations are becoming shorter by the 
+day,” says Bhatnagar. “The market requires more agile, responsive 
+production capabilities — from the sourcing of raw materials to the 
+downstream supply of goods.” 
+As production specifications become more complex and bespoke, 
+many organizations are turning to digital interventions, systems, 
+processes and controls to bring customization, reliability and speed 
+into production cycles. These upgrades should also extend to 
+operational workflows in supply chain, procurement, sales, and 
+finance functions, among other areas.
+“The value chain of industrial manufacturing is being connected and 
+enhanced by digital features,” says Bhatnagar. “This hybrid model is 
+making the entire value chain faster, informed, more disciplined and 
+agile in responding to market needs.” 
+These efficiency gains are also helping to improve the energy 
+efficiency of production processes, according to Bhatnagar, for 
+instance in reducing the idle time of machines or reducing batch 
+cycle times of certain other processes. Here, AI and machine learning 
+(ML) are playing crucial roles in finding more sustainable and green 
+operational strategies for manufacturers to deploy. 
+This maturity is underpinned by a culture of tech enthusiasm: 
+76 percent of industrial manufacturing firms say their workforce 
+has an appetite to embrace cutting-edge technology — the highest 
+proportion of all sectors surveyed. 
+The manufacturing sector appears to be taking a more comprehensive 
+approach to its technology evaluation. This year, executives are drawing 
+on a wider range of sources to inform their investment decisions. 
+That said, the drivers have shifted in terms of which has the strongest 
+influence on tech choices. While “following competitors” is still a top 
+decision driver (85 percent) in 2024, it has fallen to second, behind 
+“looking to third-party guidance” (89 percent). 
+These tactics, paired with the sector’s proactive and progressive 
+spirit, appear to be paying off.
+5
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM excels at 
+achieving AI ROI
+The sector excels at achieving AI ROI, but 
+disconnects prevent further progress
+Industrial manufacturing is the leading sector in AI adoption. It  is one of the three sectors most likely to be at the 
+most mature phase of AI adoption, with 34 percent securing ROI on several of their AI use cases. But, while there 
+are pockets of success, the sector needs to address critical gaps that prevent it from accessing the full potential 
+of AI, including but not limited to improving data-based predictions, optimizing products, augmenting innovation, 
+enhancing productivity and efficiency, and lowering costs.
+Proportion of sectors at the highest stage of AI maturity
+Industrial manufacturing
+34%
+Life sciences
+34%
+Retail and consumer packaged goods
+29%
+Tech
+28%
+Healthcare
+34%
+Government
+27%
+Financial Services
+32%
+Energy
+30%
+Source: KPMG global tech report 2024
+One of the prominent AI use cases in the sector is using predictive 
+maintenance to enhance equipment reliability. Performance 
+diagnostics AI, alongside strategic data generation and storage, allows 
+workers to analyze real-time data from various machine components. 
+This helps them to make informed decisions about equipment 
+functionality, performance and reliability. Also, organizations are 
+applying AI and ML image recognition technologies to evaluate 
+the quality of a finished product to inform interventions that will 
+improve later batches. Firms are also using AI and ML to upgrade the 
+environmental efficiencies of their equipment as ESG targets become 
+more important across the sector.
+Another productive use case is how the sector is using AI to address 
+talent shortages. Four in five manufacturing executives say that 
+AI is filling skills gaps among knowledge workers — gaps that had 
+previously presented a major challenge. 
+Bhatnagar advises that, as industrial manufacturers incorporate AI 
+and ML into their business models, upskilling programs should target 
+analytical decision-making and science technology skills, as well as 
+creating a data-centric culture. 
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+6
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+IM excels at 
+achieving AI ROI
+of industrial 
+manufacturers say AI 
+is saving them time 
+and allowing them to 
+be more productive 
+and focus on  
+higher-value activities.
+80%
+“So, factory workers can make better real-time decisions on the 
+ground based on data that’s being thrown at them,” says Bhatnagar. 
+“[Factory] floor workers should take the lead on the decisions that AI 
+and ML are not reliable enough to make right now. Before AI, floor 
+workers made 30 to 40 decisions a day. Now, they just need to focus 
+on, say, 10 extremely critical, high-value decisions.” 
+In terms of other AI use cases at play in the sector, the rapid 
+development of industrial and process control applications 
+underpinned by AI packages, low-cost computer hardware and 
+graphical-user-interface technology has led to the emergence 
+of virtual instrumentation. Also known as ‘soft sensors,’ virtual 
+instrumentation acts as a substitute for physical sensors and 
+combines real-time data, digital tech and AI-backed mathematical 
+models to estimate product quality. 
+These soft sensors provide measurements at points in production lines 
+where it is impossible to install a physical sensor due to prohibitive 
+costs or harsh operational conditions. They combine multiple real-
+time data sources of process variables — such as water flow rates, 
+temperatures, pressure and speed of travel on a conveyor — and 
+convert them into a number to forecast the quality of a product. 
+In the realm of industrial manufacturing, the integration of advanced engineering systems and design 
+methodologies is paramount for fostering innovation and enhancing operational efficiency. While the 
+sector has been meticulously working to adopt the latest technologies, including artificial intelligence 
+(AI) and extensive machine learning capabilities, these are often siloed within individual systems such 
+as customer relationship management and procurement platforms. 
+ 
+Martin Kaestner 
+Technology Leader, Industrial Manufacturing 
+KPMG in the US
+For instance, rather than waiting to evaluate batch quality at the end 
+of the production process, one large integrated steel manufacturing 
+plant is deploying soft sensors at all stages of its manufacturing 
+cycle. This end-to-end monitoring provides opportunities for 
+proactive interventions that can preserve the stability of production 
+and minimize the presence of contaminants that could cause 
+batches to be rejected. “This saves the plant from wasting 
+production capacity and energy on producing off-spec materials,” 
+says Bhatnagar.  
+While these advanced engineering systems and design 
+methodologies are crucial to innovation, the influence of these AI 
+use cases is often restricted by connectivity gaps between systems 
+and data sets, says Martin Kaestner, Technology Leader, Industrial 
+Manufacturing, KPMG in the US.
+“The true potential of AI is realized when data from disparate 
+systems, such as customer relationship management and 
+procurement platforms, is aggregated and analyzed holistically,” 
+says Kaestner. “This is particularly critical in sectors such as 
+aerospace and defense, where organizations often possess some 
+of the best-engineered products, yet they struggle to identify critical 
+gaps in their operational frameworks because of silos.” 
+“The inability to synthesize data across various platforms in modern 
+manufacturing environments will skew the visibility AI models have of 
+critical areas such as global supply chain dynamics,” Kaestner adds.
+Without a cohesive strategy to fully integrate and analyze data from 
+multiple sources, companies risk missing out on valuable AI-powered 
+insights that could drive efficiency, reduce costs, and accelerate time 
+to market.
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+7
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+IM excels at 
+achieving AI ROI
+While it has above-average data maturity, 
+the industry continues to hold itself to 
+high standards 
+Even though data siloes remain a challenge, strong data foundations 
+support the  sector’s overall AI progress. Industrial manufacturing 
+performs above the cross-sector average in the proportion of its 
+organizations that are in our top two levels of data maturity. 
+“The industrial manufacturing sector has built a rich digital 
+architecture for its data,” says Bhatnagar. “The sector’s high-quality 
+data management processes and infrastructure such as sensors, 
+servers and cloud platforms help ensure that the right data is pulled 
+from the right places at the right frequency, format and quality.”
+Industrial manufacturing is the sector most likely to cite 
+immature data management as the top factor slowing 
+their digital transformation progress. 
+8
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+IM has above-average 
+data maturity
+IM excels at 
+achieving AI ROI
+Proportion of executives in the top two levels of maturity in data management
+How effective are your data and analytics activities in the following areas? (Influential/embedded)
+But rather than become complacent, the sector continues to hold 
+itself to high standards and maintains ambitious data goals. Although 
+its access to data is high, industrial manufacturing is also the sector 
+whose organizations are most likely to be alert to the fact that 
+further improvements to the data strategy would accelerate the 
+pace of digital transformation. For instance, to take full advantage 
+of generative AI, industrial manufacturers will need to construct a 
+reliable, trustworthy data infrastructure that is customized to their 
+business needs. 
+So, how can the sector’s organizations make sure that their data 
+strategies are enablers of progress, rather than blockers? “To make 
+their businesses more profitable and customer centric, manufacturers 
+need to keep increasing their visualization capabilities and workflows 
+to facilitate data-led decision-making and ensure these insights reach 
+the right employees at the right time,” says Bhatnagar. “There is still 
+work to be done here, but they are on the verge of getting this right.” 
+A crucial step will be to provide dashboard interfaces that present 
+data insights in a clear and intuitive format, so that workers can 
+make decisions quickly. The success of these platforms will depend 
+heavily on data governance and interoperability capabilities, which, 
+in comparison with other sectors, are both key skills for industrial 
+manufacturing. On both counts, industrial manufacturing performed 
+7 percentage points higher than the cross-sector average of 
+51 percent. 
+Interoperability will be an especially important requirement for 
+trustworthy digital innovation, and particularly when it comes to AI. 
+To sustain their momentum and move data at high speeds and even 
+in real time, manufacturers must focus parts of their cyber security 
+strategies on protecting internal data transfer. “One of the biggest 
+things manufacturers have to address is building enough security 
+protection around their internal networks to engineering design 
+systems,” says Bhatnagar. “Especially for when they begin to share 
+data in real time with the outside world.” 
+Ensuring data system investments align
+with priorities of all business stakeholders
+53%
+56%
+Data investments
+Leveraging data for competitive
+advantage in new business models
+52%
+56%
+Data monetization
+Protecting data through the security of systems,
+standards and governance processes
+52%
+57%
+Data security
+Conducting audits to address data integrity and
+creating frameworks that provide clear accountability
+51%
+58%
+Data governance
+Addressing data silos and
+poor data integration
+51%
+58%
+Data interoperability
+Using real-time or predictive
+analytics to inform decisions
+50%
+54%
+Data science
+Average across all sectors
+Industrial manufacturing
+Source: KPMG global tech report 2024
+9
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+IM has above-average 
+data maturity
+IM excels at 
+achieving AI ROI
+As the manufacturing sector responds strategically to shifting supply chain dynamics and growing environmental demands, its organizations should:  
+Nurture the proactive and progressive spirit that is powering their digital transformation efforts. The ongoing evolution of cyber security 
+strategies should feature initiatives that enhance the security protection of internal data networks plugging into engineering design systems, 
+especially for real-time data sharing.
+Improve visualization capabilities and workflows to help workers make better decisions based on data insights. And make sure that these 
+insights reach the right employees at the right times. 
+In parallel with the rise of AI in the workplace, prepare the workforce by upskilling factory workers with learning programs that target 
+analytical decision-making and science technology skills. IM executives are more inclined than most to believe that Gen AI will boost 
+productivity and enhance collaboration with a positive impact in IT and creative jobs.1
+Explore new ways to innovate to meet clients’ expectations of speed and customization, and make operations more energy efficient. By 
+capturing and centralizing the ad hoc data provided by consumers when they share their preferences and feedback on certain product features, 
+manufacturers could find insights that lead to new product lines or revenue streams. Invest in processes and systems that elevate the voice of 
+the customer so that the organization can give its target audience what it wants.
+Manufacturing might be ahead of other sectors in digital transformation, but the need to innovate does not stop here. “We will continue to see a constant 
+push for innovation,” says KPMG in India’s Saurabh Bhatnagar. “More technology, more agility, more tailoring to suit the customer, and faster speed to 
+delivery. To meet these needs, the industrial manufacturing sector will need to rely on digital interventions even more in future.” 
+The road ahead for industrial manufacturing 
+1 KPMG in US Getting a head start with generative AI in industrial manufacturing, 2023
+To really optimize the use of AI and new 
+technology, industrial manufacturers 
+need to combine what they do best 
+(manufacture physical products) with 
+what digital does best (collect real-time 
+data and embed AI) to differentiate their 
+products and gain a new competitive 
+advantage. It will not be enough to add 
+digital functionality to analog machines — 
+a complete re-imagination is needed. 
+Carmelo Mariano  
+Industrial Manufacturing Leader 
+KPMG Italy
+10
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report — industrial manufacturing insights
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+Methodology
+How KPMG can help
+The road ahead for 
+industrial manufacturing
+IM excels at 
+achieving AI ROI
+Source: KPMG US, Getting a head start with generative AI in industrial manufacturing, 2023
+Key actions that industrial manufacturers 
+can take to accelerate AI adoption:
+Assess and address 
+shortcomings in data 
+availability, data quality 
+and data integration.
+1
+Identify and pursue early 
+use cases that can have a 
+direct impact on revenue, 
+costs, risk or other 
+important outcomes.
+2
+Upskill the existing 
+workforce and create a 
+data-centric culture.
+3
+Address talent gaps by 
+bringing in new talent 
+while maximizing the 
+existing workforce.
+4
+Develop a general  
+AI strategy, including 
+conventional and leading 
+edge disciplines, that 
+weighs costs against 
+revenue opportunities 
+and risks.
+5
+11
+KPMG global tech report — industrial manufacturing insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+Methodology
+How KPMG can help
+The road ahead for 
+industrial manufacturing
+IM excels at 
+achieving AI ROI
+Methodology
+The KPMG global tech report 2024 surveyed 
+2,450 technology leaders from 26 countries across 
+8 industries: financial services, tech, retail and consumer 
+packaged goods, industrial manufacturing, life sciences and 
+pharmaceuticals, healthcare, government and public sector, 
+and energy.
+Survey respondents represented organizations with 
+annual revenues above US$100 million and included 
+a diverse group of technology leaders, such as chief 
+digital officers, CIOs, CTOs, CISOs, chief AI officers, and 
+others. A significant proportion of the respondent sample 
+comprised senior leaders: 50 percent were board 
+members or members of the C-suite, 15 percent held 
+director or senior manager-level positions.
+The industrial manufacturing perspective of the KPMG 
+global tech report 2024 draws on the views of 368 industrial 
+manufacturing technology leaders.
+Saurabh has over 26 years of work experience across 
+supply chain, manufacturing, product development, 
+product lifecycle management, capital project 
+management and business analytics. He has extensive 
+experience in the industrial sectors of metals and 
+mining, oil and gas, consumer products, bulk chemicals 
+and auto ancillary. In his current role at KPMG in India, 
+Saurabh currently leads the Industrial Automation, 
+Industry 4.0 and CPS (Cyber Physical Systems) practice 
+for India. He is a practitioner of applied machine 
+learning, designing and configuring OT constructs 
+for asset intensive industries. Saurabh’s specific 
+consulting solutions are about working with clients to 
+yield business value of Industry 4.0-driven consulting 
+assignments.
+Martin is the Industrial Manufacturing Technology leader for 
+KPMG in the US and is also the business owner of KPMG in 
+the US’s leading AI platform, Ignite, along with several other 
+AI-driven solutions. With over 25 years of extensive business 
+and systems consulting experience, Martin empowers 
+industrial manufacturing clients to become digitally enabled 
+and data-driven. Drawing on his deep industry expertise, 
+Martin aids clients across aerospace and defense, consumer 
+products and building automation manufacturers in leveraging 
+advanced technology and analytics to unlock tangible business 
+value. He delivers comprehensive digital solutions that help 
+achieve business strategies, by reducing risk, lowering costs, 
+improving efficiency, and complying with regulation. He 
+effectively turns data and analytics into actionable business 
+insights. Martin possesses hands-on experience in system 
+implementations and integrations, with a strong emphasis on 
+incorporating AI, generative AI, machine learning (ML), and 
+natural language processing (NLP) functionalities.
+Saurabh Bhatnagar
+Partner, Industrial Automation, 
+Intelligence and Digitalization
+KPMG in India
+Martin Kaestner
+Technology Leader, 
+Industrial Manufacturing 
+KPMG in the US
+About the authors
+12
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report — industrial manufacturing insights
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+How KPMG can help
+Methodology
+IM excels at 
+achieving AI ROI
+How KPMG 
+can help 
+KPMG firms have deep experience in industrial 
+manufacturing and business technology. We are a 
+global organization of professional services firms 
+whose consultants provide support to the world’s 
+leading industrial manufacturers, including aerospace 
+and defense, steel and metals and other engineered 
+products. KPMG firms’ tech consulting practices 
+have extensive experience in key tech capability 
+areas and a global delivery network to support your 
+organization’s digital transformation.
+Transformation is an ongoing journey
+There’s no quick fix for today’s business challenges. Major changes are commonplace, often happening in parallel — involving more 
+stakeholders, with more at risk and more complex decision-making required. All this can put relentless pressure on you, your people and 
+your broader ecosystem. This journey of constant change is unpredictable but how you approach it should not be. KPMG professionals 
+help you navigate these shifting end points to help deliver the results that matter. But the journey doesn’t end here. We combine advanced 
+technology, deep expertise, and operational excellence to continually evolve your processes — on a subscription, as-a service basis.
+With KPMG Managed Services, we help you create nimble, scalable business functions that both evolve as you grow and pivot quickly 
+amid changing priorities. That’s how to accelerate your transformation journey, sustain it and help stay ahead of competitors — while 
+minimizing disruption and risk. Learn more.
+You can with AI
+In the artificial intelligence (AI) era, anything seems possible. Untapped value, constant innovation, new frontiers. Especially with a 
+knowledgeable guide by your side. We help clients harness the power and potential of AI. From strategy to implementation. Small steps to 
+solving seemingly impenetrable problems. Underpinned by trust. You can discover endless opportunities with AI. KPMG has been named 
+a worldwide leader in artificial intelligence in the IDC MarketScape: Worldwide Artificial Intelligence Services 2023 Vendor Assessment 
+report. According to the report, “KPMG also showcased strengths in achieving business outcomes for clients with AI services.”
+KPMG has developed a suite of capabilities that combines a feature-rich AI development platform with a robust portfolio of prebuilt, 
+tested AI-enabled technology solutions, backed by KPMG firms’ deep industry and domain expertise. KPMG offers developer and user 
+interfaces to build, train, configure, and deploy customized AI-enabled technology solutions, which in turn helps a client’s solutions stack 
+to work cohesively and seamlessly as they scale AI across the organization.
+Let KPMG show you how. Learn more.
+13
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+KPMG global tech report — industrial manufacturing insights
+Executive summary
+Key findings
+Manufacturing’s proactive 
+and progressive spirit
+IM has above-average
+data maturity
+The road ahead for 
+industrial manufacturing
+Methodology
+How KPMG can help
+How KPMG can help
+IM excels at 
+achieving AI ROI
+Some or all of the services described herein may not be permissible for KPMG audit clients and their affiliates or related entities.
+kpmg.com
+Saurabh Bhatnagar
+Partner, Industrial Automation, 
+Intelligence and Digitalization
+KPMG in India
+E: saurabhb1@kpmg.com
+Martin Kaestner
+Technology Leader, 
+Industrial Manufacturing 
+KPMG in the US
+E: mkaestner@kpmg.com
+Jonathon Gill
+Global Head of Industrial Manufacturing
+KPMG International
+E: jonathon.gill@kpmg.co.uk
+Claudia Saran
+Head of Industrial Manufacturing 
+KPMG in the US
+E: csaran@kpmg.com
+Carmelo Mariano
+Industrial Manufacturing Leader 
+EMA
+E: cmariano@kpmg.it
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that 
+such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients.  All rights reserved.
+KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity.
+KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. For more details about our structure please visit kpmg.com/governance.
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.
+Throughout this document, “we”, “KPMG”, “us” and “our” refers to the KPMG global organization, to KPMG International Limited (“KPMG International”), and/or to one or more of the member firms of KPMG International, each of which is a 
+separate legal entity.
+Designed by Evalueserve.
+Publication name: KPMG global tech report — industrial manufacturing insights  |  Publication number: 139755-G  |  Publication date: January 2025
+Contacts
