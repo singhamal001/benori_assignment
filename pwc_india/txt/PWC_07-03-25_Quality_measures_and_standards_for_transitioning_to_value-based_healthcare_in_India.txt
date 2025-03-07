@@ -1,0 +1,2326 @@
+Quality measures and standards 
+March 2025
+for transitioning to value-based 
+healthcare in India
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+3
+Table of contents
+25
+06
+How technology can act as an enabler for VBHC
+06
+01
+Introduction
+05
+18
+Defining quality measures and standards 
+09
+02
+An overview of VBHC’s adoption
+16
+04
+Building a foundation for VBHC's adoption in India
+14
+03
+The need for transitioning to a VBHC model
+Challenges in adopting VBHC in India
+07
+31
+33
+08
+The road ahead 
+36
+09
+Conclusion
+37
+10
+Glossary
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+4
+Preface 
+Arnab Basu 
+Advisory Leader
+PwC India
+Value based healthcare(VBHC) is the cornerstone of modern healthcare and is integral for establishing an efficient and 
+effective healthcare system.
+There’s been a recent shift in focus towards VBHC since earlier the focus was solely around providing better value and 
+outcomes for healthcare services. VBHC prioritises patient outcomes and cost efficiency, shifting away from the 
+traditional fee-for-service model which provides services based on the quantity of services provided. In recent times, the 
+government has been making efforts to integrate the value-based healthcare concept into the core of healthcare delivery 
+system. These efforts aim to establish enhanced quality of care, cost effective healthcare solutions and improved 
+patient satisfaction.
+VBHC’s implementation in India can offer a transformative approach to address the challenges in Indian healthcare such 
+as escalating health costs, poor health outcomes, inefficient allocation of resources and high levels of patient 
+dissatisfaction. By prioritising patient outcomes over volume of services, VBHC can help organisations align their 
+services with growing demand for cost effective, efficient and non-discriminatory care.
+In a diverse and a largely populated country like India, where efficient healthcare access still remains challenging, 
+particularly in rural areas, VBHC can offer a promising avenue for significant improvements. By focusing on initiatives 
+around incentivising the providers to focus on chronic disease management and patient-centered care, VBHC can 
+address many pressing challenges in Indian healthcare.
+As the global healthcare landscape gears up for embracing the adoption of value-based healthcare, India’s healthcare 
+sector is also at the forefront of this transformation. This paper aims to provide a roadmap to facilitate the transition to 
+VBHC to help the Indian healthcare system in adopting VBHC and improving the outcomes of the healthcare 
+sector’s endeavours. 
+Dr Rana Mehta
+Healthcare Leader 
+PwC India
+VBHC has tremendous potential to enhance the quality of care and generate value for healthcare organisations.
+Some of these potential benefits include:
+•
+improved patient health outcomes
+•
+reduction in overall healthcare costs
+•
+increased patient satisfaction
+•
+enhanced resource management and efficiency.
+VBHC has the capacity to transform the healthcare industry in India, enabling physicians to provide superior care and 
+treatment to patients. With the implementation of VBHC in India, healthcare providers will be incentivised through the 
+VBHC payment models to improve patient outcomes and efficiency, while payers will focus on aligning reimbursement 
+models with quality care metrics, ultimately leading to cost savings and enhanced patient satisfaction. This, in turn, could 
+provide better accessibility and affordability for patients and help in the goal of providing universal healthcare – an 
+essential building block for the country’s economic progress. This report highlights the various nuances of VBHC, the 
+various quality standards and measures for an effective VBHC model and how technology will act as a driver for the 
+entire transition. 
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+5
+1 https://www.india.gov.in/spotlight/union-budget-2025-2026
+Angana Guha Roy Chowdhury
+Assistant Director General 
+BCC&I
+Advanced healthcare has increased life expectancy and the probability to recover from critical health conditions. 
+However, with advanced procedures and medicines along with factors like higher equipment cost, limited infrastructure 
+and professionals with increased demand for healthcare services, healthcare has become expensive. 
+Since the United Nations Sustainable Development Goal (SDG) 3 was established to ensure healthy lives and well-being 
+for all people at all ages, it is important to provide quality healthcare available to the last mile. While differential 
+healthcare delivery, based on location and affordability creates barriers to standardised quality healthcare, delivering 
+quality care is also dependent on reliable data based on which measures, solutions and innovations may be aligned.
+Insurance provided both by the Government and the private sector could make healthcare more affordable/On the 
+technological front, technologies like telemedicine, AI-driven diagnosis and data collected from wearables among others 
+could also help in healthcare sector in delivering standardised healthcare to the last mile.
+As announced in the Union Budget 2025, the government is also taking significant steps to build healthcare capacity in 
+the country and establishing medical education institutions, providing broadband connectivity in rural health centres, 
+enhancing digital infrastructure in primary healthcare centres and providing affordable medicines for critical cases. PLI 
+scheme for pharmaceuticals is expected to boost domestic manufacturing keeping costs affordable. In an effort to make 
+medicine affordable, a number of life-saving drugs and medicines have been exempted from basic customs duty. 
+Startups in healthcare, especially HealthTech, are also coming up with innovative solutions at affordable cost. However, 
+to achieve this, regulations need to be implemented, both at central and at the state level for assuring quality 
+with affordability.1
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+6
+Source: PwC analysis
+1.1. Introduction to value-based healthcare (VBHC) delivery
+VBHC is a model which incentivises healthcare providers2 based on the outcomes of the services they deliver to the 
+patients. This approach emphasises improving patient health outcomes by linking the provider’s payments directly to the 
+quality and efficiency of the care provided. It is an alternative to the traditional FFS model, where providers are paid 
+based on the quantity of services provided rather than the quality.
+01
+Introduction
+Patient-centered medical home
+Patient focused model where an entire team of 
+healthcare professionals is formed to deliver 
+personalised care plans.
+Shared savings
+In this model providers and payers agree on an 
+expected medical cost and any savings achieved 
+below this threshold will be shared between the payer 
+and provider.
+Bundled payment
+A payment model where a predefined amount of 
+fee is collected upfront from the patient based on 
+the services related to their diagnosis..
+Capitation model
+Similar to the bundled payment model a set amount of 
+fee will be received from the patient but over a certain 
+period like per month or per year.
+Pay for performance
+The providers are incentivised based on their 
+performance offering them a bonus when they perform 
+exceeding threshold set based on specific metrics and 
+benchmarks and charged with penalties when they 
+don't meet the threshold.
+Shared risks
+This model is similar to the shared savings model, in 
+addition to sharing the savings, the financial burden 
+of excess healthcare costs exceeding the threshold 
+will also be distributed between both parties.
+Figure 1: Different VBHC models 
+2 Note: For this report, healthcare providers comprises – entities or individuals which deliver medical services, care and treatment to patients 
+including hospitals, clinics, doctors and other medical professionals.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+7
+Figure 2: Key principles of value-based healthcare
+Patient experience
+Value-based care will place 
+greater emphasis on patient 
+experience, as healthcare 
+providers will be incentivised 
+based on the quality of care 
+they deliver to the patients.
+Patient-centered care
+The focus is on prioritising 
+patient’s needs and 
+preferences, creating 
+customised treatment plans 
+for patients. The primary 
+goal is to place the patient at 
+the heart of the healthcare 
+system.
+Outcome-based payments
+Providers will be compensated based on 
+the quality of the care they deliver and 
+patient recovery outcomes rather than 
+merely the volume of treatments or 
+number of tests conducted.
+Integrated care delivery
+Integrated care delivery 
+supports value-based care 
+by coordinating healthcare 
+services across providers 
+and settings, leading to 
+improved patient health 
+outcomes.
+Cost of care
+Healthcare costs are notably 
+high and making them 
+affordable for everyone has 
+been a priority for many. 
+Value-based care could make 
+great progress in this area, as 
+it is expected to significantly 
+reduce treatment costs 
+compared to the traditional 
+fee for service models.
+1
+2
+3
+4
+5
+Cost of 
+care
+Integrated 
+care 
+delivery
+Outcome-based 
+payments
+Patient-
+centered 
+care
+Patient 
+experience
+Source: PwC analysis
+PwC India conducted a survey in January 2025 among various stakeholders from the healthcare fraternity, to capture 
+their understanding about VBHC. We reached out to more than 50 respondents across different categories – physicians, 
+healthcare providers, consultants, professionals – to capture their point of view. 
+Figure 3: Which of the following do you consider as key principles of VBHC?
+Source: PwC analysis
+1.38%
+12.41%
+17.93%
+20.00%
+23.45%
+24.83%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+30.00%
+Not Sure/Unfamiliar with the concept
+Cost of Care
+Integrated care delivery
+Enhancing Patient Experience
+Patient-centered care
+Outcome-based payments
+According to the survey, nearly 50% of the respondents perceived VBHC as a patient-centric, outcome based model. 
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+8
+1.2. State of healthcare delivery in India
+India’s healthcare delivery system is highly fragmented with a mix of public and private sectors for both providers and 
+payers leading to several challenges related to inadequate infrastructure, rural-urban disparity and high out of pocket 
+expenditure. From a global perspective, India’s spending on healthcare is quite low (public funds, private funds, external 
+flows) when compared to its neighbouring developing countries. However, the government has initiated various 
+programmes to improve the access and quality of care for the citizens. This abatement reflects the impact of increased 
+government investment in healthcare, evidenced by the 85% increase in budget allocated for the Department of Health 
+and Family from 2017-18 to 2021-22.3
+India’s healthcare sector primarily focuses on three key areas – digital transformation, preventive care and wellness, 
+and overall healthcare infrastructure development. Numerous healthcare policies and initiatives are also being 
+launched by the government to support the sector.
+To provide health coverage to the country’s population, the Government of India has been focusing on preventive care 
+and wellness, improving healthcare infrastructure and digital initiatives. A pivotal government initiative to help the 
+government achieve this goal is the AB PM-JAY, an initiative that aims to achieve universal health coverage by aiding a 
+family with up to INR 5,00,000 of insurance coverage4 every year. The initiative is also directed towards the 
+implementation of a value-based incentive system, focusing on patient outcomes and quality of care over the quantity of 
+services provided.
+Healthcare providers are also investing in modern hospitals, clinics and diagnostic centres equipped with advanced 
+medical technology, embracing digital innovations such as electronic medical records, telemedicine, health apps and 
+remote monitoring systems to improve patient care. These innovations have the capability to improve healthcare 
+outcomes and reduce costs in the long term. India's healthcare regulatory system is also evolving to ensure patient 
+safety, promote high-quality care and control costs.
+While there are still significant challenges to overcome, the continued investment in healthcare and innovation in the 
+sector highlight India’s keenness to transform its healthcare landscape from volume-based care to value-based 
+care model.
+3 https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2094604 
+4 https://nha.gov.in/PM-JAY
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+9
+Many countries across the globe are shifting towards the VBHC model due to changes in priorities towards patient-
+centred models, to improve cost efficiency and to enhance the accountability of the healthcare providers. Governments 
+worldwide are shifting from traditional FFS models to capitation, bundled payments, etc. to incentivise the providers who 
+supply coordinated and quality care for their patients. This transformation is being led by technological advancement for 
+data-driven decision-making and the framing of global health standards, where countries can learn from each other’s 
+experience for adopting the best healthcare practices.
+02
+An overview of VBHC’s adoption
+Legislations like ACA and programmes like QPP led the implementation of VBHC in the USA.
+What were the context and 
+challenges which led to the 
+adoption of VBHC?
+How did it work?
+What are the monitoring 
+mechanisms?
+The USA spends around 17% of its 
+GDP on healthcare5 and ~25% of it 
+is considered redundant,6 which can 
+be attributed to factors like 
+unnecessary medical procedures, 
+inefficient services, missed 
+prevention opportunities, etc. The 
+US has been witnessing an 
+increase in overall healthcare costs, 
+which does not necessarily 
+correlate with enhanced patient 
+outcomes.
+To continue reaping the benefits of 
+the VBHC model, CMS plays a 
+pivotal role in monitoring value-
+based programmes. It tracks 
+performance metrics, patient 
+outcomes and cost savings through 
+various programmes such as the 
+hospital readmission reduction 
+programme and hospital value-
+based purchasing. There has also 
+been widespread adoption of EHRs, 
+which enables the authorities to 
+monitor the performance of the 
+providers and patient outcomes in 
+real time. 
+To combat these issues, the US 
+government came up with the ACA, 
+which shifted the focus from 
+volume-based reimbursements to a 
+model where providers will be paid 
+based on the quality of outcomes. 
+The ACA facilitated the formation of 
+ACOs, where a group of healthcare 
+providers collaborate to manage the 
+health outcomes of the population. 
+This cooperation motivates 
+providers to enhance patient 
+outcomes while simultaneously 
+striving to reduce overall costs The 
+ACA also laid the groundwork for 
+the QPP, which was later 
+established by MACRA. The QPP 
+incentivises healthcare providers to 
+prioritise both quality and cost-
+effectiveness. 
+5 https://www.pgpf.org/article/almost-25-percent-of-healthcare-spending-is-considered-wasteful-heres-why/
+6 https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical
+1
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+10
+What were the context and 
+challenges which led to the 
+adoption of VBHC?
+How did it work?
+What are the monitoring 
+mechanisms?
+The country has also been 
+leveraging research conducted by 
+independent organisations to 
+evaluate value-based programmes, 
+along with patient satisfaction 
+surveys.
+By meeting established quality 
+benchmarks, providers can earn 
+bonus payments, while those who 
+fail to meet performance standards 
+may face penalties. This approach 
+aims to reduce unnecessary 
+healthcare spending. ACA has also 
+laid the groundwork for introducing 
+quality metrics and performance 
+incentives by initiating programmes 
+such as the Hospital Readmission 
+Reduction Programme and Hospital 
+Value-Based Purchasing, which 
+penalised hospitals for high 
+readmission rates and rewarded 
+them for performing better on the 
+quality standards.7 
+To enhance value-based care in the 
+USA, different payment models 
+have also been developed to 
+gradually shift from FFS to 
+alternative payment models. The 
+introduction of bundled payment is 
+one such initiative under which a 
+single payment is made based on a 
+specific episode of care. Another 
+prominent model is the capitation 
+model where providers are paid a 
+predetermined amount per patient 
+for a specific period regardless of 
+the services availed. The 
+government has also introduced a 
+model called the PCMH, with a 
+focus on providing comprehensive 
+primary care. 8 It leverages a team-
+based approach to provide 
+coordinated care and has been 
+associated with chronic disease 
+management, increased preventive 
+care and cost savings. The PCMH 
+model follows the FFS plus the 
+PMPM models. Providers receive a 
+base PMPM payment for routine 
+care, encouraging preventive health 
+management and incentivising 
+providers to keep patients healthy. 
+7 https://pmc.ncbi.nlm.nih.gov/articles/PMC6139911/
+8 https://www.cms.gov/medicare/payment/prospective-payment-systems/acute-inpatient-pps/hospital-readmissions-reduction-program        
+hrrp#:~:text=The%20Hospital%20Readmissions%20Reduction%20Program,in%20turn%2C%20reduce%20avoidable%20readmissions.
+Legislations like ACA and programmes like QPP led the implementation of VBHC in the USA.
+1
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+11
+What were the context and 
+challenges which led to the 
+adoption of VBHC?
+How did it work?
+What are the monitoring 
+mechanisms?
+For specialised or acute services, 
+additional FFS payments are made, 
+ensuring compensation for complex 
+care beyond routine management 
+and balancing cost predictability 
+with service-specific remuneration. 
+Thus, providers are incentivised to 
+maintain health and efficiency 
+through PMPM but also have the 
+flexibility to deliver necessary, 
+additional services via FFS.
+The NHS in the UK is facing rising 
+healthcare costs due to factors such 
+as technological advancements, 
+expensive treatments and increased 
+demand for services. The UK has 
+also experienced a significant 
+enhancement in its ageing 
+population, with ~18% of the 
+population aged ≥65 years in 
+2023.[7] This demographic often 
+suffers from multiple chronic 
+diseases requiring ongoing 
+management. In response, the UK 
+adopted a multipronged approach in 
+the implementation of VBHC. 
+Significant steps in the VBHC by the 
+UK (NHS) involve introducing 
+integrated care systems, quality and 
+outcomes framework, and the 
+adoption of payment by results 
+model.
+To monitor health initiatives, the 
+NHS has established the NICE, 
+which assesses the cost-
+effectiveness of new treatments and 
+interventions and evaluates the 
+costs against the outcomes.12 
+The NHS also utilises a 5-step BRM 
+framework to monitor the 
+advantages gained from the 
+healthcare transformation projects. 
+In addition, the NHS incorporates 
+assessment reports from 
+organisations such as UKRI. These 
+offer an outsider’s perspective on 
+the effectiveness of the NHS 
+strategies, aiding in the refinement 
+of approaches to achieve the 
+desired health outcomes.
+Several initiatives have shaped the 
+transition to VBHC in the UK:
+•
+Integrated care systems:9
+The system forges partnerships 
+between the NHS, local councils 
+and voluntary sectors to develop 
+shared healthcare plans and 
+joint services. The focus 
+includes better outcomes for the 
+patients, prevention of disease, 
+reduction in health inequalities 
+and enhanced productivity of the 
+workforce.
+•
+Quality and outcomes 
+framework:10 It is an annual 
+reward and incentive 
+programme for general 
+practitioners based on the 
+quality of the healthcare 
+provided while dealing with 
+different disease burdens. The 
+GPs are assessed on 76 
+indicators comprising domains 
+such as clinical health, public 
+health and quality improvement.
+•
+Payment by results: 11 It is a 
+system where each treatment 
+and procedure is given a specific 
+price based on the national tariff 
+system. The cost is determined 
+using the average cost of 
+providing that specific service at 
+the NHS.
+9 https://www.longtermplan.nhs.uk/wp-content/uploads/2019/08/nhs-long-term-plan-version-1.2.pdf
+10 https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub/quality-outcomes-framework-qof
+11 https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics/payment-by-results
+12 https:/www.ncbi.nlm.nih.gov/books/NBK310330/
+Changing demographics and rising overall costs led to the implementation of VBHC at the NHS, UK.
+2
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+12
+What were the context and 
+challenges which led to the 
+adoption of VBHC?
+How did it work?
+What are the monitoring 
+mechanisms?
+Brazil’s healthcare system is a mix 
+of public and private players, relying 
+mainly on the FFS model for 
+payment. The increase in 
+population, longer life expectancy 
+and rising healthcare costs due to 
+technological advancements are 
+some of the reasons for a country 
+like Brazil to move towards the 
+VBHC model. Additionally, the 
+country has also been leveraging 
+international experiences, such as 
+those of the US, which has already 
+started implementing the VBHC 
+models. This implementation has 
+helped Brazil to transition smoothly 
+to a VBHS.
+Brazil has developed a 
+standardised measurement tool to 
+evaluate quality measures, 
+pertaining to the process, outcomes 
+and patient experience. 
+ 
+Some of the steps taken by Brazil to 
+move towards value-based 
+healthcare include the formation of 
+the ICHOM, which aligns Brazilian 
+hospitals with global health 
+standards. The consortium aims to 
+implement standardised health 
+outcomes measurement sets for 
+heart failure, stroke and hip and 
+knee osteoarthritis, across the 
+hospitals in the country and improve 
+overall patient care. Since the 
+country has a mix of both public and 
+private players, the private sector 
+has formed the ANAHP, which is 
+actively involved in embracing 
+quality measures and adopting 
+value-based payment models for its 
+settings. Apart from these 
+initiatives, the country regularly 
+gathers insights from the pilot 
+programmes to identify the best 
+practices and areas of 
+improvement.
+Given below are a few examples of VBHC's adoption.
+Context
+Challenges
+What worked well?
+What was the value 
+generated?
+A leading hospital in 
+South Denmark Region 
+was looking for a patient-
+centred improvement 
+model with a focus on 
+data-driven innovation, 
+patient-experience 
+outcomes and 
+streamlining. They 
+intended to improve the 
+KPIs like hospitalisation 
+time, patient readmission 
+post-surgery, revision 
+knee replacement due to 
+implant failure and patient 
+satisfaction post-
+treatment among others.
+The cohesiveness of the 
+clinical and administrative 
+teams led to the result-
+oriented ownership of the 
+initiative within a hospital. 
+Especially, the 
+involvement of clinical 
+staff in such activities 
+provides a huge impetus 
+to the entire objective of 
+providing value-based 
+healthcare for the benefit 
+of the patients.
+The decision regarding 
+the KPIs that should be 
+strategically targeted is 
+usually a subject of 
+deliberation among 
+caregivers and clinicians, 
+along with the adequate 
+and accurate capture of 
+data. These are 
+especially susceptible to 
+falling within the zone of 
+apprehensions regarding 
+the treating team’s clinical 
+competence as well as 
+the hospital’s reputation. 
+In terms of patient 
+outcomes, there was a 
+reduction in the patient 
+hospitalisation time, 
+decline in readmission 
+within 30 days post-
+surgery, as well as 
+increase in-patient 
+satisfaction index. 
+Brazil is moving towards a VBHC model by leveraging international experiences.
+3
+Risk-sharing arrangements in Denmark for knee replacement surgery provided a solid foundation for 
+supplying value-based healthcare to patients
+1
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+13
+Context
+Challenges
+What worked well?
+What was the value 
+generated?
+Further, the support of 
+MedTech vendors, e.g. a 
+leading knee implant 
+manufacturing 
+organisation in this case, 
+participated in open 
+dialogue meetings with 
+the clinical and 
+administrative team at the 
+hospital. These led to the 
+development of risk-
+sharing agreements as a 
+healthcare outcome-
+based payment 
+mechanism.
+Further, the method of 
+processing the data and 
+setting up the baseline 
+parameters in a 
+centralised database, 
+against which the post-
+VBHC initiative 
+implementation benefits 
+could be understood and 
+tracked seems to be a 
+matter needing collective 
+brainstorming.
+In terms of finances and 
+payment mechanism, the 
+prices of knee implants 
+were adjusted based on 
+their actual performance 
+Also, free revision 
+implants were done to 
+treat patients whose 
+cases exceeded the 
+maximum target value or 
+the supplier promised a 
+better revision 
+percentage, leading to 
+cost savings for the 
+hospital. 
+A leading hospital in 
+Geneva aimed to evaluate 
+a multifaceted behavioural 
+intervention that entailed 
+the monitoring of the 
+number of diagnostic tests 
+done and medicine 
+prescriptions made for the 
+patients by internal 
+medicine residents. The 
+purpose was to create 
+cost-related awareness 
+among the clinical team, 
+which could reduce the 
+hospital costs.
+While the study helped 
+create objectivity and cost 
+awareness among the 
+clinical team members 
+who are the internal 
+stakeholders, it also 
+helped the hospital to 
+demonstrate their 
+intention towards 
+adoption of VBHC to the 
+insurers (payers) that the 
+hospital should promote 
+continuous improvement 
+of outcomes by promoting 
+transparency and cost 
+effective care. 
+In a capitation model of 
+payment, where the 
+hospital is paid a fixed 
+amount for patient end-to-
+end interaction, initiatives 
+like this can help 
+ascertain the areas that 
+entail additional costs 
+associated with care 
+provision and help curb 
+them, resulting in savings 
+to the hospital within 
+the amount.
+One of the challenges 
+was that the data 
+extracted from the EMR 
+inadequately captured the 
+clinical circumstances 
+that led to the ordering of 
+a particular service, which 
+may be essential for 
+some patients.
+Additionally, the team was 
+unable to accurately 
+retrieve blood test costs 
+from the global laboratory 
+expenses database and 
+had to employ certain 
+proxy measures to arrive 
+at realistic assumptions.
+This study provided a 
+starting point for a further 
+assessment of the 
+influence of the initiative 
+in changing behaviour by 
+analysing the changes in 
+volume and cost 
+efficiency of services. On 
+a larger scale, this study 
+enhanced the hospital’s 
+awareness regarding the 
+cost of care principles, as 
+well as the avenues of 
+savings within the 
+capitation model. 
+This result could 
+potentially be helpful for 
+other hospitals having 
+capitation model 
+agreements with payers, 
+to investigate the entire 
+healthcare delivery chain 
+and recognise such 
+potential revenue 
+leakage areas.
+Hospital cost optimisation project in Switzerland ensures transparency between patients, providers and 
+payers, as well as highlights the missed benefits for providers.
+2
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+14
+India’s healthcare system faces critical barriers from the facets of public health expenditure, fragmented insurance 
+coverage and significant OOPEs. These issues culminate in deterring access to people from low-income categories to 
+quality healthcare. Since the population is continuously increasing, there’s a dire need to focus on providing affordable 
+and quality healthcare.
+03
+The need for transitioning to a VBHC model
+13 https://pib.gov.in/PressReleseDetailm.aspx?PRID=2058791
+14 https://pmc.ncbi.nlm.nih.gov/articles/PMC4655362/
+Enhancing patient outcomes
+The Indian healthcare system currently 
+depends on the traditional FFS model. 
+It incentivises service providers to 
+focus more on the quantity than the 
+quality of the services provided. Value-
+based healthcare helps shift the notion 
+from the quantity to the quality of the 
+care provided. Here, service providers 
+are incentivised to deliver healthcare 
+services with a focus on beneficial 
+health outcomes rather than on the 
+number of billable services.
+Cost-effectiveness
+The public health expenditure in India has steadily increased in the recent 
+years. However, it does not correlate with the health outcomes, which can 
+be attributed to the conventional FFS model in use. Healthcare providers 
+are paid for the number of services without accounting for the 
+corresponding outcomes. VBHC optimises health expenditure by aligning 
+payment milestones with patient-reported outcomes instead of the volume 
+of services rendered, paving the way for optimal resource utilisation. For 
+example, during in-hip replacement surgeries, by emphasising more on 
+the pre-surgical health assessments like managing weight, blood pressure 
+and sugar levels at optimal levels, the probability of requiring invasive 
+procedures can be reduced. This continuum-of-care approach leads to 
+quicker discharge, faster recoveries and minimises readmission rates and 
+post-surgical complications. 
+Insurance coverage
+In India, poor health insurance coverage has steadily increased the financial strain on patients. In such a scenario, the 
+government and private insurance schemes primarily focus on in-patient treatments, a hospital-based healthcare 
+system for severe medical conditions. However, out-patient care is more vital as regular health checkups, diagnostic 
+services and treatments for non-communicable diseases are often excluded from the insurance coverage. This 
+disparity in provision demands patients to bear the costs of routine health care, enhancing their OOPE. Currently, 
+OOPEs as a proportion of overall health expenses is 39.4%, higher than the global average.13 VBHC models 
+emphasise preventive healthcare strategies. By focusing on health outcomes rather than the quantum of services, the 
+VBHC model improves overall health outcomes and drastically reduces the frequency and severity of the illness. For 
+example, providing coordinated care for asthma patients, which includes health education and regular monitoring, can 
+result in better disease management and lower emergency admission rates. This ultimately reduces the OOPEs and 
+insurance claims.14
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+15
+15 https://pmc.ncbi.nlm.nih.gov/articles/PMC6567948/)
+16 https://pmc.ncbi.nlm.nih.gov/articles/PMC9104072/pdf/jcm-11-02435.pdf
+Chronic disease management
+Chronic diseases are a major factor causing disability 
+and premature death among the elderly population in 
+India.15 Currently, India has a triple disease burden 
+which includes rising NCDs, difficulty in controlling them 
+and those occurring due to climate change. In 2017, 
+~4.7 million deaths (49% of all-cause mortality) were 
+reported due to NCDs.16 The current FFS model does 
+not incentivise preventive care techniques, which are 
+essential for the management of chronic diseases. 
+Incorporating the VBHC model in this ensures that the 
+patient’s needs and requirements, as well as the 
+therapeutic goals, are covered in the treatment 
+landscape. For example, applying the VBHC approach 
+in diabetes management would aid in integrating an 
+ecosystem of healthcare providers like 
+endocrinologists, dietitians, diabetes educators and 
+primary care physicians, into an overall care team. This 
+team would work together in charting a comprehensive 
+treatment plan tailored to individual patient’s needs 
+and necessities.
+Data-based decision-making
+Fragmented IT integration poses significant challenges 
+in the seamless transfer of patient records across 
+primary, secondary, and tertiary healthcare facilities. 
+Slow-paced adoption of digital technologies in rural 
+areas limits the unification of electronic medical records 
+for resident patients. The absence of a central data 
+repository and lack of data analytics capability impedes 
+the effective capturing of healthcare outcomes for the 
+corresponding interventions applied. 
+This paucity of integration restricts government officials 
+from making policy decisions based on real-world 
+evidence. VBHC helps in the development of uniform 
+electronic medical records embedded with data 
+analytics capabilities to enable the continuous 
+monitoring of patient health outcomes, identify gaps and 
+suggest improvement measures.
+Achieving health equity
+India strives to enhance healthcare access to people of different socio-economic strata. VBHC models play a crucial 
+role in enabling healthcare access to people of the lower socio-economic strata, by phasing out incentives/payment 
+models in line with health outcomes achieved for each intervention/procedure. The model also ensures that the 
+population at the bottom of the economic ladder receive timely care and treatment, remarkably improving the overall 
+healthcare landscape.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+16
+Over the past few years, a few of the industry’s leading 
+stakeholders have begun to redefine their mission and 
+redesign the operating model to improve healthcare 
+value, emphasising patient-related health outcomes 
+related to the resources required or costs. This transition 
+is apparent in India’s healthcare landscape, where the 
+private and government sectors are working collectively 
+towards adopting a VBHC model.
+The government’s efforts to promote value-based 
+healthcare are further supported by initiatives such as the 
+National Health Stack and the National Digital Health 
+Blueprint. These strive to build a digital health ecosystem 
+which facilitates the implementation of value-based care 
+by generating data on the healthcare services provided 
+and patient outcomes. Public awareness initiatives and 
+educational training programmes are also being launched 
+to enhance awareness regarding precautionary care and 
+encourage patient engagement in their healthcare.
+The AB PM-JAY is the one of the important 
+developments of this transformation, as it aims to 
+transition the country’s healthcare sector from a volume-
+based to a value-based care system. This scheme is a 
+part of a broader strategy to ensure improved health 
+outcomes and quality-driven healthcare for the Indian 
+population, particularly the economically vulnerable.
+The framework of VBHC in PM-JAY is formulated to 
+upgrade the quality of healthcare services by focusing on 
+patient outcomes rather than the volume of services 
+provided. As mentioned in the VBHC Policy Document, 
+the NHA is entrusted with defining and boosting 
+healthcare value, ensuring that the healthcare system 
+contributes to national wellbeing by focusing on health 
+gains rather than short-term outcomes. 17 This approach 
+involves organising care around medical conditions, 
+systematically measuring outcomes and costs, and 
+incorporating healthcare delivery systems to provide 
+comprehensive, patient-centric care.
+04
+Building a foundation for VBHC's adoption 
+in India
+17 https://abdm.gov.in:8081/uploads/VBHC_Policy_Document_For_Upload_a20f871a55.pdf
+The need for enhancing VBHC within PM-JAY is driven 
+by the challenges faced by the Indian healthcare system, 
+including the triple burden of disease, high OOPEs and 
+the necessity for financial protection against catastrophic 
+health expenses. By concentrating on value, the PM-JAY 
+aims to improve healthcare outcomes, reduce the 
+associated expenditure and provide financial support to 
+the population.
+The timeline for the implementation of value-based care 
+initiatives under PM-JAY includes several key milestones 
+in the last decade.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+17
+18 Ibid
+Figure 4: Timeline of VBHC in India
+Introduction of the 
+Comprehensive 
+Primary Health 
+Care (CPHC)
+DRG Based 
+Payments
+Establishment 
+of Quality Cells 
+and checklists
+Continuum of 
+care approach
+2017
+2018
+2021
+2022
+National Health 
+Tech Stack
+National Digital 
+Health Blueprint
+2022
+2022
+Value based 
+incentives
+HeFTA Unit
+Day care/follow 
+– up packages
+Location 
+linked HBP 
+pricing
+Source: https://abdm.gov.in:8081/uploads/VBHC_Policy_Document_For_Upload_a20f871a55.pdf
+The introduction of the CPHC in 2018, covering both maternal and child health services as well as non-transmissible 
+diseases, including free essential drugs and diagnostic services, the ABDM in 2021, the establishment of quality cells 
+and checklists in 2021, day-care follow-up packages, location-linked HBPs and the proposed implementation of DRG-
+based payments, a continuum-of-care approach in 2022 are a part of this timeline. These programmes aspire to create a 
+comprehensive digital infrastructure, enhance quality assurance and refine provider payment systems to support value-
+based care.18 Monitoring the performance of healthcare providers is a critical component of the VBHC model. The use of 
+VBIs to measure this focuses on patient outcomes and satisfaction. This approach aims to incentivise providers to deliver 
+high-quality care and improve outcomes.
+The incorporation of VBIs into PM-JAY involves incorporating these measures into the hospital empanelment module and 
+transaction management system. This integration will enable the calculation of financial incentives based on provider 
+performance, encouraging healthcare providers to focus on delivering value to the patients. A public dashboard will also 
+be developed to display provider performance, promoting transparency and accountability.
+In addition to government initiatives, the private sector is also contributing to the adoption of value-based care in India. 
+PPPs have been established to provide mobile health clinics, telehealth services and health insurance schemes, 
+enhancing access to care for deprived populations and improving health outcomes. Successful case studies, like a 
+private multispecialty hospital’s value-based model and a regional healthcare centre’s Chronic Care Programme, 
+demonstrate the potential of value-based care in enhancing patient outcomes and reducing healthcare costs.
+In conclusion, India’s journey towards embracing a VBHC model is supported by a comprehensive framework under the 
+PM-JAY, emphasising the need for enhanced care quality, patient outcomes and financial protection. The integration of 
+VBIs, benchmarking and public–private partnerships are crucial for this transition, guaranteeing an improved, efficient 
+and patient-centred healthcare system.
+20.00%
+23.33%
+27.50%
+29.17%
+Inefficient allocation of
+resources
+High levels of patient
+dissatisfaction
+Escalating healthcare costs
+Poor healthcare outcomes
+Figure 5: What are all challenges which a VBHC model can effectively address in the 
+Indian context?
+Source: PwC analysis
+As per the survey, 53% of the respondents believed that the VBHC model could address problems like poor healthcare 
+outcomes and high levels of patient dissatisfaction which necessitates the need for an alternate model which focuses 
+more on patient centricity and care delivery outcomes. 
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+18
+Setting quality metrics and assessment criteria in a VBHC is vital for achieving better health outcomes and ensuring 
+patient satisfaction and cost efficiency. The criteria can also help providers take responsibility for their actions and make 
+informed decisions since the framework:
+•
+provides a basis for assessing the performance of various healthcare providers and systems to make it possible to 
+learn from the most successful ones
+•
+ensures that health care professionals make appropriate and informed decisions that empower patients and improve 
+the treatment results
+•
+sets standards of patient care that providers must comply with to be considered excellent within the health system
+•
+quality metrics provide essential data to patients and healthcare payers which aids in choosing alternatives.
+Quality measures can be categorised into the following categories:
+05
+Defining quality measures and standards 
+Focus on the 
+outcomes that 
+patients should 
+expect from their 
+treatment, such as 
+improved health, 
+reduced symptoms 
+and decreased 
+re-admissions.
+These measures play a critical role in ensuring that healthcare delivery enhances outcomes while maintaining cost-
+effectiveness. Moreover, there are several incentive structures and outcome-based payment models linked to the 
+implementation of quality measures. Financial incentives are provided to healthcare providers who meet or exceed 
+specific quality benchmarks, thereby rewarding high-quality care. The alignment of incentives with quality measures 
+further motivates healthcare organisations to prioritise and enhance the value of the care provided to patients.
+Clinical 
+measures
+Cost 
+measures
+Process
+ measures
+Patient-
+experience 
+measures
+Care 
+efficiency 
+measures
+Estimate healthcare 
+costs and explore 
+ways to make it 
+more affordable, 
+including insurance 
+options.
+Cover aspects such 
+as safety, 
+cleanliness and 
+infection control.
+Consider the 
+patient’s 
+perspective, these 
+involve data directly 
+reported by patients 
+about their health 
+status, multichannel 
+experiences and 
+satisfaction with 
+care (e.g. patient 
+satisfaction 
+surveys).
+Monitor the 
+utilisation of 
+resources, 
+minimise 
+unnecessary tests 
+and optimise 
+care pathways.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+19
+Figure 6: Please rank the following quality measures in order of priority for a VBHC model in 
+India, with 1 being the most important and 5 being the least important?
+Source: PwC analysis
+Patient Health Outcomes
+Adherence to Clinical Guidelines
+Patient Safety Indicators
+Coverage of Patients with Insurance …
+Healthcare Spending (Cost per outcome)
+1
+2
+3
+4
+5
+Patient health outcomes
+Adherence to clinical guidelines
+Patient safety indicators
+Coverage of patients with 
+insurance (Public/Private)
+Healthcare spending (cost per outcome)
+The survey highlights the need for quality measures where the primary quality measure should be linked to patient 
+health outcomes, adherence to clinical guidelines while also including measures related to patient safety indicators and 
+insurance coverage. 
+Clinical measures
+Clinical measures in value-based healthcare focus on assessing the quality, efficiency and effectiveness of patient care 
+to ensure better outcomes and reduce overall healthcare costs. Different ways to track clinical outcomes comprise:
+1. Patient-centred care: Providing treatment plans which suits the individual patient’s needs and considers their 
+preferences and values. Some examples include incorporating shared decision-making for devising treatment plans 
+and providing plans that embrace the patient’s life circumstances, such as work-related limitations.
+2. Readmission rates: Focus on the reduction in readmission rates by providing coordinated care and ensuring a 
+properly planned hospital discharge. The following activities can attain this outcome, which include imparting proper 
+education to patients during the discharge and implementing follow-up protocols for discharge such as planning a 
+home visit or phone calls.
+3. Care transition: Ensure a smooth transition between the various care settings, to support the speedy recovery of 
+patients. Some of the ways to ensure this include providing clear instructions to the patients about medications, 
+precautions and follow-up appointments during the discharge.
+4. Symptom management: Ensuring that the providers manage the physical and psychological symptoms of the 
+patients to improve the quality of care. Screening the patient for mental health conditions and implementing pain 
+management protocols are some of the methods through which the providers can manage such symptoms.
+5. Chronic disease management: Focus on consistent monitoring and treatment for the effective management of 
+chronic diseases and the prevention of complications. Some examples include regular monitoring of blood pressure 
+for patients suffering from hypertension, implementation of disease management programmes, etc.
+Several organisations around the world have laid down different standards to ensure that the above clinical standards 
+are consistently being followed. WHO has framed guidelines related to health promotion, infection control and patient 
+safety for improving the overall quality of patient care. IHI, a global non-profit organisation has put forth frameworks 
+focusing on cost reduction, community health and enhancing the patient care experience. NQF, another non-profit 
+organisation has laid down quality benchmarks to achieve better clinical outcomes.
+By integrating these KPIs, healthcare providers can identify the gaps in care, ensuring timely interventions which prevent 
+complications and improve long-term health outcomes. Preventive care KPIs can help in early detection and disease 
+prevention allowing healthcare providers to allocate resources more effectively. Clinical process measures can help 
+enhance healthcare coordination ensuring seamless transitions between primary, secondary and post-acute care, which 
+can reduce fragmentation in the healthcare delivery. Additionally, tracking these KPIs facilitates performance-based 
+reimbursement models and aligning provider incentives with patient outcomes rather than service volume.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+20
+Cost measures
+In the evolving healthcare landscape, a persistent challenge has been increasing healthcare costs which exerts 
+tremendous financial burden on patients. Cost measures in the VBHC landscape address methods to curtail exorbitant 
+treatment costs and improve healthcare accessibility to people of all economic classes.
+The government plays a major role in regulating these expenses. In India, under initiatives like Ayushman Bharat, the 
+NHA introduced the Health Financing and Technology Assessment (HeFTA) to ensure value for money in the PM-JAY 
+initiatives. The HeFTA unit will inform decision points on the inclusion or exclusion of certain procedures and treatments 
+within the health packages by utilising the evidence of cost-efficient health technologies. HeFTA also provides inputs for 
+baselining the prices of new technologies proposed for the health benefit package (HBP), resulting in the regulation of 
+these prices and ensuring that healthcare providers are not burdened with excess expenditure.
+The PM-JAY initiative also prioritises transformation from a traditional health care payment model to a new diagnosis-
+related group model, where the physicians are incentivised and reimbursed based on the case severity. This approach 
+disincentivises the recommendation of superficial treatment in severe cases by healthcare providers. The AB PM-JAY 
+scheme will also incentivise the hospitals associated, based on the extent of the OOPE of patients, reducing the 
+healthcare cost burden on the patients.19
+The different cost measures being implemented in VBHC settings are:
+19 https://pmc.ncbi.nlm.nih.gov/articles/PMC5116537/
+Healthcare bundles: The release of healthcare 
+bundles involves charging patients for a 
+comprehensive treatment plan rather than for each 
+service. This method usually helps curtail potential 
+additional expenses due to unplanned 
+complications, ensuring that the patients are not 
+overcharged.
+A few KPIs that help track the cost measures of a VBHC model are:
+•
+Cost of care: Total expenses incurred by a patient for receiving medical services.
+•
+OOPEs: The proportion of healthcare expenditure which is not covered by insurance and has to be paid by 
+the patients.
+•
+Insurance claim rates: Prevalence and number of claims filed by policyholders to recover medical costs 
+from insurers.
+By setting the target values for these KPIs as well as monitoring the healthcare providers and insurers can corroborate 
+that the financial incentives in the healthcare systems are aligned to reducing the patients’ expenditure and emphasise 
+more on the value delivered.
+Process measures
+Process quality standards in the value-based care setup ensure that efficient, equitable and effective healthcare is 
+delivered while ensuring overall outcomes. The key aspects related to process quality include ensuring overall patient 
+safety; maintaining a clean and hygienic environment for promoting patient wellbeing; implementing protocols to control 
+the infection; respecting the individual needs of a patient; and maintaining staff competency to name a few.
+Some of the OKRs related to patient safety that can be leveraged under value-based care include a reduction in 
+nosocomial infections and adverse drug events, continuous monitoring of preventable mortality, and collecting 
+patient feedback related to safety. Hospitals can be incentivised to maintain these outcomes for reimbursements. 
+Certain standards that can be referred to define the quality measures within the organisation include the 
+NPSGs by the JCI. The standards cover aspects like improving medication safety, prevention of harm from falls and 
+ensuring safe surgery, to name a few. Various strategies for monitoring patient safety include the establishment of an 
+Incident Reporting System, where staff can report adverse events and near misses to ensure greater transparency. 
+Tools like EHRs can also be leveraged for real-time monitoring of patient safety and flagging potential issues.
+Transparent pricing: Providing transparent cost 
+estimates for procedures and care episodes, through 
+utilising available tools and resources.
+Value-based payment: Value-based payment 
+helps ensure that the payment is directly linked to 
+quality and effectiveness rather than the volume of 
+care. It aims to ensure that the money spent by 
+the patients directly reflects the actual value of the 
+care received.
+Insurance coverage: Insurance plans in value-
+based care focus on improving patient outcomes by 
+advocating cost-effective care plans and preventive 
+treatments, ultimately aiming to control the overall 
+healthcare costs.
+1
+2
+3
+4
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+21
+Hospitals and clinical staff should also ensure that cleanliness is maintained to boost the overall patient care quality. 
+Regular hospital assessments include ensuring that all the surfaces are cleaned and rooms are disinfected. For the 
+clinical staff, hand hygiene compliance rates must be monitored to prevent infections. Providers can be penalised if the 
+standards are not being adhered to. WHO, CDC and the MoHFW have laid down healthcare cleaning and disinfection 
+guidelines which can be accessed by hospitals to maintain cleanliness per requirements. Some of the ways to monitor 
+cleanliness include routine environmental audits that include scheduled and random ones. Additionally, technology such 
+as UV lights can also be leveraged to check the sanitation levels of various surfaces.
+Hospitals should also set up quality-related standards to control nosocomial infections by maintaining proper vaccination 
+rates among the clinical and administrative staff for preventing flu and other preventable infections. Quality metrics such 
+as monitoring of hospital-acquired infections by the continuous observation of surgical site infections, pneumonia, urinary 
+tract infections, etc should also be in place. Providers will be incentivised to maintain these standards; the more 
+accurately the standards are upheld, the more they are compensated. Healthcare providers can leverage the IPC 
+guidelines, set by bodies such as WHO, CDC and the National Centre for Disease Control, India to prevent the spread of 
+such infections. Additionally, isolation protocols must be applied to patients suffering from infectious diseases. Various 
+monitoring approaches include the establishment of a surveillance system, which can be integrated with the EHR of the 
+patients providing real-time alerts to the hospital administrator. There should also be Infection Control Committees within 
+the hospital, which regularly conduct periodic infection audits, review the infection data and update the protocols to meet 
+the evolving needs.
+The above quality metrics related to safety, cleanliness and infection control can be directly tied to reimbursement and 
+financial incentives for achieving the VBHC. An outcomes-based payment model can be developed where providers are 
+reimbursed if they achieve the desired cleanliness standards or improve the patient safety scores. Patient satisfaction 
+surveys can also be employed which can link cleanliness and safety perceptions to reimbursements. Defining these 
+quality metrics is critical for improving the overall patient outcomes and financial implications, making them essential for 
+the success of VBHC in India.
+Patient-experience measure
+Patient-experience measures are indicators which evaluate the performance of healthcare systems from the patient’s 
+perspective. These measures have become increasingly crucial as healthcare shifts towards value-based care, which 
+prioritises patient outcomes and satisfaction rather than just the volume of services provided.
+These measures evaluate areas such as ease of communication between healthcare providers with patients, effective 
+care coordination, ease of access to services by patients and the condition of the healthcare environment. For example, 
+good communication helps patients better understand their diagnoses and choose treatment options. Efficient 
+coordination among healthcare providers ensures that the care provided is seamless. Access to healthcare, including 
+the easy scheduling of appointments and receiving timely services, along with a clean and comfortable environment, 
+significantly impacts the patient’s perception of their care. Additionally, involving patients in their healthcare decisions 
+and ensuring their overall satisfaction is vital, as those who actively participate in their care tend to report higher levels 
+of satisfaction.
+A few KPIs which can help track this measure are:
+By measuring both clinical and patient-experience metrics, healthcare providers understand the quality of care delivered, 
+identifying areas where improvements can be made beyond just clinical outcomes. Integrating these KPIs into provider 
+performance evaluations incentivises clinicians to prioritise patient satisfaction. Financial incentives in models such as 
+pay-for-performance and shared savings programmes directly link provider reimbursement to the patient-experience 
+outcomes so that providers prioritise and improve patient interactions and satisfaction. High performance on these 
+measures not only ensures financial rewards but also reputation and market share as positives that lead to enhanced 
+patient loyalty and better quality ratings.
+Increase in-patient satisfaction levels- Surveys and 
+feedback tools assess patient experiences and 
+satisfaction, focusing on the healthcare providers’ care 
+quality and communication skills.
+NPS: Measures the likelihood of a patient recommending 
+the provider to others.
+PROMs: A standardised questionnaire is used, where 
+patients answer questions about their symptoms, 
+functional abilities and quality of life, providing a 
+numerical score that reflects their subjective experience 
+of their health condition.
+Patient wait time: Average time a patient spends 
+waiting to see a provider.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+22
+Figure 7: What benefits do you anticipate from the implementation of VBHC in India? 
+(in percentage) 
+Source: PwC analysis
+The survey highlights the potential benefits of a VBHC model which 
+primarily focuses on Improved patient health outcomes, reduction in overall 
+healthcare costs and increased patient satisfaction.
+Care efficiency measures
+The cornerstone of VBHC is a measurement of ‘value’, be it qualitative or 
+quantitative. Such a measurement in terms of care efficiency should include 
+objective metrics that are the most reasonable indicators of care efficiency 
+among healthcare providers, ultimately reflecting in the patient outcomes. 
+While it is clear that there could be a multiplicity of performance indicators 
+for different aspects of care efficiency, the healthcare provider could 
+customise the most relevant quality indicator based on the service provided.
+Some examples of the care efficiency performance indicators are:
+31%
+25%
+27%
+16%
+1%
+Improved patient health outcomes
+Reduction in overall healthcare costs
+Increased patient satisfaction
+Enhanced resource management and efficiency
+Other
+Definition and purpose
+Example
+Digital integration possibilities
+LOS refers to an umbrella of 
+indicators measuring the time taken 
+from admission to discharge, which 
+is typically calculated as an average 
+of all data collected over a month 
+but can also be specific to the types 
+of care provided e.g. ICU and non-
+ICU. While LOS has both clinical 
+care efficiency and cost 
+implications, as VBHC capitation 
+models can be linked to the total 
+cost of care incurred by the hospital.
+LOS can be easily extracted from 
+the HIS using easily downloadable 
+and customisable reports having 
+admission, shifting and discharge 
+dates.
+For example, in the cardiac 
+intervention PTCA, based on 
+various studies, the usual LOS is 
+one day in ICU, followed by two 
+days in the non-critical ward, with 
+discharge on the fourth day.
+Any deviation from these targets is 
+to be documented, analysed and 
+discussed in relevant quality-related 
+forums across the hospital. 
+Deviations from these set targets 
+could be exacerbated by 
+comorbidities or complexities. 
+However, these should be 
+documented before being classified 
+as outliers.
+LOS
+1
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+23
+Definition and purpose
+Example
+Digital integration possibilities
+These refer to a plethora of 
+indicators that measure the cases of 
+infections occurring in the patient 
+attributed to the care provided e.g. 
+hospital-acquired infections, SSIs, 
+CAUTIs, thrombophlebitis 
+(particularly those caused by 
+infections), etc. These not only have 
+clinical care efficiency but also cost 
+implications that affect the VBHC 
+capitation model income 
+efficiencies.
+CAUTIs can be tracked by 
+adequate utilisation of relevant ICD 
+codes fed into the HIS.
+For example, the infection rates 
+imply the potential of prolonged 
+stay, diagnostic tests and 
+medication load as cost factors, but 
+also a return to the hospital for 
+treatment of illnesses arising from 
+the previous stay. A CAUTI would 
+merit additional tests for the 
+isolation of the causal organism, 
+additional medications for 
+symptomatic and targeted 
+treatment, as well as 
+prolonged stay.
+This is a self-explanatory but 
+specialised indicator which 
+represents the efficiency of clinical 
+practice concerning the caregivers 
+themselves. The intent is to 
+document, analyse, discuss and 
+revamp the number of avoidable 
+pathology and radiology tests 
+prescribed, as well as those that 
+have a direct cost implication.
+Targeted prescriptions audits can 
+be performed through HIS 
+requests/EMR entries for particular 
+ICD codes.
+For example, a case study relevant 
+to this aspect is presented in 
+Section 2 of this report where, 
+using specialised skill sets and 
+technology support, the 
+prescriptions handed out by junior 
+healthcare providers were assessed 
+to establish the merit of these 
+diagnostic and therapeutic 
+interventions. The results revealed 
+common loopholes and 
+unnecessary prescriptions, which 
+have a cost implication, ultimately 
+compromising revenues.
+These indicators measure the 
+spectrum of care provision 
+inefficiencies linked to re-do 
+surgeries and procedures, 
+re-intubations or even readmissions 
+due to variations in care delivery 
+outcomes. These also have clinical 
+and cost implications.
+Repetition of services can be 
+tracked utilising targeted reports in 
+HIS/EMR using the patient IDs and 
+dates of admission/surgery.
+For example, as seen in the case 
+study in chapter 2 of the report, An 
+overview of VBHC’s adoptionin the 
+case of implant-based surgeries, 
+where deviations in planned 
+outcomes occur primarily due to 
+either structural or functional faults 
+in the implant, these cases need to 
+be captured and compared with 
+baseline indicators of success 
+which are historically assessed by 
+the implant vendor. Due to 
+confidence in implant performance, 
+vendors have commonly entered 
+into risk-sharing mechanisms with 
+healthcare providers to ensure that 
+the payer is not burdened with the 
+expenditure of the re-done surgery.
+Infection rates
+2
+Percentage of cases with additional irrelevant diagnostic tests
+3
+Repetition of service
+4
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+24
+Definition and purpose
+Example
+Digital integration possibilities
+This self-explanatory indicator 
+ascertains the rate of patients who 
+died after the planned treatment 
+was provided.
+While this is an aspirational 
+indicator when it comes to VBHC, 
+the path to progress should ideally 
+consider mortality as an 
+encouragement for providers to 
+focus and plan strategies for 
+controlling mortality and thus 
+improve patient care.
+There can be incentives planned by 
+payers for the providers who have 
+reduced the mortality rates as a part 
+of care provision.
+Mortality can be tracked by 
+employing targeted reports 
+consisting of ICD codes and 
+death dates.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+24
+Mortality rate
+5
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+25
+06
+How technology can act as an enabler 
+for VBHC
+Technology plays a crucial role in the 
+implementation of VBHC. Technology integration 
+with healthcare systems has now become vital for 
+the implementation of VBHC, where patient 
+outcomes, satisfaction and cost efficiency take 
+centre stage. Innovative tools like EMR and HIE 
+have enabled care coordination by enabling 
+seamless data sharing across different healthcare 
+providers. AI/ML models and advanced analytics 
+help predict patient risks and support prompt 
+interventions, addressing complex health 
+challenges. Telehealth platforms, wearables and IoT 
+devices help providers monitor patients remotely, 
+while cloud storage helps secure data sharing and 
+storage in real time. These advancements not only 
+streamline operations but also enable efficient, cost-
+effective and patient-centric care, which are the core 
+principles of VBHC.
+VBHC can be divided into multiple stages and each 
+stage requires a separate technology as an enabler. 
+The diagram below illustrates the various stages, 
+highlighting key processes that are critical for the 
+implementation of VBHC. Additionally, it outlines 
+various technology interventions used at each stage 
+such as EHR, telehealth platforms, AI-driven 
+analytics and compliance tools.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+26
+Figure 8: Tech-enablement across VBHC’s value chain
+Technological interventions
+Digital front door:
+•
+Patient portals
+•
+Telehealth platforms
+•
+Mobile health apps
+•
+Online appointment 
+scheduling
+•
+Remote patient 
+monitoring devices
+•
+Chatbots 
+•
+EMR workflow 
+management
+•
+HIS for operational 
+workflow management
+•
+HIE (Health 
+Information Exchange)
+•
+Common 
+interoperability 
+standards
+•
+AI enabled 
+summarised clinical 
+notes 
+•
+360-degree 
+assessment tools
+•
+Patient engagement 
+platforms
+•
+Provider 
+performance 
+dashboards
+•
+Hospital performance 
+analytics
+•
+EHRs
+•
+Patient generated 
+health data 
+(wearables, apps)
+•
+IoT-enabled 
+medical devices
+•
+Pharmacy data
+•
+Claims and billing 
+data
+•
+HIS
+Workflow and technology
+Data management
+Provider and patient 
+engagement
+Performance 
+management
+Enhancing 
+communication and 
+interaction between 
+healthcare providers and 
+patients to ensure 
+effective treatment plans 
+and patient adherence
+Monitoring and 
+evaluation of healthcare 
+delivery performance to 
+improve patient 
+outcomes and align with 
+value-based care 
+objectives
+Optimisation of healthcare 
+processes and workflow 
+by leveraging technology 
+to enhance efficiency and 
+coordination among 
+healthcare providers
+Collections, storage 
+and management of 
+patient and healthcare 
+data to ensure 
+accuracy and 
+accessibility for 
+informed decision-
+making
+Technology
+Description
+1
+EHRs
+EHR systems act as a digital repository containing important health-related 
+patient data like medical history, medications, vitals, lab results, 
+immunisations, etc. 
+2
+HIE
+HIE systems allow the secure exchange of sensitive patient information across 
+healthcare providers and institutions, ensuring coordinated and patient-centric 
+treatment.
+3
+Wearables and IoT devices
+Wearables and IoT details can help patients track many vitals like health rate, 
+physical activity, sleep patterns and even glucose levels. These real-time health 
+data and patterns help patients take preventive measures and proper care of 
+their health.
+4
+Patient portals 
+These portals allow patients to check their health records, access medication 
+prescriptions, enable them to coordinate with healthcare providers, book 
+appointments and actively engage in their healthcare journey by understanding 
+their test results, diagnostic reports and treatment plans.
+5
+Clinical decision support 
+systems
+CDSS systems have a vast knowledge base, which is used by the providers to 
+deliver patient-specific recommendations, thereby aiding in clinical 
+decision-making.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+27
+•
+RCM 
+•
+Financial 
+analytics software
+•
+Cost 
+management 
+tools
+•
+Business 
+intelligence tools
+•
+Predictive 
+analytics
+•
+Data visualisation 
+platforms
+•
+Reporting 
+software
+•
+Compliance and 
+reporting tools
+•
+Security and 
+privacy 
+management 
+systems
+Audit and 
+compliance
+Analytics and 
+reporting 
+Actuarial and finance
+Ensuring adherence 
+to healthcare 
+regulations, 
+standards and 
+policies to maintain 
+quality and avoid 
+penalties
+Analysing healthcare 
+data to assess costs, 
+quality/care 
+disparities, provider 
+accountability and 
+service utilisation for 
+value-based care 
+optimisation
+Managing financial 
+aspects of VBHC, 
+including payment 
+models, cost 
+management, risk 
+assessment and 
+financial sustainability
+Source: PwC analysis
+Technology
+Description
+6
+Telemedicine
+Telemedicine platforms enable patients to access healthcare remotely via video 
+and voice calls. Telemedicine plays a vital role in providing healthcare access 
+to all, especially to people who live in remote areas where there is a lack of 
+healthcare infrastructure.
+7
+Advanced data analytics
+These tools help analyse massive amounts of healthcare data to identify 
+patterns, predict outcomes and inform clinical and operational decisions.
+8
+Dashboards
+Dashboards provide a simplified view of all the KPIs and metrics in the form of 
+bar charts and graphs. With their help, providers can track different patterns 
+and trends to monitor performances, ascertain outcomes and make informed 
+decisions.
+9
+RCM systems
+RCM systems improve the financial performance of healthcare organisations by 
+streamlining billing, claim processing and payment workflows/processes. RCM 
+manages financial interaction among key stakeholders, including healthcare 
+providers, patients, payers and regulatory bodies.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+28
+13.59%
+14.13%
+14.67%
+17.39%
+20.11%
+20.11%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Creation of platforms like sandboxes that allow for testing
+and developing of digital health solutions in a controlled
+environment
+Patient records pertaining to remote healthcare services,
+should be consolidated with EHR to enhance access to
+continuum of care
+Development of digital platforms that empower patients with
+information and tools to manage their health effectively
+Utilisation of data analytics to derive insights for improving
+patient outcomes and operational efficiencies
+Development of HIE and data integration platforms to enable
+interoperability and seamless data exchange
+Implementation of standardised EHRs for seamless data
+sharing and care coordination
+Source: PwC analysis
+According to the survey, the implementation of VBHC will be a standardised EHR (HIE and data integration platforms) 
+which will enable interoperability and seamless data exchange.
+Figure 9: What are the necessary technological interventions required to advance 
+value-based healthcare in India?
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+28
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+29
+Figure 10: Suggested data architecture
+Healthcare 
+providers 
+(hospitals, 
+clinics, 
+physicians)
+Patients
+Technology 
+vendors
+Research 
+institutions
+Payers 
+(insurance 
+companies, 
+government 
+programs)
+Regulatory 
+bodies
+Data sources
+Data 
+acquisition
+Data storage and transformation
+Data access
+Reporting 
+and analytics
+Digital foundation 
+Outcomes and metrics: Patient satisfaction and engagement scores, health outcomes and quality of care metrics, 
+cost effectiveness and efficiency metrics, access to care and equity metrics
+Data quality, data governance and security
+EHRs
+Patient 
+generated health 
+data (wearables, 
+apps)
+IoT-enabled 
+medical devices
+HIS
+Social 
+determinants of 
+health data
+Clinical trial data
+Claims and 
+billing data
+Pharmacy data
+Data integration 
+platforms
+APIs for 
+healthcare 
+interoperability 
+(e.g. FHIR)
+Mobile and web 
+applications for 
+patient data 
+input
+Remote 
+monitoring 
+systems
+HIEs
+Access to data 
+from single 
+source of truth 
+(enterprise data 
+lake) to enable 
+external and 
+internal reporting 
+and self-service 
+analytics
+(HIPPA , HL7 
+guidelines to be 
+followed)
+Cost reporting
+Utilisation 
+reporting
+Patient provider 
+attribution data
+Configurable 
+dashboards 
+Usage tracking 
+and
+operational 
+reporting
+Ad-hoc analytics 
+Performance 
+trends and 
+benchmarking
+Quality/care gap 
+reporting
+Cloud-based data 
+lakes/warehouses
+Data 
+cleaning and 
+standardisati
+on tools
+Data 
+anonymisati
+on and 
+deidentify-
+cation 
+processes
+Analytics layer
+Care/quality 
+gap analysis
+Health data 
+modeling
+VBHC Stakeholders
+Source: PwC analysis
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+30
+A framework has been developed to effectively manage and utilise healthcare data, which will help optimise healthcare 
+delivery and improve patient outcomes. It is based on five main pillars to ensure that the data is effectively collected, 
+integrated, stored, accessed and analysed. These pillars are:
+Data sources: This pillar focuses on identifying 
+foundational sources of raw patient and healthcare data 
+that can be applied for the calculation of different 
+metrics such as patient health outcomes, healthcare 
+cost, quality of care and others important for the 
+successful implementation of VBHC. Various sources 
+such as EHRs, patient-generated data from wearables 
+and apps, IoT-enabled devices and HIS, can be 
+considered for VBHC analytics and reporting purposes.
+Data acquisition: During data acquisition, different 
+processes and technologies are employed to collect and 
+integrate data from various sources, which are identified 
+in the first stage. Technologies and standards like data 
+integration platforms, APIs, ETL, FHIR, and HL7 can be 
+used to gather data from the identified sources into a 
+cohesive and usable format. Once the data is gathered, 
+it is stored in a single platform/server for further 
+processing.
+Data storage and transformation: All data after 
+acquisition is securely stored in one place (Enterprise 
+data lake, cloud storage or on-premise databases) for 
+further processing. Techniques such as data 
+anonymisation and deidentification are used to protect 
+patient privacy, while data cleaning and standardisation 
+ensure data quality. Once the data is clean and 
+standardised, it goes through the analytics layer for 
+health data modelling and care/quality gap analysis.
+Data access: This stage ensures secure and 
+standardised access to transformed data to all the 
+relevant stakeholders including physicians, hospital 
+administrators, insurers and policymakers. This involves 
+a single source of truth, like an enterprise data lake, 
+cloud storage or on-premise server, while maintaining 
+compliance, security and privacy standards such as 
+HIPAA and HL7.
+Reporting and analytics: The final pillar focuses on 
+fetching the data from a single source of truth to 
+comprehensively analyse and provide reports on 
+various metrics such as cost reporting, quality/care gap 
+reporting, utilisation reporting and more. By leveraging 
+advanced analytics, configurable dashboards can be 
+created to provide real-time insights. Additionally, 
+performance benchmarking can also help stakeholders 
+monitor, compare and evaluate healthcare processes, 
+driving improvements in care quality and efficiency.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+31
+07
+Challenges in adopting VBHC in India
+1. Low awareness regarding VBHC in India amongst policy makers and providers
+While the concept of VBHC is gaining traction globally, with various examples of country-wide policy level as well as 
+institution and programme-specific interventions as seen in the case studies presented, the same is not necessarily 
+true in the Indian context.
+Sectoral analysis and stakeholder interviews reveal that the government has only initiated strides towards the 
+implementation of certain concepts of VBHC with the PM-JAY scheme and ABDM.20
+The private sector, however, has seen far lower traction. The FFS model seems to be the primary healthcare cost 
+reimbursement scheme along with volume-based payment in certain cases. There seems to be a negligible 
+investment of thought into the quantification of the costs linked with various delivery aspects of the value chain, hence 
+allowing easily concealed loopholes in care delivery practices to thrive for long periods.
+38%
+46%
+12%
+4%
+VBHC is not being actively pursued in India at this time
+Efforts to adopt VBHC are minimal, with little progress
+beyond initial discussions
+Initial steps towards VBHC adoption are being taken,
+but widespread implementation is still limited
+Significant strides have been made towards VBHC
+adoption, with many successful pilot programs and
+increasing provider engagement
+Figure 11: Where do you think India currently stands in terms of adopting VBHC?
+The survey highlights that there is limited awareness amongst the respondents regarding VBHC as a concept, therefore, 
+minimum efforts are made towards its adoption.
+Source: PwC analysis
+20 https://esanjeevani.mohfw.gov.in/assets/guidelines/ehr_guidlines.pdf
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+32
+2. Varying degrees of maturity HIS and EMR systems among Indian providers 
+One of the key challenges in India’s current private healthcare system is the varying degree of maturity in hospital 
+HIS and EMR. The HIS an EMR systems of seasoned private hospitals are much more capable in the collection, 
+classification, storage and retrieval of complex data. One of the reasons for this could be the keenness of these 
+hospitals to ensure tech-supported quality healthcare, driven by specially appointed individuals who have a diverse 
+analytical skill set to analyse data and visualise its benefits. The HIS/EMR procurement teams of smaller and 
+standalone hospitals often cannot assess and quantify future benefits objectively, hence stunting or even jeopardising 
+the spectrum of the HIS/EMR outputs of any hospital.
+Additionally, the constant challenge of the perceived initial cost of a capable IT system is still prevalent. This 
+perception is fuelled by a low view of the uses of the processable outcome-related information to the organisation, a 
+rather suppressed intellectual block of purchasing solely based on a low initial cost as compared to its lifetime 
+benefits, also known as L1 procurement. There seems to be a lack of comprehensiveness in the cost–benefit analysis 
+hence causing a chasm between the existing practice and hospitals of the future.
+The NABH Digital Health standards would also be an effective tool for ensuring the maturity of the HIS/EMR of the 
+healthcare providers, as they are an eye opener to the myriad benefits that a capable HIS/EMR can provide.
+3. Lack of reliable local baseline quality indicator data for policy makers and providers
+There are various examples across the globe where countries are making conscious efforts to conduct research into 
+capturing the performance data of the processes and products used, to establish a baseline. The baseline data 
+encompasses relevant aspects of the current healthcare delivery value chain and is prepared with the key intention of 
+benchmarking outcomes of all process and product improvements. Countries with national insurance schemes, have 
+the data available on national platforms accessible to all enrolled providers. Instances of MedTech vendors 
+preserving and providing data on the performance of their products are also available, thus assisting healthcare 
+providers to quantitatively assess the performance of these products against the baseline data. This quantitative and 
+objective analysis can ultimately translate into informed decisions in terms of investment in quality of care, as well as 
+robust risk-sharing mechanisms with vendors who partner in care provision.
+However, in this regard, the Indian scenario lacks the availability of a national quality indicator baseline database. 
+There might be certain research papers published by a few organisations that are invested and interested; however, 
+these are only available for specific new interventions and are in smaller cohorts in certain pockets of the country. It is 
+a constant debate whether these research papers can be used to represent the whole of the Indian diaspora, thus 
+only partially mitigating the conundrum.
+4. Resistance from providers for capturing and publishing sensitive quality outcomes data 
+Due to the lack of available regional outcomes data, there is an underlying resistance among care givers as well as 
+healthcare provider institutions to publish the quality-of-outcomes data accessible to other organisations. It could be 
+due to an apprehension that this may affect the reputation of the institution, as well as the caregivers who work there. 
+This perceived violation of privacy has been a consistent topic of debate as well as one of the major impeding factors 
+towards VBHC implementation in the country. Healthcare providers generally advertise aspects of their services, 
+including niche treatment modalities, infrastructural capabilities and the number of surgeries done across specialties. 
+In contrast, there is far less display of success rates and outcomes data on the surgeries done.
+Another relevant factor is the vast gap in the doctor–patient ratio, which further translates to on-ground perceptions of 
+a lack of time available for capturing and publishing quality data. A majority of the caregivers and providers seem to 
+perceive a choice between care provision and capture of quality outcomes which is not necessarily the actual option. 
+There appear to be only a few caregivers who have a progressive, team practice mindset, where technology as well 
+as human resources can be optimally utilised for consistent capture of outcomes. Next comes the progressive 
+milestone where we believe that there should be an initiation of a framework for the assessment and publishing of 
+data with reasonable confidentiality, which should in-turn translate into the VBHC concept of incentivisation of 
+healthcare providers who have achieved quality outcomes.
+5. Nascency of a defined framework for assessing and incentivising quality for payers and 
+policy makers
+The current framework for assessing and incentivising quality consists mainly of the fact that the healthcare provider 
+has a NABH accreditation, including quality standards for hospitals and healthcare providers. Payers across the 
+country have a certain percentage of incentivised reimbursement mechanisms for providers who have accreditation. 
+The IRDAI has also mandated that hospitals offering cashless services have to meet at least the pre-accreditation 
+entry-level standards laid down by the NABH.
+Owing to this accreditation, the healthcare provider would have to capture a stipulated number of KPIs, which would 
+encompass various areas across the hospital. However, the need of the hour is that such quality consciousness must 
+progress towards capturing the quality-of-outcomes data, which would be a more objective way to measure quality. It 
+seems like the foundations have been laid to progress towards capturing outcomes data.
+The policy makers need to collaborate and brainstorm to define a comprehensive framework for assessing the quality 
+of outcomes and link them to incentives given by payers.
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+33
+08
+The road ahead 
+21 https://www.niti.gov.in/sites/default/files/2023-02/InvestmentOpportunities_HealthcareSector.pdf
+22 https://pmc.ncbi.nlm.nih.gov/articles/PMC10890901/
+India’s healthcare landscape is changing its approach and adopting VBHC which prioritises health outcomes and 
+delivers quality, cost-effective healthcare. Since the healthcare sector is adapting to this tectonic shift, there is a pressing 
+need to address the diasporic healthcare access in rural areas and extending the concentrated healthcare infrastructure 
+in metropolitan cities to tier 2/3 cities and rural areas. Leveraging digital health technologies, public–private partnerships 
+and health regulatory frameworks are pivotal in ensuring a smooth transition to VBHC. Following a roadmap outlines 
+strategic initiatives to enhance quality healthcare access across the country.
+Healthcare providers can capitalise on the growing momentum in VBHC by accelerating the adoption of 
+new payment models like bundled payments, capitation models, shared risk models, etc. instead of 
+lingering on conventional FFS models. Additionally, adopting newer VBHC models pushes providers with a 
+legacy system to invest in modern technologies and solutions further accelerating this transition from the 
+FFS model. However, complex payment models should enable risk sharing, transparency and 
+accountability between providers and payers for sustainable adoption.
+Willingness to adopt new payment models
+According to the NITI Aayog, 60% of the country’s health infrastructure is pocketed in metropolitan cities, 
+leaving rural areas untouched and fragmented. Public–private models can be a potential alternative in 
+enabling private players in tier 2 and 3 cities to access healthcare services that help serve the unmet needs 
+of underserved populations.21
+CSR budgets can be actively channelled to boost healthcare infrastructure investments. This can include 
+procuring new medical equipment, modernising existing healthcare facilities or introducing healthcare 
+solutions. The collaborative PPP approach helps in the advanced integration of healthcare technologies in 
+the rural regions, which are diasporic and disparate between public and private hospitals. This integration of 
+technologies enables the collection, storage and analysis of patient data seamlessly empowering providers 
+to deliver a more patient-centric care environment.22
+Encouraging public–private partnership models
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+34
+India’s digital healthcare market is projected to have a CAGR of 23.8% in the next five years where key 
+areas like telemedicine, AI and EHRs gain importance in ensuring transition to VBHC.
+During the COVID-19 pandemic, telemedicine was a common mode of healthcare delivery for primary care 
+irrespective of geographical distribution. It encouraged patients and doctors to coordinate throughout the 
+episode of care, which facilitated effective interventions, consequently reducing emergency room visits. 
+ EHRs continuously document the patient’s touch points with healthcare and administrative professionals 
+throughout their treatment journey. Healthcare providers can leverage EHRs in identifying data patterns for 
+characterising the health status, which helps them make informed decisions on optimising better outcomes 
+at lower costs.
+AI-enabled diagnostics can undoubtedly accelerate the adoption of VBHC in India. Advanced AI algorithms 
+in the market have the inherent capability to assess extensive real-time datasets in forecasting disease 
+outbreaks, rate of patient health deterioration, hospital readmission frequencies, etc. For this, a healthtech 
+organisation collaborated with a leading healthcare provider in anticipating acute kidney injury. Such 
+collaboration not only resulted in good prediction models but also excelled in recommending personalised 
+treatment plans based on individual health indicators.
+Accelerating digital health adoption
+In India, the legal and regulatory landscape is gradually aligning with adopting VBHC through health 
+outcome-focused payment models. Particularly, government bodies and healthcare organisations 
+continuously strive towards benchmarking various VBHC models available across the globe and 
+implementing the same. The introduction of new government policies, programmes and incentives related 
+to healthcare are already signalling the healthcare providers and payers to capitalise on the opportunities to 
+adopt VBHC models. As per the current scenario, the Indian government supports VBHC models through 
+programmes like Ayushman Bharat and PM-Jay targeting the bottom 40% of the population in terms of 
+socio-economic status.23
+Legal and regulatory landscape
+India can provide further impetus to the healthcare 
+system by adopting health data frameworks 
+aligning with best practices. For example, 
+adopting frameworks like SNOMED CT and ICD 
+provides guidelines for health data formatting, 
+formal terminologies and coding system 
+standards, which are now free for use in the 
+country.24 Nevertheless, it is necessary to 
+designate an unbiased formal agency to validate 
+the interoperability of available healthcare 
+products and solutions as well as their data 
+integrity. For example, despite several IT solutions 
+asserting their compliance with HL7 standards, 
+they failed in interoperability post-implementation. 
+Hence, the government must make major efforts 
+to standardise health data, nominating dedicated 
+agencies to ensure robust interoperability. This set 
+of agencies, regulations and implementing role-
+based access control systems provide a sense of 
+confidence to the various healthcare providers 
+that recorded/shared data between entities by 
+remaining unaltered and uncompromised.
+Policy development focusing on interoperability and data integrity
+23 https://abdm.gov.in:8081/uploads/VBHC_Policy_Document_For_Upload_a20f871a55.pdf
+24 https://pmc.ncbi.nlm.nih.gov/articles/PMC5116537/
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+35
+According to the survey, the most critical factor for a 
+successful and smooth transition to VBHC in India is 
+developing robust policies and regulations (23.39%), 
+followed by providing adequate funding and creating 
+financial incentives for providers (21.05%), developing 
+and integrating advanced technology data 
+platforms(20.47%), implementing comprehensive 
+training programmes (18.71%) and increasing efforts to 
+inform and engage patients about their healthcare 
+choices (15.20%).
+Increasing public investments in 
+healthcare technologies
+Limited ICT infrastructure has always been a primary 
+challenge to India’s public hospitals and dispensaries, 
+which is even more intense in remote areas. Only 
+established institutions like AIIMS and PGIMER have 
+better access and connectivity. However, many 
+healthcare facilities with a higher footfall still lack basic 
+connectivity and resources. The situation underscores 
+the need for substantial investments in the latest health-
+related hardware and software technologies. Due to the 
+large population of the country, adopting a free and 
+open-source software strategy could help organisations 
+in the implementation of quality technologies at 
+hospitals, clinics and individual practitioners. Many 
+nations have established communication networks 
+which connect healthcare facilities to enable safe and 
+trustworthy exchange of health-associated information. 
+Building on current frameworks is necessary for which 
+the government should fuel funding for the creation of 
+such add-on networks.25
+1.17%
+15.20%
+18.71%
+20.47%
+21.05%
+23.39%
+0.00%
+5.00%
+10.00%
+15.00%
+20.00%
+25.00%
+Other
+Increasing efforts to inform and engage patients about their
+healthcare choices and the benefits of value-based care
+Implementing comprehensive training programmes for
+healthcare providers to adapt to new care delivery models
+Developing and integrating advanced technology and data
+platforms to support data sharing, outcome measurement,
+and informed decision-making
+Providing adequate funding and creating financial incentives
+for providers to adopt and sustain value-based care models
+Developing robust policies and regulations that support the
+transition to VBHC
+Figure 12: What do you think are the critical success factors for a smooth transition to VBHC 
+in India?
+Source: PwC Survey 2025
+25 https://esanjeevani.mohfw.gov.in/assets/guidelines/ehr_guidlines.pdf
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+36
+09
+Conclusion 
+In a highly competitive market where healthcare expenditures continue to grow, payers and healthcare providers need to 
+balance affordable pricing and high-quality care. Payers can leverage partnerships with providers to improve the 
+coordination of care, reduce costs and enhance outcomes for both healthcare providers and patients. Developing 
+databases which can share information seamlessly and securely across the healthcare sector’s network is the need of 
+the hour to establish a VBHC model and provide value-based healthcare for the country. 
+PwC India’s extensive experience in designing data-driven VBHC solutions that reduce medical expenditures and 
+improve the quality of care could help navigate the challenges of adopting VBHC for both the providers as well as 
+the payers. 
+Capability analysis
+VBHC operating 
+model design
+VBHC Transition 
+Framework
+Performance analysis
+Technology 
+enablement
+Change 
+management
+Figure 13: How PwC can help in transition to VBHC model
+Source: PwC analysis
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+37
+10
+Glossary
+S no.
+Abbreviation
+Full form
+1
+AB PM-JAY 
+Ayushman Bharat Pradhan Mantri Jan Arogya Yojana
+2
+ACA 
+Accountable Care Act
+3
+ACO 
+Accountable Care Organization
+4
+ABDM 
+Ayushman Bharat Digital Mission
+5
+AI 
+Artificial intelligence
+6
+CAUTI 
+Catheter-associated urinary tract infections
+7
+CAGR 
+Compound annual growth rate
+8
+CDSS 
+Clinical decision support systems
+9
+CHIP 
+Children's Health Insurance Programme
+10
+CSR 
+Corporate social responsibility
+11
+DRG 
+Diagnosis-related group
+12
+EHR 
+Electronic health records
+13
+EMR 
+Electronic medical records
+14
+FFS 
+Fee-for-service
+15
+HeFTA 
+Health financing and technology assessment
+16
+HBP 
+Health benefit package
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+38
+S no.
+Abbreviation
+Full form
+17
+HIE 
+Health information exchange
+18
+HIS 
+Hospital information system
+19
+HL7 
+Health Level Seven International
+20
+ICD 
+International classification of diseases
+21
+IHI 
+Institute for Healthcare Improvement
+22
+IPC 
+Infection prevention and control
+23
+IoT 
+Internet of things
+24
+JCI 
+Joint Commission International
+25
+KPI 
+Key performance indicator
+26
+LOS 
+Length of stay
+27
+MACRA 
+Medicare Access and CHIP Reauthorization Act
+28
+ML
+Machine learning 
+29
+MoHFW
+Ministry of Health and Family Welfare
+30
+NABH 
+National Accreditation Board for Hospitals and Healthcare Providers
+31
+NCD 
+Non-communicable diseases
+32
+NITI Aayog 
+National Institution for Transforming India Aayog
+33
+NPS 
+Net promoter score
+34
+NQF 
+National Quality Forum
+35
+PCMH 
+Patient-centred medical home
+36
+PLI
+Production Linked Incentive
+37
+PMPM 
+Per member per month
+38
+PPP 
+Public-private partnership
+39
+PROMs 
+Patient reported outcome measures
+40
+PTCA 
+Percutaneous Transluminal Coronary Angioplasty
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+39
+S no.
+Abbreviation
+Full form
+41
+QOF 
+Quality outcomes framework
+42
+QPP 
+Quality payment programme
+43
+RCM 
+Revenue cycle management
+44
+SNOMED CT 
+Systematised nomenclature of medicine clinical terms
+45
+SSI 
+Surgical site infection
+46
+VBHC 
+Value-based healthcare
+47
+WHO 
+World Health Organization
+PwC | Quality measures and standards for transitioning to value-based healthcare in India
+39
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 151 countries 
+with over 360,000 people who are committed to delivering quality in assurance, advisory and tax services. Find out more 
+and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. 
+Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+Contact us
+Abhishek Singh Tejpal, Varun Karwa, Subhodeep Ganguly, Samuel Sunderarajan, Akshay Ramani, Rashika Nandwani, 
+Pavlin Kaur Johar, Deepak Singh, Shivaharshan Saravanan, Chaturya Chinta
+ 
+ 
+ 
+ 
+Authors
+Rubina Malhotra
+Editor
+Kanagavathi Murugaiah
+Design
+Rajiv Sabharwal
+HealthTech Leader
+PwC India
+rajiv.r.sabharwal@pwc.com
+Sayantan Chatterjee
+Executive Director Digital Strategy
+PwC India
+sayantan.chatterjee@pwc.com
+Dr Preet Matani
+Executive Director, Healthcare Industry
+PwC India
+preet.matani@pwc.com
+Dr Rana Mehta
+Healthcare Leader
+PwC India 
+rana.mehta@pwc.com
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate 
+Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited 
+(PwCIL), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources 
+believed by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is 
+accurate or complete. Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are 
+subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any 
+course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither 
+accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or 
+for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.
+KA/March 2025-M&C 44272
