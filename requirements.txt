@@ -1,9 +1,9 @@
-streamlit==1.24.1
-pandas==2.0.3
-umap-learn==0.5.3
-plotly==5.14.1
-numpy==1.24.3
-hdbscan==0.8.29
+streamlit
+pandas
+umap-learn
+plotly
+numpy
+hdbscan
 openai==0.28
-python-dotenv==1.0.0
-markdown==3.4.3
+python-dotenv
+markdown
